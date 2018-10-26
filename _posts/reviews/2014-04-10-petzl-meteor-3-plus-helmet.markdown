@@ -1,13 +1,8 @@
 ---
 title: Petzl Meteor 3+ Helmet Review
-description: Petzl Meteor 3+ - A helmet for Packrafting and Climbing
 date: 2014-04-17 18:01:01
 category: reviews
-tags:
-  - reviews
-  - petzl
-  - helmet
-  - packrafting
+tags: Petzl Meteor 3+ Helmet Review
 layout: post
 image: https://farm8.staticflickr.com/7383/13884350431_55197840aa_b.jpg
 ---

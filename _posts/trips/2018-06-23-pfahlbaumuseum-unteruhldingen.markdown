@@ -1,6 +1,5 @@
 ---
 title: Pfahlbau Museum Unteruhldingen
-description: Visiting the Pfahlbau Museum in Unteruhldingen
 date: 2018-09-01 01:14:01
 category: destinations
 tags:

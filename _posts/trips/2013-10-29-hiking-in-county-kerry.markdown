@@ -1,6 +1,5 @@
 ---
 title: Hiking in County Kerry
-description: Our adventure to the highest mountain of Ireland.
 date: 2013-10-29 07:30:00
 category: destinations
 tags:
@@ -11,7 +10,7 @@ layout: post
 image: https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg
 ---
 Three years ago (2010), I went working to Ireland for 1 year where I also had the opportunity to go for a hike nearby Killarney with two of my fellow worker. The landscape was gorgeous and not comparable to Dublin where I actually lived. After visiting the local tourist office we started hiking equipped with maps and some snacks in our backpacks.
-<br>
+  
 <!--more-->
 
 ## Day 1: Ascent to Corrán Tuathail

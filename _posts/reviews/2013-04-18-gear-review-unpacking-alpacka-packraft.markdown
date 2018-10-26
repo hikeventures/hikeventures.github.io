@@ -1,6 +1,5 @@
 ---
 title: Alpacka Packraft Yukon Yak Review
-description: Alpacka Packraft Yukon Yak Review
 date: 2013-04-18 07:30:00
 category: reviews
 tags:

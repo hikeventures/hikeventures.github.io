@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Playing in a Giant Sandpit or a Short Visit to Drents-Friese Wold National Park
-description: A microadventure in the North of the Netherlands
 date: 2016-10-21 00:30:00
 category: destinations
 tags:
@@ -21,7 +20,7 @@ image: https://c7.staticflickr.com/9/8410/29825366374_8a30bcf886_h.jpg
 
 > Marta walking in the biggest sandpit of the Netherlands, also known as the 'bold' dune ('kale duin' in Dutch)
 
-<br>
+  
 <!--more-->
 
 

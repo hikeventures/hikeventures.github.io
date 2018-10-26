@@ -1,6 +1,5 @@
 ---
 title: Best screen protectors for Sony A7III / A7SII / A7RII / A9 / a6000 / a6300 and a6500
-description: A selection of the best screen protectors for Sony cameras
 date: 2016-10-31 05:43:52
 category: articles
 image: https://c1.staticflickr.com/3/2829/11856929704_c0e64fb9db_b.jpg
@@ -23,7 +22,7 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 ---
 
 <img src="https://c1.staticflickr.com/3/2829/11856929704_c0e64fb9db_b.jpg" width="1024" height="699" alt="Best Screen Protectors for Sony a7, a7S, a7R, a6000, a6300 and a6500" >
-<br>
+  
 <!--more-->
 
 <hr>

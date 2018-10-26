@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hiking and Packrafting in Northern Norway - Finnmark
-description: A hiking and packrafting adventure in Northern Norway.
 date: 2016-08-02 07:30:00
 category: destinations
 tags:
@@ -18,7 +17,7 @@ After our [packrafting trip](http://www.hikeventures.com/Kaldoaivi/) in Finnish 
 
 <img src="https://c6.staticflickr.com/9/8864/28716097805_72fe8dc689_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Norway" >
 
-<br>
+  
 <!--more-->
 
 The border between Finland and Norway is nothing special. There was a custom office but no passport control. I jumped out of the car as I always wanted to walk over the Finnish - Norwegian border.

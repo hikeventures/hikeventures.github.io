@@ -1,6 +1,5 @@
 ---
 title: Katadyn Mini Water Filter Review
-description: Katadyn Mini Water Filter - Your next water filter
 date: 2013-03-14 07:30:00
 category: reviews
 tags:

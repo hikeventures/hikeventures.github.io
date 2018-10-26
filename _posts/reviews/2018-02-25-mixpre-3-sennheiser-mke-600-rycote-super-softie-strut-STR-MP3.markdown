@@ -1,6 +1,5 @@
 ---
 title: Testing the Sound Devices MixPre-3, Sennheiser MKE 600, Rycote Super Softie and Strut STR-MP3
-description: A short test of my audio recorder equipment
 date: 2018-02-28 07:30:00
 category: reviews
 tags:

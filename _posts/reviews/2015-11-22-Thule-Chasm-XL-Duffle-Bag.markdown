@@ -1,6 +1,5 @@
 ---
 title: Thule Chasm XL Duffle Bag Review – Carry Big, Store Small
-description: Thule Chasm XL Duffle Bag Review
 date: 2015-11-23 07:30:00
 category: reviews
 tags:

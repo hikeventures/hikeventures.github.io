@@ -1,12 +1,8 @@
 ---
 title: Exped SynMat UL 7 Review
-description: Light and comfortable sleeping pad for the great outdoors - SynMat UL 7 Review
 date: 2014-08-17 19:59:41
 category: reviews
-tags:
-  - reviews
-  - exped
-  - sleeping pads
+tags: Exped SynMat UL Review
 layout: post
 image: https://farm4.staticflickr.com/3845/14948191975_987d92e79c_b.jpg
 ---

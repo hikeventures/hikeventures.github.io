@@ -1,7 +1,6 @@
 ---
 published: false
 title: Packrafting in Leeuwarden
-description: Packrafting in Leeuwarden
 date: 2018-09-10 18:14:01
 category: destinations
 tags:
@@ -15,7 +14,7 @@ image: https://farm2.staticflickr.com/1860/30726461748_b6f4e7de82_b.jpg
 ---
 
 <img src="https://farm2.staticflickr.com/1860/30726461748_b6f4e7de82_b.jpg" width="1024" height="769" alt="Packrafting in Leeuwarden">
-<br>
+  
 <!--more-->
 
 <img src="https://farm2.staticflickr.com/1854/42786900350_d080967c33_b.jpg" width="1024" height="768" alt="Packrafting in Leeuwarden">

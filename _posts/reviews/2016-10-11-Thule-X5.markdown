@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Thule Atmos X5 for iPhone 6 and 6s Review
-description: Our review on the Thule X5 watertight phone case
 date: 2016-10-11 04:30:00
 category: reviews
 tags:

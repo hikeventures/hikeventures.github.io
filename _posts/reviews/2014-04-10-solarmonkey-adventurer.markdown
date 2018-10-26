@@ -1,12 +1,8 @@
 ---
 title: Solarmonkey Adventurer
-description: Powertraveler Solar Monkey Adventurer Panel Review
 date: 2014-04-15 16:33:34
 category: reviews
-tags:
-  - reviews
-  - powertraveler
-  - solar
+tags: olarmonkey Adventurer review
 layout: post
 image: https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg
 ---

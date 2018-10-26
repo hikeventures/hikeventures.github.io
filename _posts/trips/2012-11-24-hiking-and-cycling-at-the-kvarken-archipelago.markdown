@@ -1,6 +1,5 @@
 ---
 title: What to see at the Kvarken Archipelago?
-description: A few ideas on what you can see at the Kvarken Archipelago
 date: 2012-11-25 07:30:00
 category: destinations
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Inov-8 Roclite 295 Review
-description: Inov-8 Roclite 295 Review
 date: 2013-03-21 07:30:00
 category: reviews
 image: https://farm9.staticflickr.com/8522/8571446825_e8ed0fc70f_b.jpg

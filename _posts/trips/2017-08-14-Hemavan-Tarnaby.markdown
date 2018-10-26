@@ -1,6 +1,5 @@
 ---
 title: Hiking and Packrafting in Hemavan Tärnaby
-description: Our hiking and packrafting adventure in Hemavan Tärnaby
 date: 2017-08-14 08:14:01
 category: destinations
 tags:
@@ -17,7 +16,7 @@ Our packrafting adventure in the Hemavan Tärnby area started where the Kungsled
 Some of the highlights of this trip were reindeer, eagles circling in the sky and a packraft which went down a waterfall.
 
 <img src="https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting Hemavan Tärnaby" >
-<br>
+  
 <!--more-->
 
 After passing Hemavan with our car along the Blå vägen, we had a short stop on a waterfall where Jeremie was planning to raft down on the last day.
@@ -59,7 +58,7 @@ Since I recently got my Hilleberg Unna Inner Mesh Tent, I was also able to enjoy
 And then it was time to watch the sun going down (even so it did not really get dark)
 
 <img src="https://farm5.staticflickr.com/4442/35667608044_4f8fd90c83_k.jpg" width="2048" height="751" alt="Sunset Hemavan Tärnaby" >
-<br>
+  
 <img src="https://farm5.staticflickr.com/4393/36502510075_3918663192_k.jpg" width="2048" height="936" alt="Sunset Hemavan Tärnaby" >
 
 The next morning I woke up at 7 am. Again we had a fantastic sunny weather.
@@ -129,11 +128,11 @@ The next morning the sun was hiding behind the clouds and we had to pack our ten
 There were a few nice spots on the rapid where we gained some speed.
 
 <img src="https://farm5.staticflickr.com/4361/36365209111_3b9089b361_k.jpg" width="2048" height="996" alt="rapid packrafting Hemavan Tärnaby" >
-<br>
+  
 <img src="https://farm5.staticflickr.com/4437/35693628623_f80def20cf_k.jpg" width="2048" height="823" alt="rapid packrafting Hemavan Tärnaby" >
-<br>
+  
 <img src="https://farm5.staticflickr.com/4384/36105601570_1c5f514e41_k.jpg" width="2048" height="934" alt="rapid packrafting Hemavan Tärnaby" >
-<br>
+  
 <img src="https://farm5.staticflickr.com/4361/36105650000_d52c90a690_k.jpg" width="2048" height="955" alt="rapid packrafting Hemavan Tärnaby" >
 
 As the sun was very intense in the afternoon it was probably also a good idea to use sun lotion. However, I forgot mine at home.

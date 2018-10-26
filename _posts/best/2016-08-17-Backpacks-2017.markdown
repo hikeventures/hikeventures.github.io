@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Best hiking and backpacking backpacks for 2018
-description: Need a new backpack for your next outdoor adventure? Here are a selection of the latest models for 2018.
 date: 2018-01-01 07:30:00
 category: articles
 image: https://farm2.staticflickr.com/1855/29463765917_8bc3d3ca37_b.jpg
@@ -74,7 +73,7 @@ For a multi-day hiking trip you should get probably the largest size possible (d
 </tbody>
 </table>
 </div>
-<br>
+  
 
 <!--more-->
 

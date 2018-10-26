@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Packrafting in Scotland - River Dee - Day 2 and 3
-description: Our February packrafting adventure in Scotland Day 2 and 3.
 date: 2016-07-19 07:30:00
 category: destinations
 tags:

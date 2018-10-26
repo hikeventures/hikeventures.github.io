@@ -1,6 +1,5 @@
 ---
 title: Best Satellite Messenger, Locator and Personal Beacon 2018
-description: Planning to go hiking in the remote wilderness? Be prepared to get help with a GPS Satellite Messenger.
 date: 2016-01-03 12:35:07
 update_date: 2018-01-07 06:00:52
 category: articles
@@ -22,7 +21,7 @@ Garmin owns DeLorme since 2016, and the Garmin InReach Explorer+ and SE+ series 
 In the picture below you can see the old DeLorme InReach Explorer in his yellow case attached to the backpack.
 
 <img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683"  alt="Best Satellite Messenger, Locator and Personal Beacon 2018" >
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">GPS messenger comparison table</a>
@@ -54,7 +53,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
       </table>
   </div>
 
-<br>
+  
 
 ## Garmin InReach Mini
 
@@ -75,7 +74,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 <a rel="nofollow" href="https://amzn.to/2Ks75Zs" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+  
 
 ## ACR ResQlink+ 406
 
@@ -91,7 +90,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 <a rel="nofollow" href="http://amzn.to/2CPAapW" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
-<br>
+  
 
 ## Garmin InReach Explorer+
 
@@ -105,7 +104,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 <a rel="nofollow" href="http://amzn.to/2F4zPWq" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+  
 
 ## Garmin InReach SE+
 
@@ -127,7 +126,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 <a rel="nofollow" href="http://amzn.to/2CQQ0k7" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+  
 
 ## SPOT Gen3
 
@@ -142,7 +141,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 <a rel="nofollow" href="hhttp://amzn.to/2CTR4Uw" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+  
 
 ## Conclusion
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First Swedish Packrafting Round-Up 2016
-description: The first Swedish Packrafting Round-Up at the river Voxnan
 date: 2016-05-13 07:30:00
 category: destinations
 tags:
@@ -17,7 +16,7 @@ There was plenty of Hyperlite Mountain Gear around like the Hyperlite Mountain G
 
 
 <img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="First Swedish Packrafting Round-Up 2016" >
-<br>
+  
 <!--more-->
 
 

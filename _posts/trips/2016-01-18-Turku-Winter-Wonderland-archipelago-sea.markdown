@@ -1,6 +1,5 @@
 ---
 title: Turku Winter Wonderland at the Archipelago Sea
-description: A winter hike in Ruissalo Turku
 date: 2016-01-18 06:00:19
 category: destinations
 tags:
@@ -14,7 +13,7 @@ image: https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg
 Last weekend we got plenty of snow in Turku and I seized the opportunity to rush out with my camera to take some pictures. First I went to the city centre but then decided to drive to Ruissalo which is also a cool place during the summer time. 
 
 <img src="https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg" width="1024" height="681" alt="Turku Winter Wonderland at the Archipelago Sea" >
-<br>
+  
 <!--more-->
 
 

@@ -1,6 +1,5 @@
 ---
 title: Best Places to go hiking and packrafting in 2018
-description: Places we would like to visit 2018 to go hiking
 date: 2017-12-31 14:30:52
 category: articles
 image: https://c5.staticflickr.com/8/7737/28408870540_3fd8554e5f_b.jpg
@@ -13,7 +12,7 @@ layout: post
 In this post we have selected the best places for us to go hiking and packrafting in 2018. We will probably add a few more trips through the year.
 
 <img src="https://c5.staticflickr.com/8/7737/28408870540_3fd8554e5f_b.jpg" width="1024" height="683" alt="Best Places to go hiking and packrafting in 2018" layout="responsive">
-<br>
+  
 <!--more-->
 
 # Austria

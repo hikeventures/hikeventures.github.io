@@ -1,6 +1,5 @@
 ---
 title: Hilleberg Anjan Review
-description: Hillebergs three season tent.  The Anjan Tent Review.
 date: 2013-04-14 07:30:00
 category: reviews
 tags:

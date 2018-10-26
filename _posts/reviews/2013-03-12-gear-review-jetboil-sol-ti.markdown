@@ -1,6 +1,5 @@
 ---
 title: Jetboil Sol Ti Review
-description: A review about the Jetboil Sol Ti camping stove.
 date: 2013-03-12 07:30:00
 categories: Gear Reviews
 category: reviews

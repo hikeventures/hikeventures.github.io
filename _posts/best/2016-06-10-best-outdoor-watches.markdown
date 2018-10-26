@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Best GPS watches for hiking and backpacking 2018
-description: Our selection of the best outdoor smartwatch for 2018.
 date: 2016-06-10 13:46:20
 update_date: 2017-01-15 06:00:52
 category: articles
@@ -22,7 +21,7 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 
 
 <img src="https://farm2.staticflickr.com/1874/44401347201_84d8688688_b.jpg" width="1024" height="680" alt="Best GPS watch 2018">
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -68,7 +67,7 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 </tbody>
 </table>
 </div>
-<br>
+  
 
 
 ## Apple Watch Series 2 Sport 42mm

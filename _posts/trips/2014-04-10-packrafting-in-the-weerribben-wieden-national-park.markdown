@@ -1,6 +1,5 @@
 ---
 title: Packrafting in the Weerribben-Wieden National Park
-description: Packrafting in one of the Netherlands National Parks
 date: 2014-04-23 10:01:51
 category: destinations
 tags:
@@ -15,7 +14,7 @@ image: https://farm3.staticflickr.com/2903/13975110902_2cb3fb1ba3_b.jpg
 Beginning of April we went to De Weerribben-Wieden National Park in the Netherlands for a hiking and packrafting session where we observed birds and encountered hail.
 
 <img src="https://farm3.staticflickr.com/2903/13975110902_2cb3fb1ba3_b.jpg" width="1024" height="683" alt="Packrafting in the Weerribben-Wieden National Park" >
-<br>
+  
 <!--more-->
 
 The Weerribben-Wieden National Park was founded in 1882 and and parts of the area were used for peat production which are nowadays

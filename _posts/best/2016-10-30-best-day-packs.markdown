@@ -1,6 +1,5 @@
 ---
 title: Best Hiking Daypacks for 2018
-description: Are you planning to go on a day hike? Here is our selection of the best lightweight daypacks for 2018
 date: 2016-10-30 20:43:52
 update_date: 2016-12-30 23:30:52
 category: articles
@@ -21,7 +20,7 @@ A day pack weights much less than a regular backpack and you will be able to enj
 I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.
 
 <img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2018" >
-<br>
+  
 <!--more-->
 ## <a rel="nofollow" name="table">Weight comparison table</a>
 
@@ -67,7 +66,7 @@ I have included a broad range of day packs. Some are more durable or offer more 
       </table>
 </div>
 
-<br>
+  
 
 ## Marmot Kompressor Plus
 

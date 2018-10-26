@@ -1,6 +1,5 @@
 ---
 title: Turku Archipelago
-description: Packrafting in the Turku Archipelago
 date: 2018-05-21 09:14:01
 category: destinations
 tags:

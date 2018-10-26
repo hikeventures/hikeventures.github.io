@@ -1,6 +1,5 @@
 ---
 title: Packrafting River Bóbr in Poland
-description: Exploring River Bóbr with our packrafts
 date: 2015-07-14 22:12:07
 category: destinations
 tags:
@@ -14,7 +13,7 @@ After we had a 3 hours drive from Poznan to Jelenia Góra we finally reached our
 
 <img src="https://farm4.staticflickr.com/3750/18948496954_b57ac5e3fd_o.jpg" width="992" height="744" alt="packrafting alpacka raft werner shuna" >
 
-<br>
+  
 <!--more-->
 
 The river itself was quite nice to paddle even though there were no rapids before the dam. However, it was a good opportunity for me to test my new <a rel="nofollow" href="http://amzn.to/1O4ro7c">GoPro Hero 4</a> and a mount which Konstantin assembled for me (the idea itself comes from the <a rel="nofollow" href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and has worked already quite well on Konstantins Packraft.

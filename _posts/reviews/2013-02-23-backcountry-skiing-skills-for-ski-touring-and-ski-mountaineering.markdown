@@ -1,6 +1,5 @@
 ---
 title: Backcountry Skiing - Skills for Ski Touring and Ski Mountaineering
-description: Our review about the Backcountry Skiing book
 date: 2013-02-23 07:30:00
 category: reviews
 tags:

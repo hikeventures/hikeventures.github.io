@@ -1,12 +1,8 @@
 ---
 title: Leatherman Style CS Review
-description: Our Review for the Leatherman Style CS - outdoor tool
 date: 2014-04-08 08:34:58
 category: reviews
-tags:
-  - reviews
-  - leatherman
-  - knives
+tags: Leatherman Style CS Review
 layout: post
 image: https://farm4.staticflickr.com/3704/13711116474_6cde7a3b97_b.jpg
 ---

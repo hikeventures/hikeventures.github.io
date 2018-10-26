@@ -1,6 +1,5 @@
 ---
 title: The Alpha PFD by Palm Equipment - Review
-description: Testing the Palm Equipment Alpha PFD
 date: 2018-09-23T13:14:01.000Z
 category: destinations
 tags:

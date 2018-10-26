@@ -1,6 +1,5 @@
 ---
 title: Primus PowerLighter Review
-description: Primus PowerLighter Review
 date: 2017-09-23 07:30:00
 category: reviews
 tags:

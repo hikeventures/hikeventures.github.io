@@ -1,6 +1,5 @@
 ---
 title: Katabatic Gear Chisos Review
-description: Katabatic Gear Chisos Review
 date: 2013-05-12 07:30:00
 category: reviews
 tags:

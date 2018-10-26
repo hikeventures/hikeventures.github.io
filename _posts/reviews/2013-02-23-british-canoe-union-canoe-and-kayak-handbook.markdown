@@ -1,6 +1,5 @@
 ---
 title: British Canoe Union - Canoe and Kayak Handbook Review
-description: Our review of a Canoe and Kayak Handbook
 date: 2013-02-23 07:30:00
 category: reviews
 tags:

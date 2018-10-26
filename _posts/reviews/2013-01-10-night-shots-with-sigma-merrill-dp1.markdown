@@ -1,6 +1,5 @@
 ---
 title: Night shots with Sigma Merrill DP1
-description: Photography in the night with the Sigma Merrill DP1
 date: 2013-01-10 07:30:00
 category: reviews
 tags:

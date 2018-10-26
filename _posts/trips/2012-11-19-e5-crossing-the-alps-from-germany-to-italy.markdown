@@ -1,6 +1,5 @@
 ---
 title: e5 - Crossing the Alps from Germany to Italy
-description: Walking from Germany to Italy. Our 6 days adventure in the Alps.
 date: 2012-11-25 07:30:00
 category: destinations
 tags:

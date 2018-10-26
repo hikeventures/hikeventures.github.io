@@ -1,12 +1,8 @@
 ---
 title: Exped Air Pillow UL Review
-description: Ultralight air pillow for the great outdoors - Exped Air Pillow UL Review
 date: 2014-08-18 21:06:55
 category: reviews
-tags:
-  - reviews
-  - exped
-  - sleeping pads
+tags: Exped Air Pillow UL Review
 layout: post
 image: https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg
 ---

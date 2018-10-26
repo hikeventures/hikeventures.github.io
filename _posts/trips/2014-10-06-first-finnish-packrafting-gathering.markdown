@@ -1,6 +1,5 @@
 ---
 title: First Finnish Packrafting Gathering
-description: Short review of the first Finnish Packrafting Gathering in Finland
 date: 2014-10-06 08:30:40
 category: destinations
 tags:
@@ -15,7 +14,7 @@ Last weekend I have been to the first Finnish Packrafting Gathering in Finland w
 
 <img src="https://farm4.staticflickr.com/3933/15455162392_6e03ca6687_b.jpg" width="952" height="635" alt="First Finnish Packrafting Gathering" >
 
-<br>
+  
 <!--more-->
 
 We met at the Kuovinkallio shelter on Friday evening at around 6 pm where we pitched our tents and gathered around the camp fire to grill sausages while others went already paddling for an hour.

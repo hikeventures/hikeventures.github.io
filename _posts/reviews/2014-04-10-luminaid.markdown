@@ -1,12 +1,8 @@
 ---
 title: LuminAID Review
-description: luminAid - An inflatable solar light for your hiking trip
 date: 2014-04-22 18:40:05
 category: reviews
-tags:
-  - reviews
-  - luminaid
-  - lights
+tags: LuminAID Review
 layout: post
 image: https://farm8.staticflickr.com/7381/13970539645_6d777e495b_c.jpg
 ---

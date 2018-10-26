@@ -1,6 +1,5 @@
 ---
 title: Best USB-C monitor for Macbook Pro 2018
-description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro 2017
 date: 2018-01-21 05:28:01
 category: best
 image: https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg
@@ -19,7 +18,7 @@ In the past I had a 27" HD monitor to edit my pictures but since I am planning t
 
 <img src="https://farm2.staticflickr.com/1865/30533096008_8d1b265196_b.jpg" width="1024" height="768" alt="Best USB-C Monitor for Macbook Pro 2018">
 
-<br>
+  
 <!--more-->
 
 I really like the idea to have less cables on my desk so USB-C would be a really nice feature.
@@ -58,7 +57,7 @@ There would be no need to plug and unplug USB cables anymore on the MacBook Pro.
 </table>
 </div>
 
-<br>
+  
 
 
 ## LG 27UD68P

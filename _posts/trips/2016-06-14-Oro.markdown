@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Örö Fortress Island - A Mediterranean gem in Finland
-description: A packrafting adventures in the Finnish Archipelago.
 date: 2016-06-14 07:30:00
 category: destinations
 tags:
@@ -16,7 +15,7 @@ The gear is packed. The packrafts are inflated. The sails are ready. And so we a
 
 <img src="https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg" width="1024" height="768" alt="Örö Fortress Island - A Mediterranean gem in Finland" >
 
-<br>
+  
 <!--more-->
 
 

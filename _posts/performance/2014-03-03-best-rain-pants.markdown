@@ -1,7 +1,5 @@
 ---
 title: Best Rain Pants 2018
-description: Top 6 of the best Waterproof pants 2017 which protects you during your outdoor
-  adventures
 date: 2015-02-08T09:13:12.000Z
 update_date: 2018-01-13T06:00:52.000Z
 category: articles
@@ -20,7 +18,7 @@ categories:
 Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight rain pants of 2018 for your next hiking or backpacking adventure. Also have a look on my selection of the best <a rel="nofollow" href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> for your next trip.
 
 <img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2018" >
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -80,7 +78,7 @@ Also, have a look on our [rain pants FAQs](#faq-on-rain-pants).
 
 <a rel="nofollow"  href="http://www.amazon.com/gp/product/B00GV31UGI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV31UGI&linkCode=as2&tag=hikeve-20&linkId=HNWG2CPEBZ3YDLI7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV31UGI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV31UGI" width="1" height="1" border="0" alt="Arcteryx Beta SL Pants" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 9.2 oz. / 260 grams<br>
+**Weight**: 9.2 oz. / 260 grams  
 **Fabric**: N40r GORE-TEX fabric with PacLite
 
 SL stands for Super Light in the Arc’teryx product range.
@@ -95,7 +93,7 @@ This model is reinforced in major wear areas, has articulated knees but only com
 
 <a rel="nofollow" href="https://www.amazon.com/Haglofs-L-I-M-III-Running-Pants/dp/B00INIPI76/ref=as_li_ss_il?ie=UTF8&qid=1499894146&sr=8-1-fkmr1&keywords=Hagl%C3%B6fs+L.I.M.+III+pants&linkCode=li3&tag=hikeve-20&linkId=068194351a62e5a33f7150efbbf3fe3a" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00INIPI76&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00INIPI76" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 7.9 oz. / 225 grams<br>
+**Weight**: 7.9 oz. / 225 grams  
 **Fabric**: GORE-TEX PacLite
 
 The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and are quite popular in Scandinavia.
@@ -110,7 +108,7 @@ The zippers on the legs help to put those pants on while wearing hiking boots.
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B000HGR5P0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000HGR5P0&linkCode=as2&tag=hikeve-20&linkId=8da6e6303e4680b7c4dcd71cab8d0a16"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000HGR5P0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B000HGR5P0" width="1" height="1" border="0" alt="Marmot PreCip Full-Zip Rain Pants" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 12 oz. / 340 grams<br>
+**Weight**: 12 oz. / 340 grams  
 **Fabric**: NanoPro™
 
 
@@ -130,7 +128,7 @@ Those pants allow easy on/off without removing boots.
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B00LOWP0FI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LOWP0FI&linkCode=as2&tag=hikeve-20&linkId=8a822049e0cb2a3bd90ee8eee79fc650"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LOWP0FI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LOWP0FI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 10 oz. / 284 grams<br>
+**Weight**: 10 oz. / 284 grams  
 **Fabric**: Dry.Q™ Active 2.5-layer
 
 Mountain Hardwear Stretch Ozonic rain pants are wind- and waterproof.
@@ -147,7 +145,7 @@ They offer full-length zippers with two security closures and an integrated webb
 
 <a rel="nofollow"  href="https://www.amazon.com/Outdoor-Research-Helium-Medium-Pewter/dp/B00LU7EKHQ/ref=as_li_ss_il?ie=UTF8&qid=1500449127&sr=8-3&keywords=MEN'S+DELUGE+WATERPROOF+PANT&linkCode=li3&tag=hikeve-20&linkId=5d524dbc4656f89823cb3813e5b95537" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU7EKHQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00LU7EKHQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 5.6 oz. / 160 grams<br>
+**Weight**: 5.6 oz. / 160 grams  
 **Fabric**: Pertex Shield+ 2.5L
 
 The Outdoor Research Helium Pants are super lightweight, and you can use its back pockets as a stuff sack.
@@ -162,7 +160,7 @@ It also features a carabiner loop and an elastic waist with a drawcord as well a
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01GQUW4JM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GQUW4JM&linkCode=as2&tag=hikeve-20&linkId=e03108b3d48ab31beaa64dc86191bc83"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GQUW4JM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GQUW4JM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 8.1 oz. / 230 grams<br>
+**Weight**: 8.1 oz. / 230 grams  
 **Fabric**: DryVent 2.5-layer
 
 The North Face Venture 2 Half-Zip Rain Pants are technical, waterproof 2.5-layer pants for men in a relaxed fit.
@@ -181,7 +179,7 @@ The pants are coming with an elastic waist with drawcord, secure-zip hand pocket
 
 <a rel="nofollow"  href="http://www.amazon.com/gp/product/B0089PN410/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0089PN410&linkCode=as2&tag=hikeve-20&linkId=SCOBGEQN4LMQSIUF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089PN410&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0089PN410" width="1" height="1" border="0" alt="Mountain Hardwear Plasmic Pant" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 7.2 oz. / 204 grams<br>
+**Weight**: 7.2 oz. / 204 grams  
 **Fabric**: Dry.Q EVAP 40D 2.5L
 
 The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pants, but they come with some additional features.
@@ -198,7 +196,7 @@ If you need to have a pocket on your waterproof pants, then go for this model.
 
 <a rel="nofollow"  href="https://www.amazon.com/gp/product/B01C644O04/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01C644O04&linkCode=as2&tag=hikeve-20&linkId=0ab2f639df8dd66b00bcd42eed08d32a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01C644O04&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01C644O04" width="1" height="1" border="0" alt="Rab Firewall Pants" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 11.3 oz. / 319 grams<br>
+**Weight**: 11.3 oz. / 319 grams  
 **Fabric**: Pertex Shield+ 3L
 
 Wear the Rab Firewall Pants for winter activities.
@@ -213,7 +211,7 @@ The Rab Firewall pants come with an elasticated waistband and knee articulations
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B002NGDDTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002NGDDTE&linkCode=as2&tag=hikeve-20&linkId=4501041cfe69f4c9319560fb681442c3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002NGDDTE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002NGDDTE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 10.3 oz. / 292 grams<br>
+**Weight**: 10.3 oz. / 292 grams  
 **Fabric**: GORE-TEX Paclite
 
 The Marmot Minimalist Pants are lightweight, wind- and waterproof rain pants made of GORE-TEX Paclite.

@@ -1,7 +1,6 @@
 ---
 published: false
 title: Packrafting the Kushiro River in Japan - Day 2
-description: Packrafting the middle Kushiro River and Kushiro-Shitsugen National Park, Hokkaido, Japan
 date: 2017-11-24 23:55:01
 category: destinations
 tags:
@@ -17,7 +16,7 @@ image: https://farm5.staticflickr.com/4510/37004162180_63a2edc235_k.jpg
 After a short flight from Tokyo where I was staying the previous night, I arrive at Memanbetsu airport and meet my friend Satoru Higashitani (a.k.a. Gum) and his son Todjiro (a.k.a. Monkey). Getting to know each other through Instagram, we met to paddle together during my first visit to Japan three years ago and, since then, became friends. This year I am joining them on their holidays in Hokkaido and the first river we plan to paddle is the upper section of the Kushiro river, which we also paddled last year.
 
 <img src="https://farm5.staticflickr.com/4586/24635860908_99efbe9792_k.jpg" width="2048" height="821" alt="Packrafting and hiking the upper Kushiro River in Japan" >
-<br>
+  
 <!--more-->
 
 Starting from the Kussharo Lake, which is a famous paddling destination on its own right, this part of river is very popular among canoeists and tourists and there are several companies which organize canoe tours here. We inflate our packrafts at the lake shore (some of the guides showed a lot of interest in them) and follow one of such groups.

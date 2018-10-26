@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Astral Designs V-Eight Review
-description: Summer PFD for Kayaking and Packrafting
 date: 2016-08-15 07:30:00
 category: reviews
 tags:

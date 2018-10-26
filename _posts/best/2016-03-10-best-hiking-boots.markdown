@@ -3,7 +3,6 @@ layout: post
 title: Best lightweight Hiking Boots for 2018
 date: 2016-03-02 09:13:12 +0200
 update_date: 2018-01-14 06:00:52
-description: Looking for new hiking boots? Here are the best boots for hiking and backpacking for 2017
 category: articles
 image: https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg
 tags:
@@ -22,7 +21,7 @@ For day trips which are not that demanding [lightweight hiking shoes](http://www
 However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.
 
 <img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best hiking boots for 2018" >
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -82,7 +81,7 @@ However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-th
 </tbody>
 </table>
 </div>
-<br>
+  
 
 ## Adidas Terrex Fast R Mid GTX
 

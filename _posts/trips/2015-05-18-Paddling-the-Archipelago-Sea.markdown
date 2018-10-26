@@ -1,6 +1,5 @@
 ---
 title: Four seasons of Packrafting in the Archipelago Sea
-description: Packrafting the Archipelago Sea around Turku during 4 seasons
 date: 2015-05-18 18:04:22
 category: destinations
 tags:
@@ -15,7 +14,7 @@ The Archipelago Sea around Turku is a great place to go Packrafting, Kayaking or
 <img src="https://c4.staticflickr.com/8/7662/17598040058_62a14e4b20_b.jpg" width="1024" height="604" alt="Four seasons of Packrafting in the Archipelago Sea" >
 
 
-<br>
+  
 <!--more-->
 
 ## Trip 1 - Spring

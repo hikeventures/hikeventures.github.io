@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The best wallet for hiking and backpacking
-description: Discover the best wallet for your next hiking and backpacking trip
 date: 2016-04-18 07:30:00
 category: review
 image: https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg
@@ -19,7 +18,7 @@ Alternatively, you can also store your wallet in a plastic bag to keep it dry.
 Further, you might also want to look into a wallet which does not take too much space and is lightweight.
 
 <img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="1024" height="768" alt="The best wallet for hiking and backpacking" >
-<br>
+  
 <!--more-->
 
 ## Chums Floating Marsupial Wallet

@@ -1,6 +1,5 @@
 ---
 title: Packrafting the Aura River in Turku
-description: Exploring Turku with a Packraft.
 date: 2015-09-13 18:04:22
 category: destinations
 tags:

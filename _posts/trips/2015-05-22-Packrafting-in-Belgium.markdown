@@ -1,6 +1,5 @@
 ---
 title: Packrafting in Belgium - Paddling the Semois
-description: A packrafting meeting in Belgium - paddling the Semois.
 date: 2015-05-22 19:40:07
 category: destinations
 tags:

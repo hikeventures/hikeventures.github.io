@@ -1,12 +1,8 @@
 ---
 title: Mountain Equipment AR Ultralite 2 Review
-description: Mountain Equipment AR Ultralite 2 - Ultralight tent
 date: 2014-04-05 08:44:22
 category: reviews
-tags:
-  - reviews
-  - mountain equipment
-  - tents
+tags: Mountain Equipment AR Ultralite tent Review
 layout: post
 image: https://farm4.staticflickr.com/3832/13637497545_021f3a96fd_b.jpg
 ---

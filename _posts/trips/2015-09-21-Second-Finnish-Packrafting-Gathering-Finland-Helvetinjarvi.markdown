@@ -1,6 +1,5 @@
 ---
 title: Second Finnish Packrafting Gathering at Helvetinjärvi National Park
-description: A short trip report about the second packrafting gathering in Finland
 date: 2015-09-21 011:40:07
 category: destinations
 tags:
@@ -11,11 +10,11 @@ tags:
 layout: post
 image: https://farm1.staticflickr.com/658/21564749576_6dfefdb6c7_b.jpg
 ---
-Last weekend we participated in the second packrafting gathering organized by <a rel="nofollow" href="http://korpijaakko.com">Korpijaakko</a> at Helvetinjärvi National Park. The weather was quite mixed on Friday and we also had heavy rain on the way to the National Park but Saturday was a perfect packrafting day with with clouds and sun. We paddled in different lakes so there was quite a bit of hiking included. The scenery itself was beautiful with leaves changing there colors into autumn mode. Probably, the paddle trip would have been even more colorful in 1-2 weeks but it was still great.<br><br>
+Last weekend we participated in the second packrafting gathering organized by <a rel="nofollow" href="http://korpijaakko.com">Korpijaakko</a> at Helvetinjärvi National Park. The weather was quite mixed on Friday and we also had heavy rain on the way to the National Park but Saturday was a perfect packrafting day with with clouds and sun. We paddled in different lakes so there was quite a bit of hiking included. The scenery itself was beautiful with leaves changing there colors into autumn mode. Probably, the paddle trip would have been even more colorful in 1-2 weeks but it was still great.    
 
 <img src="https://farm1.staticflickr.com/658/21564749576_6dfefdb6c7_b.jpg" width="970" height="635" alt="Second Finnish Packrafting Gathering at Helvetinjärvi National Park" >
 
-<br>
+  
 <!--more-->
 
 

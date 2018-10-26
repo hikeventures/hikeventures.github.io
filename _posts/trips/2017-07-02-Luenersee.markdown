@@ -1,6 +1,5 @@
 ---
 title: Hiking at the Lünersee in Vorarlberg
-description: Hiking in the Austrian Alps in Vorarlberg
 date: 2017-07-02 12:14:01
 category: destinations
 tags:
@@ -18,7 +17,7 @@ The Lünersee is one of the most beautiful alp lakes and is located nearby Brand
 
 <img src="https://farm5.staticflickr.com/4015/34857301753_0e72c9b6b2_k.jpg" width="2048" height="1049"   alt="Hiking the Natursprünge trail in Brand">
 
-<br>
+  
 <!--more-->
 
 

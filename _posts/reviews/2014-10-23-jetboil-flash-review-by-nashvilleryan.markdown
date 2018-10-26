@@ -2,9 +2,8 @@
 layout: post
 title: Jetboil Flash Review by Nashvilleryan
 date: 2014-10-23 20:32:47 +0300
-description: Jetboil Flash. The outdoor stove reviewed by Nashvilleryan
 category: reviews
-tags: [reviews, jetboil, stove]
+tags: Jetboil Flash Review by Nashvilleryan
 image: https://farm6.staticflickr.com/5607/15422981859_bb0f3187b7_b.jpg
 ---
 

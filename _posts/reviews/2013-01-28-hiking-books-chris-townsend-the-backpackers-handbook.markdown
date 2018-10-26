@@ -1,6 +1,5 @@
 ---
 title: Chris Townsend - The Backpacker's Handbook
-description: Chris Townsend - The Backpacker's Handbook
 date: 2013-01-28 07:30:00
 category: reviews
 tags:

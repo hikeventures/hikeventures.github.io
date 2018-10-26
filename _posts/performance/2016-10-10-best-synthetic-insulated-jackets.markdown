@@ -1,6 +1,5 @@
 ---
 title: Best Synthetic Insulated Jackets 2018
-description: Need a warm jacket for your autumn or winter? We found the best lightweight synthetic insulated jackets for 2018
 date: 2016-10-10 20:43:52
 update_date: 2018-03-17 05:43:52
 category: articles
@@ -22,7 +21,7 @@ Either you are just looking for an alternative to down because of ethical reason
 <img src="https://farm2.staticflickr.com/1870/43683494474_630630c791_b.jpg" width="1000" height="664" alt="Best Synthetic Insulated Jackets 2018">
 
 On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/), we could choose between wearing a synthetic or down jacket due to the low humidity.
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -102,7 +101,7 @@ amzn_assoc_linkid = "18c820c5d515ad3c31f3e67f127a9c24";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Arc'teryx Fission SV Jacket
 
@@ -124,7 +123,7 @@ amzn_assoc_placement = "adunit";
 amzn_assoc_linkid = "74945d86ded290fcd98aeb527d776f9a";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-<br>
+  
 
 ## Arc'teryx Nuclei AR Jacket
 
@@ -149,7 +148,7 @@ amzn_assoc_linkid = "4f8eb6ac2b89d2919b21190eb5da7c2f";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Arc'teryx Proton AR Hoody
 
@@ -174,7 +173,7 @@ amzn_assoc_linkid = "dfc7618cf1b7c690ccbdd0f4594efd58";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Montane Fusion Alpha Jacket
 
@@ -195,7 +194,7 @@ amzn_assoc_linkid = "f6dfbf65ee718b9d65973f697337615b";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Montane Halogen Alpha Jacket
 
@@ -216,7 +215,7 @@ amzn_assoc_linkid = "31c6146f955762c6070f7e3a3c581495";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Mountain Equipment Fitzroy Jacket
 
@@ -239,7 +238,7 @@ amzn_assoc_linkid = "b6c580016942c3c0d068cd1cd4031f7a";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Outdoor Research Cathode Hooded Jacket
 
@@ -262,7 +261,7 @@ amzn_assoc_linkid = "b6327e10489ece29c7cde2b76bf3f5dd";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Outdoor Research Uberlayer Hooded Jacket
 
@@ -283,7 +282,7 @@ amzn_assoc_linkid = "63976c00709a8e7bfd3475d4a7e5baba";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Outdoor Research Deviator Hoody
 
@@ -304,7 +303,7 @@ amzn_assoc_linkid = "c0979c163a5839bfa18450d32d001998";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Rab Nebula Jacket
 
@@ -329,7 +328,7 @@ amzn_assoc_linkid = "26efe7aac82db1e419c82f24d039d4c7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<br>
+  
 
 ## Rab Photon X Jacket
 
@@ -359,7 +358,7 @@ Konstantin interviewing the North Face at the ISPO 2016 about their product high
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wyDGxoLAQ6w"></iframe>
 </div>
-<br>
+  
 Hi, this is Konstantin, and I've got Michael, the product director from The North Face.
 
 Hi, Michael. What are the two, three highlights of the season?

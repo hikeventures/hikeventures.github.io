@@ -1,6 +1,5 @@
 ---
 title: Best Backpack for Packrafting
-description: An overview of the best backpacks for packrafting.
 date: 2018-01-03 22:16:01
 category: articles
 image: https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg
@@ -19,7 +18,7 @@ Having used the <a rel="nofollow" href="http://www.hikeventures.com/gear-review-
 Gernerally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.
 
 <img src="https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683" alt="Best Backpack for Packrafting" >
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -50,7 +49,7 @@ Gernerally speaking I was not able to find any alternative to the HMG Porter 440
 </tbody>
 </table>
 </div>
-<br>
+  
 
 ## Features of a good packrafting backpack
 

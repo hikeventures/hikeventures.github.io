@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Thule Upslope 35L Review
-description: Testing the Thule Upslope 35L in Northern Norway
 date: 2017-01-19 05:30:00
 category: articles
 tags:

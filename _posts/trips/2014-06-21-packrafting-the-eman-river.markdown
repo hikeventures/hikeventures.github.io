@@ -1,6 +1,5 @@
 ---
 title: Packrafting the Emån River
-description: Packrafting trip in Southern Sweden
 date: 2014-06-21 16:25:37
 category: destinations
 tags:
@@ -15,7 +14,7 @@ image: https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg
 One week ago we went to a packrafting trip on the Emån River which is located in south-east of Sweden and flows into the baltic sea. We started our trip in Högsby and paddled all the way down to Påskallavik, spending one night in Fliseryd in our <a rel="nofollow" href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">Hilleberg Anjan tent</a>.
 
 <img src="https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg" width="1024" height="683" alt="Packrafting Eman River Sweden alpacka raft werner shuna paddle petzl meteor helmet" >
-<br>
+  
 <!--more-->
 
 In Högsby we inflated our Packrafts. Unfortunately, it was raining the whole morning but once we were in the Packraft it was fine.

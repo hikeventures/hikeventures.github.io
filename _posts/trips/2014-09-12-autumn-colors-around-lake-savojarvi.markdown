@@ -1,6 +1,5 @@
 ---
 title: Hiking in the Kurjenrahka National Park - Part 1
-description: Hiking on an autumn day in Kurjenrahka National Park
 date: 2014-09-12 19:17:19
 category: destinations
 tags:
@@ -16,7 +15,7 @@ image: https://farm4.staticflickr.com/3900/15030582219_51eee48e66_b.jpg
 Today I went hiking to the Kurjenrahka National Park in Finland which is located around 30 km north of Turku -  a heaven for mushroom lovers!
 
 <img src="https://farm4.staticflickr.com/3900/15030582219_51eee48e66_b.jpg" width="952" width="635" alt="Kurjenrahka National Park" >
-<br>
+  
 <!--more-->
 
 I parked my car at Kurjenpesä where I found an information board about the National Park.

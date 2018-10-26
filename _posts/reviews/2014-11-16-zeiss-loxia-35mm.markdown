@@ -1,6 +1,5 @@
 ---
 title: Sony 35mm 2.8 or Zeiss Loxia 35mm 2.0? - A short review.
-description: Evaluating if a Zeiss Loxia 35mm should be my new lens
 date: 2014-11-16 17:40:41
 category: articles
 tags:

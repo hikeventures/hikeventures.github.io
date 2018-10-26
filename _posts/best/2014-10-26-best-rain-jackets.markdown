@@ -1,6 +1,5 @@
 ---
 title: Best Rain Jackets 2018
-description: Overview of the best men rain Jackets in 2018 for hiking and backpacking
 date: 2016-07-14 12:33:51
 update_date: 2018-01-14 12:33:51
 category: articles
@@ -20,7 +19,7 @@ If you expect the weather to be good but only windy then you may also consider t
 In most cases a lightweight rain jacket which does not need that much space in your backpack may be sufficient. Also have a look on the [rain pants](http://www.hikeventures.com/best-rain-pants/) which I would consider to pack into my backpack.
 
 <img src="https://farm2.staticflickr.com/1855/29463765917_8bc3d3ca37_b.jpg" width="1024" height="680" alt="Best rain jackets for hiking and backpacking backpacks 2018">
-<br>
+  
 <!--more-->
 
 ## The best rain jackets of 2018
@@ -69,7 +68,7 @@ In most cases a lightweight rain jacket which does not need that much space in y
 </tbody>
 </table>
 </div>
-<br>
+  
 
 ## Arc'teryx Zeta LT
 

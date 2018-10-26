@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Western Mountaineering Versalite Review
-description: Our review of the Western Mountaineering Versalite
 date: 2017-04-07 07:30:00
 category: reviews
 tags:

@@ -1,12 +1,8 @@
 ---
 title: Thule Atmos X3 Review
-description: Protect your iPhone on your adventures with the Thule Atmos X3
 date: 2015-05-23 06:45:07
 category: reviews
-tags:
-  - reviews
-  - thule
-  - phone
+tags: Thule Atmos X3 Review
 layout: post
 image: https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg
 ---

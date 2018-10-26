@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Garmin Fenix 5X, Suunto Spartan Sport Wrist HR vs. Spartan Trainer Wrist HR - Why to upgrade?
-description: Differences and features of the Garmin Fenix 5X, Suunto Spartan Trainer Wrist HR and the Spartan Ultra
 date: 2017-01-23 07:30:00
 category: article
 image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
@@ -14,7 +13,7 @@ image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
 ---
 
 Currently, there are two interesting GPS watches on the market which I would find quite useful hiking, backpacking or mountaineering and worth to compare - the Suunto 9, Suunto Spartan Sport Wrist HR, Suunto Spartan Trainer Wrist HR and the Garmin Fenix 5X. Here are their features and differences.
-<br>
+  
 <!-- more -->
 
 ---
@@ -64,7 +63,7 @@ However, others might find the color screen or the touch screen of the Spartan m
 
 Personally, I don’t care that much about the touch screen. However, the color display in combination with the map is a really cool feature.
 
-<br>
+  
 
 Moreover, the Fenix 5X and the Suunto Spartan Trainer Wrist HR also has a heart rate monitor built into the back of the watch so you can measure your heart beat without wearing a heart strap around your chest.
 

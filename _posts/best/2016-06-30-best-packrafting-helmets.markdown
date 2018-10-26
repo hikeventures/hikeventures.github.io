@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Best packrafting and kayaking helmets
-description: Here are a few helmets for your next packrafting adventure
 date: 2016-05-30 09:46:20
 update_date: 2018-01-27 06:00:52
 image: https://farm2.staticflickr.com/1885/43683912774_1b6544c3bd_b.jpg
@@ -23,7 +22,7 @@ There are certain criteria you should look out when buying a new packrafting hel
 * Do you need a visor for additional face protection or against the sun?
 * Is the helmet lightweight so it feels comfortable to wear it for a longer period?
 * Do you need ear protection?
-<br>
+  
 <!--more-->
 
 <img src="https://farm2.staticflickr.com/1885/43683912774_1b6544c3bd_b.jpg" width="1024" height="781" alt="Best packrafting and Kayaking Helmet - Sweet Protection Strutter Helmet">
@@ -59,7 +58,7 @@ There are certain criteria you should look out when buying a new packrafting hel
 </tbody>
 </table>
 </div>
-<br>
+  
 
 ## NRS WRSI Current Helmet
 

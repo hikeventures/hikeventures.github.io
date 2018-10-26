@@ -1,6 +1,5 @@
 ---
 title: Best Fleece Jackets 2018
-description: The best fleece jackets 2017 for hiking and backpacking
 date: 2015-03-04 17:20:20
 update_date: 2018-02-14 06:00:52
 category: articles
@@ -23,7 +22,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jackets.
 
 <img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets 2018" >
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -72,7 +71,7 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jack
         </tbody>
   </table>
 </div>
-<br>
+  
 
 ## Arc'teryx A2B Comp Jacket
 

@@ -1,6 +1,5 @@
 ---
 title: Montbell U.L. Down Parka Review
-description: Perfect down Parka for the winter and autumn months - Montbell U.L. Down Parka Review
 date: 2013-03-21 07:30:00
 category: reviews
 image: https://farm9.staticflickr.com/8529/8576876741_96879fe3d5_b.jpg

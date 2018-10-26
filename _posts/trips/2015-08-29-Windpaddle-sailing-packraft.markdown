@@ -1,6 +1,5 @@
 ---
 title: Windpaddle sailing with my packraft
-description: Windpaddle Sailing in the Turku Archipelago with a Packraft
 date: 2015-08-29 18:04:22
 category: videos
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Hiking on the Åland Islands
-description: Discovering the Finnish Archipelago
 date: 2012-06-29 14:24:00
 category: destinations
 tags:
@@ -13,7 +12,7 @@ image: https://farm9.staticflickr.com/8479/8197716534_ab72b864df_h.jpg
 This weekend I went to K&ouml;kar, a Swedish speaking municipality with a population of 244 and is part of the &Aring;land Islands (belonging to Finland) which are located between Finland and Sweden. The &Aring;land islands can be reached by ferry from Turku within 2.5 hours.
 
 <img src="https://farm9.staticflickr.com/8479/8197716534_ab72b864df_h.jpg" width="1600" height="1067" alt="Hiking on the Åland Islands" >
-<br>
+  
 <!--more-->
 
 The &Aring;land Islands are part of the Finnish Archipelago and are one of the most popular sailing places of the Northern countries. There is also a ferry connection ([Viking Line][1] and [TallinkSilja][2]) from Turku and Stockholm connecting the &Aring;land Islands  (via Mariehamn)  to the main land. The majority of the population speaks Swedish as their native language.
@@ -146,7 +145,7 @@ After my hiking trip, I went back to the harbour and returned to Turku.
 The Aland Islands are great for hiking and cycling. It's also not too demanding since the islands are rather flat. The Aland Islands is also a great adventure for the whole family. Definitely worth a visit!
 
 ## Links
-<a rel="nofollow" href="http://www.kokar.ax/en" target="_new">K&ouml;kar</a><br>
+<a rel="nofollow" href="http://www.kokar.ax/en" target="_new">K&ouml;kar</a>  
 <a rel="nofollow" href="http://www.nationalparks.fi/hikinginfinland/wheretogo/thearchipelagos" target="_new">Archipelago National Park on Outdoors.fi</a>
 
 [1]:	http://www.vikingline.com

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bushcraft Essentials - Bushbox LF Titanium Review
-description: Testing the Bushcraft Essentials Bushbox LF Titanium
 date: 2017-11-05 07:30:00
 category: reviews
 tags:

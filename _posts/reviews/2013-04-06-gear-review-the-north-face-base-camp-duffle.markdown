@@ -1,6 +1,5 @@
 ---
 title: The North Face Base Camp Duffle
-description: The North Face Base Camp Duffle
 date: 2013-04-06 07:30:00
 category: reviews
 image: https://farm9.staticflickr.com/8107/8619172577_20b9cf4901_b.jpg

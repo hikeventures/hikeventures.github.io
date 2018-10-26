@@ -1,6 +1,5 @@
 ---
 title: Spring in the Kvarken Archipelago
-description: First signs of spring in the Kvarken Archipelago
 date: 2013-05-12 07:30:00
 category: destinations
 tags:

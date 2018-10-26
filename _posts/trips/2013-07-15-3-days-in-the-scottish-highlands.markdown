@@ -1,6 +1,5 @@
 ---
 title: Hiking in the Scottish Highlands
-description: Exploring the Scottish Highlands
 date: 2013-07-16 07:30:00
 category: destinations
 tags:

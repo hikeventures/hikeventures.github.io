@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hilleberg Tarp 10 UL Review
-description: Our review of the Hilleberg Tarp 10 UL
 date: 2017-05-09 07:30:00
 category: reviews
 image: https://c1.staticflickr.com/5/4188/33643566884_98342defcd_k.jpg

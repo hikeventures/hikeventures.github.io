@@ -1,6 +1,5 @@
 ---
 title: Halloween Adventure at Lake Suolijärvi
-description: Our Hiking and Paddling Adventure on Halloween in Finland
 date: 2014-11-02 10:31:22
 category: destinations
 tags:
@@ -16,7 +15,7 @@ This Halloween, we decided to go to Lake Suolijärvi nearby Hyvinkää in Finlan
 
 <img src="https://farm4.staticflickr.com/3938/15687184261_2c7af34fd4_b.jpg" width="952" height="635" alt="Iso-Haiskari - Alpacka Raft Yukon Yak Finland" >
 
-<br>
+  
 <!--more-->
 
 ## 1. Kytäjärvi to Iso-Haiskari

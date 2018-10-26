@@ -1,13 +1,8 @@
 ---
 title: Astral Designs YTV Review
-description: PFD for Kayaking and Packrafting
 date: 2014-07-24 16:33:24
 category: reviews
-tags:
-  - reviews
-  - pfd
-  - astral designs
-  - packrafting
+tags: Astral Designs YTV Review
 layout: post
 image: https://farm4.staticflickr.com/3899/14547568237_44d9c29d97_b.jpg
 ---

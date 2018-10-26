@@ -1,6 +1,5 @@
 ---
 title: Hiking and Packrafting in Vaasa
-description: Hiking and Packrafting in Vaasa
 date: 2013-11-30 15:50:28
 category: destinations
 tags:
@@ -14,7 +13,7 @@ image: https://farm8.staticflickr.com/7351/9254204449_a5a54041ed_h.jpg
 Vaasa is a small town with a population of 67.000 souls on the west coast of Finland. The area is more or less flat with the exception of &#214;jberget, which is located about 5 km outside of Vaasa where you can go downhill and cross-country skiing.
 
 <img src="https://farm8.staticflickr.com/7351/9254204449_a5a54041ed_h.jpg" width="1600" height="1067" alt="Risö Lintutorni" >
-<br>
+  
 <!--more-->
 
 If you are interested in climbing, then you can give it a try in the <a rel="nofollow" href="http://www.highsport.fi" target="_blank">water tower</a> of Vaasa - straight in the city centre next to the tourist office.
@@ -25,7 +24,7 @@ If you come with a group, you should check Reino Tupa. They have a great kitchen
 
 Other options which around Vaasa are to visit bird towers or Kajane - a swampy area south of Vaasa.
 
-<img src="https://farm4.staticflickr.com/3685/9286066904_6624c337d5_h.jpg" width="1600" height="931" alt="Replot packrafting"><br>Replot - the longest bridge in Finland
+<img src="https://farm4.staticflickr.com/3685/9286066904_6624c337d5_h.jpg" width="1600" height="931" alt="Replot packrafting">  Replot - the longest bridge in Finland
 
 If you are more into packrafting, the Bothnian Sea or Pilvil&#228;mpi are great spots to inflate your boat.
 

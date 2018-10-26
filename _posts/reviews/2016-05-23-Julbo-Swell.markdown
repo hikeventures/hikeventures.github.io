@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Julbo Swell Review
-description: Our review on the Julbo Swell
 date: 2016-05-23 07:30:00
 category: reviews
 tags:

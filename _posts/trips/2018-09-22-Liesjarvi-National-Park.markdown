@@ -1,6 +1,5 @@
 ---
 title: Liesjärvi National Park
-description: Hiking and Packrafting in Liesjärvi National Park
 date: 2018-09-22 18:14:01
 category: destinations
 tags:
@@ -15,7 +14,7 @@ image: https://farm2.staticflickr.com/1899/30829383808_e01baeddf7_k.jpg
 A few days ago I visited the <a rel="nofollow"  href="http://www.nationalparks.fi/en/liesjarvinp/">Liesjärvi National Park</a> together with Kaj and Catja Koskinen to try our our new Alpacka Raft Gnarwhal which we bought at Packraft Europe who also organised the <a rel="nofollow" href="http://www.hikeventures.com/Slovenia/">European Meet-up</a> in Slovenia. Liesjärvi National Park is about a 1.5 hours car drive away from Helsinki and an alternative to Nuuksio National Park if you live in the Helsinki region (and probably also less crowded with people) and want to go hiking or packrafting.
 
 <img src="https://farm2.staticflickr.com/1899/30829383808_e01baeddf7_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park">
-<br>
+  
 <!--more-->
 
 We decided to park our cars at the Kopinlahti parking spot and to have a short hike to Savilahti where we pitched our tents, prepared a fire and meals and enjoyed the peaceful night together with a few other hikers who also came to stay over night in tents and hammocks.

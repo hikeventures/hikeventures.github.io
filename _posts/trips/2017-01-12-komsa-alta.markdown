@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Highlight of a visit to Alta in Norway -  the Komsa
-description: A daytrip in Alta. Climbing the Komsa in Northern Norway.
 date: 2017-01-18 20:30:00
 category: destinations
 tags:
@@ -16,7 +15,7 @@ There was no official path up to the Komsa, or at least we were not able to see 
 
 <img src="https://c1.staticflickr.com/1/584/32116571882_4eb80a5201_k.jpg" width="2048" height="1152"   alt="Highlight of a visit to Alta in Norway -  the Komsa">
 
-<br>
+  
 <!--more-->
 
 

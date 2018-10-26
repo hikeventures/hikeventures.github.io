@@ -1,6 +1,5 @@
 ---
 title: Clair &amp; Maurer - AMC guide to winter hiking and camping
-description: A great book to learn winter hiking and camping
 date: 2013-12-04 23:26:13
 category: reviews
 tags:

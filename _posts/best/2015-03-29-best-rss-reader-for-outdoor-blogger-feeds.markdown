@@ -1,6 +1,5 @@
 ---
 title: Best RSS feed Readers for Bloggers 2018
-description: Need a new RSS reader? Here is a list with the best RSS Reader for Outdoor Bloggers.
 date: 2015-03-28 18:04:22
 update_date: 2016-12-27 06:00:52
 category: articles

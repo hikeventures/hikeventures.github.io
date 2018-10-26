@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hilleberg Unna Inner Mesh Review
-description: Our review of the Hilleberg Unna Inner Mesh
 date: 2017-05-06 07:30:00
 category: reviews
 image: https://c1.staticflickr.com/3/2886/34100728560_568624aa28_k.jpg

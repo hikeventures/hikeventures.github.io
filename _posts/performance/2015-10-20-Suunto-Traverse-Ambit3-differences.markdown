@@ -1,7 +1,6 @@
 ---
 
 title: Differences between Suunto 9, Suunto 3 Fitness, Suunto Traverse and Ambit3 and Spartan Trainer Wrist HR
-description: What are the differences between the Suunto Traverse and the Ambit3 and the Suunto Spartan Trainer Wrist HR?
 date: 2015-10-20 05:59:40
 update_date: 2018-07-05 06:00:52
 category: articles
@@ -54,13 +53,13 @@ The [Suunto 3 Fitness](https://amzn.to/2zb43o1) weights 36 grams. It's possible 
 
 The [Suunto Spartan Trainer Wrist HR](http://amzn.to/2FeqPNG) weights 56 grams and it's batteries last for 10 hours in active use. The watch is waterproof down to 50 meters. It's not the top model of the Suunto Spartan line but offers probably the best price value ratio if you are for example into running.
 
-<br>
+  
 
 ## Suunto Traverse
 
 And then you have the basic [Suunto Traverse](http://amzn.to/2ouR5Kc) which I am also wearing on my wrist.
 
-<br>
+  
 
 ## Suunto Traverse Alpha
 
@@ -71,14 +70,14 @@ If you are more into fishing or hunting, then you should consider getting the [S
 * Moon phases and moon rise/set times
 * Red backlight, Night Vision Goggle compatible
 
-<br>
+  
 
 ## Suunto Ambit3 Vertical
 If you are more into trail running (on hills or mountains), mountain biking, climbing or into multisport then you should probably go for the [Suunto Ambit3 Vertical](http://amzn.to/2F2dsAR) or the Suunto Spartan.
 
 The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also displays the altitude during your ascent. This watch is an updated version of the old Ambit3 (Peak).
 
-<br>
+  
 
 ## Accessories
 
@@ -86,19 +85,19 @@ The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also d
 
 You can link a <a rel="nofollow" href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e"  target="_blank">heart rate monitor</a> to your Suunto watch.
 
-<br>
+  
 
 <h3>Traverse Screen Protector</h3>
 
 Screen protectors do not only exist for mobile phones. You can also protect your Suunto watch with a <a rel="nofollow" href="http://amzn.to/28OSNim"  target="_blank">screen protector</a>.
 
-<br>
+  
 
 <h3>EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</h3>
 
 On longer trips, it’s quite convenient to have a <a rel="nofollow" href="http://amzn.to/28V8l3t"  target="_blank">power bank</a> with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
 
-<br>
+  
 
 <h3>Suunto Wristop Computer Bike Adaptor</h3>
 
@@ -110,7 +109,7 @@ If you have an iPhone, you could also get a <a rel="nofollow" href="https://www.
 
 It’s quite handy to have your iPhone in front of you when you are on tour. You can quickly check maps, use the iPhone as a second screen for your Ambit watch (to display, e.g., speed or distance) or just to listen to the radio.
 
-<br>
+  
 
 Update 14.11.2015: I finally got the Suunto Traverse as you can see on our Instagram account below. It feels and looks much better on the wrist than the Ambit3. Now going running and test it for the first time :)
 
@@ -134,6 +133,6 @@ Update 4.4.2018: Suunto has released the Suunto 3 Fitness watch.
 
 **Update 5.07.2018:** Suunto has released the [Suunto 9](https://amzn.to/2tTFKWq).
 
-<br>
+  
 
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.

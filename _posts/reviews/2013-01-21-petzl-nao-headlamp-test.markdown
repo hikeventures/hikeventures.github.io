@@ -1,6 +1,5 @@
 ---
 title: Petzl Nao Review
-description: Our review about the Petzl Nao headlamp
 date: 2013-01-21 07:30:00
 category: reviews
 image: http://farm9.staticflickr.com/8355/8402486031_f160650d1d_n.jpg

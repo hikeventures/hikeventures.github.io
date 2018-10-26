@@ -1,6 +1,5 @@
 ---
 title: Turku - Stockholm Cruise with Viking Line
-description: With Viking Line from Turku to Stockholm
 date: 2014-06-17 21:13:11
 category: articles
 tags:
@@ -17,7 +16,7 @@ image: https://farm3.staticflickr.com/2907/14416293746_aace5775a6_b.jpg
 As I was planning to meet Konstantin in Sweden, I took a Viking Ferry in order to get from Turku to Stockholm. I really enjoyed this Viking Cruise with the new ferry, the [Viking Line][1].
 
 <img src="https://farm3.staticflickr.com/2907/14416293746_aace5775a6_b.jpg" width="1024" height="683" alt="view from Viking Grace towards Stockholm City with Finnish Flag Gröna Lund" >
-<br>
+  
 <!--more-->
 
 <a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/14414858216" title="Viking Line Turku"><img src="https://farm4.staticflickr.com/3873/14414858216_d12ff73788_b.jpg" width="1024" height="683" alt="Viking Line Turku entrance harbor harbour"></a>

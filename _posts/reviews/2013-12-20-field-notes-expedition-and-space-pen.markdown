@@ -1,6 +1,5 @@
 ---
 title: How to document your hiking trip?
-description: Maybe the best hiking gear for writers and journalists
 date: 2013-12-20 18:50:22
 category: reviews
 tags:

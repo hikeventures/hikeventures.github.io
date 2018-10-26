@@ -1,6 +1,5 @@
 ---
 title: Ideas for planning an outdoor trip in Poland
-description: Planning a trip to Poland? Here are some outdoor activities ideas
 date: 2015-12-06 20:00:00
 category: articles
 tags:
@@ -13,7 +12,7 @@ As every year, this October we decided to bid farewell to autumn in our traditio
 
 <img src="https://farm6.staticflickr.com/5634/23267573790_1da84da3e2_b.jpg" width="1000" height="562" alt="planning an outdoor trip in Poland" >
 
-<br>
+  
 <!--more-->
 
 This year we did not go too far away from Poznań, Marta’s home-town, as only 70km to the north-west from there there is Siekarów Landscaped Park (Sierakowski Park Krajobrazowy), nicknamed “The Land of 100 Lakes”. In reality there must be even more of them there, as the map of that area is just full of blue spots of all shapes and sizes, making it look more like that of Finland or Sweden. In fact, besides hunting for mushrooms we were also looking for lakes suitable for a spring packrafting trip and of course we found a few.

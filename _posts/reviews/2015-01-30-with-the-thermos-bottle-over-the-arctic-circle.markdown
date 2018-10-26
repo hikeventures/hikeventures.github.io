@@ -1,6 +1,5 @@
 ---
 title: With the Thermos Bottle over the Arctic Circle
-description: We tested a Thermos bottle on the Fells of Lapland
 date: 2015-01-30 09:32:09
 category: reviews
 tags:

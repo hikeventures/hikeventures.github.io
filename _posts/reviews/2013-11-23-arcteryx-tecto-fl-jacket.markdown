@@ -1,12 +1,8 @@
 ---
 title: Arc'teryx Tecto FL Jacket Review
-description: Great waterproof jacket for activities outdoors
 date: 2013-12-15 07:30:00
 category: reviews
-tags:
-  - reviews
-  - Arc'teryx
-  - jackets
+tags: Arc'teryx Tecto FL Jacket Review
 layout: post
 image: https://farm6.staticflickr.com/5520/11379723083_5cf7ba4ecc_b.jpg
 ---

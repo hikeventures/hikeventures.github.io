@@ -1,12 +1,8 @@
 ---
 title: Arc'teryx Kappa Pant Review
-description: Arc'teryx Kappa Pant - Winter Pants for hiking, skiing and snowboarding
 date: 2014-02-09 08:56:12
 category: reviews
-tags:
-  - reviews
-  - pants
-  - Arc'teryx
+tags: Arc'teryx Kappa Pant Review
 layout: post
 image: http://farm8.staticflickr.com/7394/12133742174_d29c6f740e_c.jpg
 ---

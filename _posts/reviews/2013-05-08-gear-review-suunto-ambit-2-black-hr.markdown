@@ -1,6 +1,5 @@
 ---
 title: Suunto Ambit2 Black HR Review
-description: GPS watch - Suunto Ambit2 Black HR
 date: 2013-05-08 07:30:00
 category: reviews
 tags:

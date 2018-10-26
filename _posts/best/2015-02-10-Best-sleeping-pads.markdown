@@ -1,6 +1,5 @@
 ---
 title: Best Sleeping Pads and Mats in 2018
-description: Need a new Sleeping Pad? Here is our selection of the best sleeping pads on the market!
 date: 2016-01-03 18:49:09
 update_date: 2018-02-14 06:00:52
 category: reviews
@@ -23,7 +22,7 @@ From all sleeping pads I would probably recommend you the <a rel="nofollow" href
 I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to sleeping pad throughout the year.
 
 <img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads and Mats 2018" >
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -85,7 +84,7 @@ I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01AYPQN1U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AYPQN1U&linkCode=as2&tag=hikeve-20&linkId=baccc04315ff87b1d35d0b9855edc307"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AYPQN1U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AYPQN1U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 20 oz. / 566 grams<br>
+**Weight**: 20 oz. / 566 grams  
 **R-Value**: 1.5
 
 The Big Agnes Air Core Ultra is a warm weather sleeping pad for temperatures down to -2 C.
@@ -101,7 +100,7 @@ The Big Agnes Air Core Ultra also has an antimicrobial treatment.
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01LXU7NR3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LXU7NR3&linkCode=as2&tag=hikeve-20&linkId=f4c67f2b80dc8f9a2f2658111bfca41e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LXU7NR3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LXU7NR3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 21.1 oz. / 598 grams <br>
+**Weight**: 21.1 oz. / 598 grams   
 **R-Value**: 4.1
 
 The Big Agnes Insulated Air Core Ultra is a super light 3-season sleeping pad for temperatures down to -9 C.
@@ -117,7 +116,7 @@ It has a 25% increased durability and tear strength and an antimicrobial treatme
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01AYPQQFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AYPQQFI&linkCode=as2&tag=hikeve-20&linkId=b0b4a433c2eaa856d5e0b203b8e1779d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AYPQQFI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AYPQQFI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 16.4 oz. / 466 grams <br>
+**Weight**: 16.4 oz. / 466 grams   
 **R-Value**: 4.5
 
 The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures down to -9 C. The new double rip-stop improves durability and tear strength by 25%.
@@ -130,8 +129,8 @@ The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B0047BXBUO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0047BXBUO&linkCode=as2&tag=hikeve-20&linkId=03286004564378e768bb3446d9c72c00" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0047BXBUO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0047BXBUO" width="1" height="1" border="0" alt="Exped Synmat UL 7" style="border:none !important; margin:0px !important;" />
 
-**R-Value**: 3.3<br>
-**Weight**: 1.8 oz. / 450 grams <br>
+**R-Value**: 3.3  
+**Weight**: 1.8 oz. / 450 grams   
 **Fabric**: 20D
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.
@@ -144,7 +143,7 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01K5GAQ9I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K5GAQ9I&linkCode=as2&tag=hikeve-20&linkId=63e6071bd6e650487675593fbcc096be"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01K5GAQ9I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01K5GAQ9I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 40.6 oz. / 1150 grams<br>
+**Weight**: 40.6 oz. / 1150 grams  
 **R-value**: 1.3
 
 The Klymit Double V is a two person sleeping pad which originates from the Klymit Static V.
@@ -159,8 +158,8 @@ The Klymit Double V features body mapping technology and packs small.
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B00MTZP8RY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MTZP8RY&linkCode=as2&tag=hikeve-20&linkId=44fb9d7c681394023185b0482e181c5e" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MTZP8RY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MTZP8RY" width="1" height="1" border="0" alt="Sea to Summit Ultralight" style="border:none !important; margin:0px !important;" />
 
-**R-Value**: 0.7 <br>
-**Weight**: 12.5 oz. / 355 grams <br>
+**R-Value**: 0.7   
+**Weight**: 12.5 oz. / 355 grams   
 **Fabric**: 40D
 
 Another light sleeping pad is the Sea to Summit Ultralight which features a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.
@@ -174,8 +173,8 @@ Another light sleeping pad is the Sea to Summit Ultralight which features a more
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=7de4b697126cb0f135e9550bf812d9fc" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZKXB2Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="Therm-a-Rest EvoLite" style="border:none !important; margin:0px !important;" />
 
-**R-Value**: 2.1 <br>
-**Weight**: 18.3 oz. / 520 grams<br>
+**R-Value**: 2.1   
+**Weight**: 18.3 oz. / 520 grams  
 **Fabric**: 30D
 
 If you don’t want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an interesting sleeping pad for the summer.
@@ -190,7 +189,7 @@ However, the foam of the pad makes it a heavier choice and you don’t get such 
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01MSH0ME9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSH0ME9&linkCode=as2&tag=hikeve-20&linkId=b93213b21972c4c979a678f64003e4f8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MSH0ME9&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MSH0ME9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 22.9 oz. / 650 grams<br>
+**Weight**: 22.9 oz. / 650 grams  
 **R-Value**: 4.9
 
 The Therm-a-Rest NeoAir All Season SV is a four season sleeping pad which includes Therm-a-Rest’s new SpeedValve to inflate the pad up to three times faster and deflates instantly.
@@ -205,8 +204,8 @@ The Therm-a-Rest NeoAir All Season SV is also one of the warmest sleeping pads a
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B00PZL15OY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZL15OY&linkCode=as2&tag=hikeve-20&linkId=5fda56383b6e7ecd83ffee998ddbe42b" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZL15OY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZL15OY" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XLite" style="border:none !important; margin:0px !important;" />
 
-**R-Value**: 3.2 <br>
-**Weight**: 12.3 oz. / 350 grams <br>
+**R-Value**: 3.2   
+**Weight**: 12.3 oz. / 350 grams   
 **Fabric**: 30D
 
 The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you could consider if you look for a pad which packs light.
@@ -219,9 +218,9 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XTherm" style="border:none !important; margin:0px !important;" />
 
-**R-Value**: 5.7 <br>
-**Weight**: 14.5 oz. / 410 grams<br>
-**Fabric**: 30D <br>
+**R-Value**: 5.7   
+**Weight**: 14.5 oz. / 410 grams  
+**Fabric**: 30D   
 **Fabric bottom**: 70D
 
 The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
@@ -234,7 +233,7 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01MT1T4IE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MT1T4IE&linkCode=as2&tag=hikeve-20&linkId=0e7b062c4643c750d88312815a72ea69"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MT1T4IE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MT1T4IE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 15.3 oz. / 435 grams<br>
+**weight**: 15.3 oz. / 435 grams  
 **R-value**: 2.1
 
 The Therm-a-Rest Slacker Hammock Pad was designed to fit inside a Therm-a-Rest Slacker hammock which incorporates self-inflating foam with air channels to increase warmth and loft.
@@ -248,7 +247,7 @@ The Therm-a-Rest Slacker Hammock Pad was designed to fit inside a Therm-a-Rest S
 
 <a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01MTQASDT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MTQASDT&linkCode=as2&tag=hikeve-20&linkId=dd2f7d56134d726752acd71a9ae7ac0f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MTQASDT&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MTQASDT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 29 oz. / 822 grams <br>
+**Weight**: 29 oz. / 822 grams   
 **R-value**: 1.8
 
 The Therm-a-RestTrail King SV is a self-inflation sleeping pad.
@@ -263,7 +262,7 @@ The Trail King SV includes AirFrame construction which alternates foam and air c
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B005I6R0WC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6R0WC&linkCode=as2&tag=hikeve-20&linkId=cd2dc0ea0537f09b2be8968a9dd8422d" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005I6R0WC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005I6R0WC" width="1" height="1" border="0" alt="Therm-a-Rest Z LITE SOL" style="border:none !important; margin:0px !important;" />
 
-**R-Value**: 2.6 <br>
+**R-Value**: 2.6   
 **Weight**: 14.5 oz. / 410 grams
 
 The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad.

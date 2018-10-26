@@ -1,12 +1,8 @@
 ---
 title: Petzl Attache 3D
-description: A carabiner which I also use for Hiking and Packrafting - Petzl Attache 3D
 date: 2014-01-02 10:19:11
 category: reviews
-tags:
-  - reviews
-  - petzl
-  - carabiner
+tags: Petzl Attache 3D
 layout: post
 image: http://farm8.staticflickr.com/7374/11703861195_10eb9ccfd2_c.jpg
 ---

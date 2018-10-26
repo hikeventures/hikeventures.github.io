@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Best outdoor camera bags for Sony A7III, A7II, A9, a6000, a6300 or a6500
-description: My selection of the best outdoor camera bags for your Sony camera
 date: 2018-05-11 07:30:00
 update_date: 2017-07-15 06:00:52
 category: review
@@ -23,7 +22,7 @@ So what to consider when buying a new bag for your camera? Different bags might 
 
 With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -78,7 +77,7 @@ With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/
         </tbody>
       </table>
 </div>
-<br>
+  
 
 
 ## Lowepro Photo Sport 300 AW II

@@ -1,6 +1,5 @@
 ---
 title: Best lightweight backpacking water filters for 2018
-description: Lightweight water filters for your next hiking and backpacking trip.
 date: 2017-01-02 20:43:52
 update_date: 2018-01-02 23:30:52
 category: articles
@@ -30,7 +29,7 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 
 <img src="https://farm2.staticflickr.com/1886/29463509457_fcd24e1eb2_b.jpg" width="1024" height="683" alt="Best lightweight backpacking Water Filter 2018">
 
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -48,9 +47,9 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 </a></td><td><a rel="nofollow"  href="http://amzn.to/2lZIqQl" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow"  href="http://amzn.to/2lZGgjz" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow"  href="http://amzn.to/2qdeoXm" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td></tr>
         </tbody></table>
 </div>
-<br>
+  
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+  
 ## LifeStraw Personal Water Filter
 
 <a rel="nofollow" target="_blank"   href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=hikeve-20&linkId=e3280e10d2bcee2e3196e64f56ef7af2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006QF3TW4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

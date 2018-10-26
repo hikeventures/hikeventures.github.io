@@ -1,12 +1,8 @@
 ---
 title: Cumulus Panyam 450 Review
-description: Cumulus Panyam 450 - Great 3 Season Sleeping Bag
 date: 2014-04-20 12:13:17
 category: reviews
-tags:
-  - reviews
-  - sleeping bags
-  - cumulus
+tags: Cumulus Panyam 450 Review
 layout: post
 image: https://farm8.staticflickr.com/7087/13946402053_4126fe266f_b.jpg
 ---

@@ -1,6 +1,5 @@
 ---
 title: Hiking in Zuid-Kenemerland - Middenduin - Netherlands
-description: Hiking adventure in Zuid-Kenemerland
 date: 2013-04-07 07:30:00
 category: destinations
 tags:
@@ -12,7 +11,7 @@ image: https://farm9.staticflickr.com/8399/8619179283_14a99dfe2b_b.jpg
 Middenduin is a diverse area with forest, open dunes, wooded hills and steep landscape located nearby Haarlem and was established in 1995. The sand of the dunes was used in Amsterdam and Den Haag in order to build the canals which was stopped in 1948.
 
 <img src="https://farm9.staticflickr.com/8399/8619179283_14a99dfe2b_b.jpg" width="957" height="636" alt="Hiking in Zuid-Kenemerland Middenduin" >
-<br>
+  
 <!--more-->
 
 <img src="https://farm9.staticflickr.com/8393/8619173205_b796472a66_b.jpg" width="1024" height="683" alt="Train Netherlands">

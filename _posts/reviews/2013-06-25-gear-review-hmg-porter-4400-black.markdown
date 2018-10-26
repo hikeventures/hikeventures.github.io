@@ -1,6 +1,5 @@
 ---
 title: Hyperlite Mountain Gear Porter 5400 white and 4400 Black Review
-description: Our review of the Hyperlite Mountain Gear Porter 4400 black and 5400 white
 date: 2013-06-25 07:30:00
 category: reviews
 tags:

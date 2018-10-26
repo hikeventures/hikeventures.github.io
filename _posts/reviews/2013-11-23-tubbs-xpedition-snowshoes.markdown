@@ -1,12 +1,8 @@
 ---
 title: Tubbs Xpedition Snowshoe Review
-description: Explore the great outdoors with these snowshoes
 date: 2013-12-10 07:30:00
 category: reviews
-tags:
-  - reviews
-  - tubbs
-  - snowshoeing
+tags: Tubbs Xpedition Snowshoe Review
 layout: post
 image: http://farm6.staticflickr.com/5531/11312000916_7d50425b7c_c.jpg
 ---

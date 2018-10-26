@@ -1,6 +1,5 @@
 ---
 title: Poznan, Wrocław, Jawor and Wałbrzych
-description: Exploring culture in Poznan and Slesia.
 date: 2015-07-12 21:45:07
 category: destinations
 tags:
@@ -18,7 +17,7 @@ Palace of Culture and Science built from 1952 - 1955 with a height of 231m.
 
 <img src="https://farm4.staticflickr.com/3768/18981000384_7f8eed1031_o.jpg" width="846" height="635" alt="Palace of Culture and Science Warsaw" >
 
-<br>
+  
 <!--more-->
 
 
@@ -31,7 +30,7 @@ I have only spent 3 days in Poznan but enjoyed the Market Square with it's Resta
 
 <img src="https://farm1.staticflickr.com/455/18982646473_a629ef51b8_o.jpg" width="992" height="1323" alt="St Stanislaus Church Poznan">
 
-If you are a connoisseur you should also try to visit the breakfast market in Poznan where you can find different Polish and foreign meals which were quite tasty. Moreover, there is also a Restaurant called Brovaria in the city center which is brewing it's own beer. From a historical point of view, I have also learned that 500 German settlers arrived in the city in the 13th century since there was a lack of farmers in the region and that nowadays German last names are still quite common in this region. What didn't fit at all to the city was a building dating back from the 1960s which was built in the center of the old market square but which can not be removed since buildings with an age older than 50 years are protected. Worth to see is also the mechanical goat play on top of the old town hall (see picture below) every day at noon.<br><br>
+If you are a connoisseur you should also try to visit the breakfast market in Poznan where you can find different Polish and foreign meals which were quite tasty. Moreover, there is also a Restaurant called Brovaria in the city center which is brewing it's own beer. From a historical point of view, I have also learned that 500 German settlers arrived in the city in the 13th century since there was a lack of farmers in the region and that nowadays German last names are still quite common in this region. What didn't fit at all to the city was a building dating back from the 1960s which was built in the center of the old market square but which can not be removed since buildings with an age older than 50 years are protected. Worth to see is also the mechanical goat play on top of the old town hall (see picture below) every day at noon.    
 
 <img src="https://farm1.staticflickr.com/455/19577416266_9974f74b8d_o.jpg" width="992" height="1323" alt="Old Town Hall Poznan">
 

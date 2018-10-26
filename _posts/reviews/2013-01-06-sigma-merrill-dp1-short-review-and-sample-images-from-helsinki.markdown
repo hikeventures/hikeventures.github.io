@@ -1,6 +1,5 @@
 ---
 title: Sigma Merrill DP1 Review
-description: A Sigma Merrill DP1 Camera Review
 date: 2013-01-06 07:30:00
 category: reviews
 tags:

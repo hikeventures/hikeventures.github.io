@@ -1,6 +1,5 @@
 ---
 title: Alpacka Raft Gnarwhal self bailer Test and Review
-description: Testing the Alpacka Raft Gnarwhal self bailer
 date: 2018-09-16 12:14:01
 category: destinations
 tags:
@@ -16,15 +15,15 @@ image: https://farm2.staticflickr.com/1887/44650951402_d5b96fac46_b.jpg
 Last weekend I went to the the Liesjärvi National Park to test my new Alpacka Raft Gnarwhal self bailer which I ordered from <a rel="nofollow" href="https://packrafteurope.com">Packraft Europe</a>. Before I upgraded to the Gnarwhal I had the Alpacka Raft Yak for many years which I used on rivers, lakes and in the see. I am 180 cm tall and ordered the model in size L. Here is a short test / review and I will add more information to this article over the time.
 
 <img src="https://farm2.staticflickr.com/1841/44650953452_8a1968c7a7_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer">
-<br>
+  
 <!--more-->
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRJWznmeRFo"></iframe>
 </div>
-<br>
+  
 Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=YRJWznmeRFo" rel="nofollow" target="_blank">YouTube</a> or subscribe to our <a rel="nofollow" rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
-<br>
+  
 
 ## Reasons for upgrading to a Gnarwhal
 

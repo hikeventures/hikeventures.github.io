@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Snowshoeing, Huskies and Winter Camping around Alta
-description: Our winter trip around Alta in Northern Norway
 date: 2017-01-16 20:00:00
 category: destinations
 tags:
@@ -13,7 +12,7 @@ On January 6th we decided to meet in Alta in Northern Norway to have a winter ca
 
 <img src="https://c1.staticflickr.com/1/369/32331081985_70524b57da_k.jpg" width="2048" height="1152"   alt="Snowshoeing, Huskies and Winter Camping around Alta">
 
-<br>
+  
 <!--more-->
 
 

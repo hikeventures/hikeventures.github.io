@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Packrafting in Portugal
-description: Konstanins packrafting adventure in the Algarve Portugal
 date: 2017-02-12 12:00:00
 category: destinations
 tags:
@@ -16,7 +15,7 @@ This tidal mill is one of the few things that we saw on our recent trip to Algar
 
 <img src="https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg" width="1639" height="2048"   alt="tidal mill Algarve Packrafting in Portugal">
 
-<br>
+  
 <!--more-->
 
 

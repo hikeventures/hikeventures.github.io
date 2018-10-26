@@ -1,6 +1,5 @@
 ---
 title: Inexpensive Remote control for Sony a7III
-description: remote control for the Sony A7III
 date: 2014-01-09 19:06:26
 category: reviews
 tags:

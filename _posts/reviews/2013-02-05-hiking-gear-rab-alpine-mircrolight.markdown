@@ -1,6 +1,5 @@
 ---
 title: Rab Microlight Alpine Jacket Review
-description: Our review about the Rab Microlight Alpine Jacket
 date: 2013-02-05 07:30:00
 category: reviews
 image: https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg

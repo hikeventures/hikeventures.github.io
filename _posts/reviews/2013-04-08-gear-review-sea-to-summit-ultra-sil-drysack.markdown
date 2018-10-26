@@ -1,6 +1,5 @@
 ---
 title: Sea to Summit Ultra Sil Drysack Review
-description: Sea to Summit Ultra Sil Drysack Review
 date: 2013-04-08 07:30:00
 category: reviews
 tags:

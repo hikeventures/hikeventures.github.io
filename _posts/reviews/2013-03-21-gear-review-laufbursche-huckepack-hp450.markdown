@@ -1,6 +1,5 @@
 ---
 title: Laufbursche Huckepack hp450
-description: Laufbursche Huckepack hp450 Ultralight backpack review
 date: 2013-03-21 07:30:00
 category: reviews
 image: https://farm9.staticflickr.com/8231/8576877609_d896526571_b.jpg

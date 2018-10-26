@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Cycling the 250 km Turku Archipelago Trail in Finland
-description: A bicycle adventures on the Finnish Archipelago Trail
 date: 2016-08-23 07:30:00
 category: destinations
 tags:
@@ -15,7 +14,7 @@ Last Friday I was cycling from Turku along The Turku Archipelago Trail - a 250 k
 I have planned this summer bicycle trip already a long time ago but never had time to cycle it. I am also interested to do a bicycle tour in Åland but this won't happen this year anymore. Below you can see my Surly Disc Trucker on a bridge in Turku. I just bought a pair of [Ortlieb Back Roller Classics](https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair) a week ago as well.
 
 <img src="https://c6.staticflickr.com/9/8474/28507750853_9b39187d5d_k.jpg" width="2048" height="1152" alt="Cycling the 250 km Turku Archipelago Trail in Finland" >
-<br>
+  
 <!--more-->
 
 My first stop was the church in Raisio.

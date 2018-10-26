@@ -1,6 +1,5 @@
 ---
 title: Vaasa Time-lapse
-description: Time-lapse Video mad in Vaasa
 date: 2014-01-30 22:11:11
 category: videos
 tags:

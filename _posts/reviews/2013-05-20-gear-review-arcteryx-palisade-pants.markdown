@@ -1,6 +1,5 @@
 ---
 title: Arc'teryx Palisade Pants Review
-description: Lightweight and fast drying - Arc'teryx Palisade Pants Review
 date: 2013-05-20 07:30:00
 category: reviews
 tags:

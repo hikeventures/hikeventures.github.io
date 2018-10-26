@@ -1,12 +1,8 @@
 ---
 title: Luci Outdoor Solar Lantern Review
-description: Solar Outdoor light which surprises
 date: 2014-10-26 23:15:50
 category: reviews
-tags:
-  - reviews
-  - lights
-  - luci
+tags: Luci Outdoor Solar Lantern Review
 layout: post
 image: https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg
 ---

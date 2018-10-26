@@ -1,6 +1,5 @@
 ---
 title: Primus Express Stove Review
-description: Our Primus Express Stove Review
 date: 2013-02-23 07:30:00
 category: reviews
 tags:

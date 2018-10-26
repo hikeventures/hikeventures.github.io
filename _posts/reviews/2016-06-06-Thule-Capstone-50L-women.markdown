@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JAPAN, THUVI and I - Thule Capstone 50L Women’s Hiking Pack Review
-description: With the Thule Capstone 50L Women's backpack in Japan
 date: 2016-06-06 07:30:00
 category: reviews
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Hiking in Raisio Kullavuori
-description: An outdoor adventure to Kullavuori in Raisio
 date: 2016-04-04 07:30:00
 category: destinations
 tags:
@@ -17,7 +16,7 @@ The Kullavuori watch tower is approximately 71 m above sea level which is quite 
 
 <img src="https://farm2.staticflickr.com/1443/25929918320_ca0e210d72_b.jpg" width="1024" height="768" alt="Hiking Kullavuori Raisio Finland" >
 
-<br>
+  
 <!--more-->
 
 

@@ -1,6 +1,5 @@
 ---
 title: Packrafting the Ourthe in the Belgian Ardennes
-description: Packrafting adventure in the Belgian Ardennes
 date: 2016-02-10 06:45:00
 category: destinations
 tags:
@@ -11,7 +10,7 @@ tags:
 layout: post
 ---
 Last autumn, I had a chance to join a two-day Packrafting gathering in the Belgian Ardennes to packraft the Ourthe. I heard about it when I contacted Joery and asked him if he was planning anything interesting. He said 'yes' and sent me the link to the description of this event on their blog. Briefly what it said was that a lot of packrafters were located in the Low Lands, which was why it would be nice to meet up and paddle together on the last weekend of November. I thought it was a great idea and I said I was in.
-<br>
+  
 <!--more-->
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a rel="nofollow" href="https://www.instagram.com/p/-2ITDertbA/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by HikeVentures (@hikeventures)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-12-03T22:04:57+00:00">Dec 3, 2015 at 2:04pm PST</time></p></div></blockquote>

@@ -1,6 +1,5 @@
 ---
 title: Best USB-C SD or MicroSD card reader for MacBook Pro 2018
-description: The USB-C card readers which I would buy
 date: 2016-10-10 20:43:52
 category: articles
 image: https://farm2.staticflickr.com/1849/44351162982_699461ccdd_b.jpg
@@ -21,7 +20,7 @@ The other card readers were also on my list before I made my purchase decision w
 ---
 
 <img src="https://farm2.staticflickr.com/1849/44351162982_699461ccdd_b.jpg" width="1024" height="593" alt="Best USB-C SD Card Readers for Macbook Pro 2018">
-<br>
+  
 <!--more-->
 
 ## Satechi Aluminum Type-C USB 3.0 and Micro/SD Card Reader

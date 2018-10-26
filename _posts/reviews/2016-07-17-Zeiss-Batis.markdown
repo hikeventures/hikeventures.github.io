@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Zeiss Batis 25mm and Sony A7 Test - The best wide-angle lens for outdoor photography?
-description: Some thoughts about the Zeiss Batis 25mm
 date: 2016-07-17 12:00:20
 category: best
 tags:

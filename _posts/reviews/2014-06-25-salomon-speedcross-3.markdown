@@ -1,14 +1,8 @@
 ---
 title: Salomon Speedcross 3 Review
-description: Ultralight Hiking and Trail Running boots with grip
 date: 2014-06-25 21:47:02
 category: reviews
-tags:
-  - reviews
-  - salomon
-  - shoes
-  - hiking
-  - ultralight
+tags: Salomon Speedcross 3 Review
 layout: post
 image: https://farm4.staticflickr.com/3856/14506057802_91240ffe46_b.jpg
 ---

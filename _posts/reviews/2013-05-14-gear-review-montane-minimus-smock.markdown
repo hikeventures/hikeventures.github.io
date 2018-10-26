@@ -1,6 +1,5 @@
 ---
 title: Montane Minimus Smock Review
-description: Montane Minimus Smock Review
 date: 2013-05-14 07:30:00
 category: reviews
 tags:

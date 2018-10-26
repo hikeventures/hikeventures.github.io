@@ -1,6 +1,5 @@
 ---
 title: Best Outdoor Action Camera for 2018 - GoPro vs. Sony
-description: Which Action Camera? GoPro Hero 4 vs. Sony FDR-X1000V
 date: 2015-08-18 07:28:01
 category: articles
 image: https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg
@@ -18,7 +17,7 @@ Obviously, there are two models which are currently hot on the market - the GoPr
 Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a rel="nofollow" href="#list">camera comparison table</a>.
 
 <img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2018" >
-<br>
+  
 <!--more-->
 
 To answer the question I am just going to compare the specifications of the cameras.
@@ -27,7 +26,7 @@ Of course, if you are used to the GoPro Software to edit videos then you are mos
 
 Sony, however is a market leader in developing camera sensors and since action cameras have the highest market share in the camera business it's quite obvious that Sony is going to stay here.
 
-<iframe src="https://player.vimeo.com/video/76995626" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>Our packrafting video taken with a GoPro Hero 2 camera in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
+<iframe src="https://player.vimeo.com/video/76995626" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  Our packrafting video taken with a GoPro Hero 2 camera in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
 <h2 id="list">Best Outdoor Action Camera for 2016 - 2017</h2>
 
@@ -45,9 +44,9 @@ Sony, however is a market leader in developing camera sensors and since action c
 | Sensor Size         |           1/2.3           |      1/2.3      |
 | Angle of View       |            170            |   170 or 120    |
 
-<br>
+  
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+  
 
 Looking at the Specs, I am more tempted in getting the Sony FDR-X1000V action camera.
 

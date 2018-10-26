@@ -1,6 +1,5 @@
 ---
 title: Best sensor cleaning kit for Sony a7, a9 or a6500
-description: The best sensor clearning kits for Sony Cameras
 date: 2017-03-30 20:43:52
 category: articles
 image: https://farm3.staticflickr.com/2829/11856929704_c0e64fb9db_b.jpg
@@ -26,7 +25,7 @@ Then you turn the swap around and repeat the process from the right of the senso
 Finally you exit the clean mode and switch off the camera.
 
 <img src="https://farm3.staticflickr.com/2829/11856929704_c0e64fb9db_b.jpg" width="2048" height="1536" alt="best sensor cleaning kit for Sony a7, a9 or a6500" >
-<br>
+  
 <!--more-->
 
 ## Altura Photo Professional Cleaning Kit

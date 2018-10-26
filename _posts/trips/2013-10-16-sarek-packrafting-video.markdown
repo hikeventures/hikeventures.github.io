@@ -1,6 +1,5 @@
 ---
 title: Sarek Packrafting Video
-description: Sarek Packrafting Video
 date: 2013-10-16 07:30:00
 category: videos
 tags:

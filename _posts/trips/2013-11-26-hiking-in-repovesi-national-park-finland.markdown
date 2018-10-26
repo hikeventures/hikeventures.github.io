@@ -1,6 +1,5 @@
 ---
 title: Hiking in Repovesi National Park
-description: Our adventure to the Repovesi National Park. One of the best National Parks in Southern Finland.
 date: 2012-11-26 07:30:00
 category: destinations
 tags:
@@ -17,7 +16,7 @@ Repovesi National Park is Southern Finland's most popular hiking destination and
 <img src="https://farm9.staticflickr.com/8489/8197196285_bafe700360_h.jpg" width="1600" height="1067" alt="Entrance Repovesi National Park" >
 
 This is the main entrance to Repovesi National Park. We actually left the park from here as we went to far with the bus and entered the National Park from another spot.
-<br>
+  
 <!--more-->
 
 <img src="https://farm9.staticflickr.com/8488/8198639492_5cd3f6b50e_h.jpg" width="1600" height="1067" alt="Blueberries from Repovesi National Park in Finland">

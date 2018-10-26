@@ -1,6 +1,5 @@
 ---
 title: Best Throw Bags
-description: The best throw bags for packrafting and kayaking
 date: 2015-03-05 17:20:20
 update_date: 2018-02-21 06:00:52
 category: articles
@@ -25,7 +24,7 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jack
 
 <img src="https://farm6.staticflickr.com/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683" alt="Best Throw Bags" >
 
-<br>
+  
 <!--more-->
 
 ## NRS Standard Rescue Throw Bag

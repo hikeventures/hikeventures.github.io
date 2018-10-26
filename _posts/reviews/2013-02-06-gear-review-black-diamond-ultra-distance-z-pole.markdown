@@ -1,6 +1,5 @@
 ---
 title: Black Diamond Ultra Distance Z-Pole Review
-description: Our review about the Black Diamond Ultra Distance Z-Poles
 date: 2013-02-06 07:30:00
 category: reviews
 tags:

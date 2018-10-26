@@ -1,12 +1,8 @@
 ---
 title: polychromeLAB Alta Quota
-description: polychromeLAB Alta Quota - High Tech Outdoor Jacket from Italy
 date: 2014-04-14 21:09:26
 category: reviews
-tags:
-  - reviews
-  - jackets
-  - polychromelab
+tags: polychromeLAB Alta Quota
 layout: post
 image: https://farm3.staticflickr.com/2897/13975139011_e928d56e15_b.jpg
 ---

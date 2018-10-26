@@ -1,6 +1,5 @@
 ---
 title: Hirvensalo Luontopolku Hiking - Natura 2000
-description: Hiking in Hirvensalo on the Natura 2000 trail
 date: 2014-08-14 22:05:28
 category: destinations
 tags:
@@ -15,7 +14,7 @@ image: https://farm4.staticflickr.com/3871/14732117110_35f3c97630_c.jpg
 Today, I went for an evening hike along the luontopolku in Friskala (Turku) which is part of the Natura 2000 network. Highlight were the bird tower, horses and cows.
 
 <img src="https://farm4.staticflickr.com/3868/14894433696_16fca2d0df_c.jpg" width="476" height="635" alt="Evening hike in Friskala Hirvensalo Luontopolku" >
-<br>
+  
 <!--more-->
 
 <a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/14894433696"><img src="https://farm4.staticflickr.com/3868/14894433696_16fca2d0df_c.jpg" width="600" height="800" alt="Evening hike in Friskala Hirvensalo Luontopolku"></a>

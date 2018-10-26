@@ -1,6 +1,5 @@
 ---
 title: Best Snowshoes 2018
-description: Our selection of the best snowshoes for 2018.
 date: 2016-01-03 09:19:51
 update_date: 2016-12-27 06:00:52
 category: articles
@@ -27,7 +26,7 @@ Also look at the size of the crampons and if the binding is suitable / durable o
 Below you can see Konstantin snowshoeing in the Austrian Alps.
 
 <img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes 2018" >
-<br>
+  
 <!--more-->
 
 ## <a rel="nofollow" name="table">Weight comparison table</a>
@@ -61,7 +60,7 @@ Below you can see Konstantin snowshoeing in the Austrian Alps.
 </tbody>
 </table>
 </div>
-<br>
+  
 
 ## Atlas 12
 

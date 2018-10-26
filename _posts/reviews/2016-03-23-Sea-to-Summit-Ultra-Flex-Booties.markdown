@@ -1,6 +1,5 @@
 ---
 title: Sea to Summit Ultra Flex Booties Review
-description: Review - Sea to Summit Ultra Flex Booties for packrafting or Kayaking
 date: 2016-03-23 07:30:00
 category: reviews
 tags:

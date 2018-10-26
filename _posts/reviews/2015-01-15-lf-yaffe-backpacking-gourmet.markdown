@@ -1,11 +1,8 @@
 ---
 title: Backpack Gourmet Book Review
-description: Tired of ready made camping food? Prepare your dehydrated food at home
 date: 2015-01-15 17:38:55
 category: reviews
-tags:
-  - reviews
-  - books
+tags: Backpack Gourmet Book Review
 layout: post
 image: https://farm8.staticflickr.com/7580/16099407770_b3a5627190_b.jpg
 ---

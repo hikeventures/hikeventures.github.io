@@ -1,6 +1,5 @@
 ---
 title: Thule Atmos X4 Review
-description: We were testing the Thule X4 on our packrafting trip in Scotland
 date: 2016-03-10 07:30:00
 category: reviews
 tags:

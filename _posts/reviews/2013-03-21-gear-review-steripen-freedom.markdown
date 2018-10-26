@@ -1,6 +1,5 @@
 ---
 title: SteriPen Freedom Review
-description: SteriPen Freedom Review
 date: 2013-03-21 07:30:00
 category: reviews
 image: https://farm9.staticflickr.com/8089/8578007098_5d395e160d_b.jpg

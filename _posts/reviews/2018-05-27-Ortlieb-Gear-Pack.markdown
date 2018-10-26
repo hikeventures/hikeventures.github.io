@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ortlieb Gear-Pack Review
-description: Our review of the Ortlieb Gear Pack
 date: 2018-06-11 07:30:00
 category: reviews
 tags:
@@ -15,7 +14,7 @@ tags:
 A few weeks ago we received the Ortlieb Gear-Pack in yellow and red colours as Ortlieb thought that those bags would be a good fit for our packrafting trips. The Gear-Packs are available in 32L and 40L which means that they are more suitable for day trips rather than multi-day trips. If the Gear-Packs would be available in 80L or more then they would probably be the perfect backpacks for packrafting trips lasting multiple days.
 
 <img src="https://farm2.staticflickr.com/1752/28836788138_e6e18c8054_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack">
-<br>
+  
 <!--more-->
 
 The Ortlieb Gear-Pack has been designed - as the name already suggests - to take your gear with you on the trip. As the Gear-Pack is waterproof its probably a great solution for all kind of watersport activities but I could also see it as a backpack for hiking or biking.

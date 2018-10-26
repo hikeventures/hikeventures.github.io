@@ -1,6 +1,5 @@
 ---
 title: The Archipelago National Park Trail
-description: Cycling in the Archipelago National Park
 date: 2017-07-13 08:14:01
 category: destinations
 tags:
@@ -21,7 +20,7 @@ The new route goes from Turku to Pensar, Korpoström, Aspö, [Örö](http://ww
 
 <img src="https://farm5.staticflickr.com/4229/35871086005_c61f3867b2_k.jpg" width="2048" height="1191" alt="Örö Island - Archipelago National Park" >
 
-<br>
+  
 <!--more-->
 
 ## Turku to Pensar

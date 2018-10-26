@@ -1,6 +1,5 @@
 ---
 title: The best toothbrush for traveling, hiking, backpacking and camping
-description: Find the best toothbrush for your next adventure
 date: 2016-09-12 11:02:20
 category: articles
 tags:

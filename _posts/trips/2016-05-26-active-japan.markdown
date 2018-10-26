@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hiking, Packrafting and Camping in Japan
-description: How we went hiking, packrafting and camping during our trip in Japan in 2015.
 date: 2016-06-30 07:30:00
 category: destinations
 tags:
@@ -20,7 +19,7 @@ As you know, last year we went to Japan for three weeks. And it was great. So gr
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/k6IzwpS9YwI?rel=0"></iframe>
 </div>
-<br>
+  
 <!--more-->
 
 There is just over a week left before the trip and Marta and I have 'reisefieber'.  We don’t know what the three-week trip will be exactly like, but we are certain that it will be great. And what else can it be? After all, it’s Japan.

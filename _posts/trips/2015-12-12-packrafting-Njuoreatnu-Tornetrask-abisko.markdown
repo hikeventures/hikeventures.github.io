@@ -1,6 +1,5 @@
 ---
 title: Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden - Day 1
-description: Packrafting in the Swedish Mountains
 date: 2015-12-12 10:00:00
 category: destinations
 tags:
@@ -16,7 +15,7 @@ image: https://farm6.staticflickr.com/5757/23038444344_ce39f7f20f_b.jpg
 This summer we decided to participate at the Fjällräven Classic - a hiking event in Sweden. However, since we both had time we added a few more days in advance to go packrafting on our own. The idea was to store our luggage at the finish line of the Fjällräven Classic and go for a 3-days packrafting trip nearby the Abisko National Park. As camping in the Abisko National Park is only permitted at dedicated areas we decided to stay outside of the park which was at the end a good decision as we only met 1 person with a kayak during the 3 days which we were paddling on the river Njuoreatnu (Swedish: Njuoroaätno, Sami: Njuoraeatnu) towards the lake Torneträsk - with 168 m the second deepest lake in Sweden.
 
 <img src="https://farm6.staticflickr.com/5757/23038444344_ce39f7f20f_b.jpg" width="1024" height="768" alt="Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden" >
-<br>
+  
 <!--more-->
 
 We decided to meet in Stockholm to take the 18 hours train up to the North. Konstantin was flying from Poznan (Poland) but actually just returned from his hiking and packrafting trip in Japan. Patrick came by ferry (Viking Line) from Turku which also took around 10 hours. The trains are actually quite comfortable even so they are not very new.
@@ -36,7 +35,7 @@ The idea was to leave our packrafts after our packrafting trip in Abisko, take t
 
 <img src="https://farm6.staticflickr.com/5705/23640521656_8b320791fa_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"></a>
 
-<br>  There are two Abisko stations. This one we skipped but went further to the Abisko Turiststation station.
+    There are two Abisko stations. This one we skipped but went further to the Abisko Turiststation station.
 
 <img src="https://farm1.staticflickr.com/648/23298655229_c72c20ca51_b.jpg" width="100%" alt="Travelling by train from Stockholm to Abisko Sweden - Hiking - Fjällräven Classic">
 
@@ -66,7 +65,7 @@ Konstantin presenting some of the gear we decided to take on our packrafting tri
 
 <img src="https://farm6.staticflickr.com/5710/23582346562_27489503dc_b.jpg" width="768" height="1024" alt="Fjällräven Classic Gear List - Abisko Sweden - HMG Porter 4400 - Food - MSR Hubba Hubba NX">
 
-<br>There was also the <a rel="nofollow" href="http://www.lansstyrelsen.se/norrbotten/Sv/djur-och-natur/friluftsliv/naturum/abisko/Pages/default.aspx">Naturum Abisko</a> (an information centre for mountain nature and culture) next to the STF Turiststation where we asked for advice on where we should go packrafting.
+  There was also the <a rel="nofollow" href="http://www.lansstyrelsen.se/norrbotten/Sv/djur-och-natur/friluftsliv/naturum/abisko/Pages/default.aspx">Naturum Abisko</a> (an information centre for mountain nature and culture) next to the STF Turiststation where we asked for advice on where we should go packrafting.
 
 We were told that there is a nice rapid - the Njuoreatnu - which flows directly into the Torneträsk lake which is just in front of the STF Turiststation and we were also able to get a ride to Vassijaure - where we started our packrafting trip - from the person who advised us after his shift ended to the point where we inflated our packrafts, jumped into our drysuites and started our packrafting adventures.
 

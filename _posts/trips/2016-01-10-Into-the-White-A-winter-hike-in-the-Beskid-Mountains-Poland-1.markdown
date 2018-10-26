@@ -1,6 +1,5 @@
 ---
 title: Into the White – A winter hike in the Beskid Mountains in Poland - Part 1
-description: A winter hike in the Beskid Mountains, Poland
 date: 2016-01-10 23:41:18
 category: destinations
 tags:
@@ -16,7 +15,7 @@ image: https://farm2.staticflickr.com/1540/23666917643_91cba5df45_b.jpg
 Having just survived the sudden frost and minus temperatures here, in the north of the Netherlands, it seems just appropriate to pay respect to winter hiking and turn our thoughts to one of the adventures we had last winter, just over a year ago. The hike we are going to talk about took place at the end of 2014, between Christmas and the New Year’s Eve, when we dragged our backpacks for 4 days in the south of Poland, covered around 75km at the altitudes between 600-1100m above see level and just met a few people on the way and in the shelters. That was really fun!
 
 <img src="https://farm2.staticflickr.com/1540/23666917643_91cba5df45_b.jpg" width="1000" height="664" alt="A winter hike in the Beskid Mountains in Poland" >
-<br>
+  
 <!--more-->
 
 

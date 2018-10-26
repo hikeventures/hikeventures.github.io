@@ -1,6 +1,5 @@
 ---
 title: Packrafting the Alta River in Norway
-description: Our packrafting adventure in Norway
 date: 2015-09-28 014:20:07
 category: destinations
 tags:

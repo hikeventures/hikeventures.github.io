@@ -1,6 +1,5 @@
 ---
 title: Spring Packrafting in Sweden
-description: A video about a packrafting meeting in Sweden
 date: 2015-05-17 08:10:07
 category: reviews
 tags:
@@ -14,7 +13,7 @@ This spring Konstantin from HikeVentures teamed up with <a rel="nofollow" href="
 
 
 As the next Swedish Packrafting Gathering is going to take place in just over one months (5-8 May), I would like to share some pictures that I took at the first event that took place last April. And here is how it started...
-<br>
+  
 <!--more-->
 
 <img src="https://farm2.staticflickr.com/1443/25644251223_332a48070a_b.jpg" width="100%" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland" >
