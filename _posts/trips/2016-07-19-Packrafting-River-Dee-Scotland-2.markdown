@@ -14,7 +14,7 @@ We had a good night sleep after the [first day](http://www.hikeventures.com/Pack
 
 <img src="https://farm2.staticflickr.com/1651/25215070553_2bf0cca03f_b.jpg" width="1024" height="681" alt="Packrafting in Scotland - River Dee" >
 
-<br>
+  
 <!--more-->
 
 
