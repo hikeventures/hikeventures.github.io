@@ -44,25 +44,21 @@ published: true
         </div>
 <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12 page-content-divider"></div>
 <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12 page-content-sidebar s1920">
-        <div class="sidebar-title">
-
-
-
-
-	                <a href="/archive/"><span class="icon"></span>RECENT POSTS</a>
+        
+  <div class="sidebar-image">
+    <div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>  
+  </div>
+  <div class="sidebar-title">
+                <a href="/archive/"><span class="icon"></span>RECENT POSTS</a>
 	                </div>
 	                <div class="recent-posts">
-	                {% for post in site.posts limit:5 %}
+	                {% for post in site.posts limit:15 %}
 	                    <a class="recent-post" href="{{ BASE_PATH }}{{ post.url }}">
 	                        <span class="recent-post-date">{{ post.date | date_to_string }}</span>
 	                        <span class="recent-post-title" >{{ post.title }}</span>
 	                    </a>
 	                {% endfor %}
 	                </div>
-										<div class="sidebar-image">
-										<script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;ctc=post_side&amp;open=_blank"></script>
-										</div>
-
 </div>
 
 	</div>
