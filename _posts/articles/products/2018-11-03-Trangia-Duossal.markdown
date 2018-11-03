@@ -28,9 +28,7 @@ My Trangia kit includes the following items:
 * <a href="https://amzn.to/2SJEYGi" rel="nofollow">0.6 litre kettle (200325)</a>. Weight 140 grams.
 * <a href="https://amzn.to/2QeG4bx" rel="nofollow">2 x Plates (500020)</a>. Ø200 mm in aluminum. Weight 110 g.
   
-<img src="https://farm5.staticflickr.com/4253/35423816251_0f9b6efcef_k.jpg" width="2048" height="1367" alt="Bushcraft Essentials Bushbox">
-  
-I got the idea to cook on a hobo stove when visiting the OutDoor Show in Friedrichshafen, where we talked with Bushcraft Essentials and their hobo stoves. 
+I got the idea to cook on a hobo stove when visiting the OutDoor Show in Friedrichshafen, where we talked with Bushcraft Essentials about their outdoor stoves. Here is the video:
   
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rgYfBKtylVs"></iframe>
