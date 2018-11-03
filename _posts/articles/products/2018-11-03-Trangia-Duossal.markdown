@@ -34,9 +34,9 @@ I got the idea to cook on a hobo stove when visiting the OutDoor Show in Friedri
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rgYfBKtylVs"></iframe>
 </div>
   
-I found the hobo stoves quite interesting as they give you the possibility to create a small fire if there is no fireplace nearby. They produce quite a lot of heat on a small spot. 
+I found the hobo stoves quite interesting as they gives me the possibility to create a small fire if there is no fireplace nearby. They produce quite a lot of heat on a small spot. 
 
-Of course, cooking on a hobo stove requires a bit of preparation e.g. you have to find wood and it takes a bit longer than cooking with gas. However, real fire just gives you a nicer atmosphere and also some heat to warm yourself when it's cold. 
+Of course, cooking on a hobo stove requires a bit of preparation e.g. I have to find wood and it takes a bit longer than cooking with gas. However, real fire just gives me a nicer atmosphere and also some heat to warm myself when it's cold. 
 
 ## Firestarter Kit
 And here are some items which I use to start a fire:
@@ -61,4 +61,4 @@ Currently, I have only the spirit burner for my Trangia set but I am also planni
   
 I also got a new <a href="https://amzn.to/2DnuU1s" rel="nofollow">dehydrator, which I will use to prepare meals in advance before heading out for a trip. 
 
-In the past, I have always bought ready made meals from the camping store but I got tired of the taste and a trip is just much more fun if you have tasty food with you.
+In the past, I have always bought ready made meals from the camping store but I got tired of the taste and a trip is just much more fun if I have tasty food with me.
