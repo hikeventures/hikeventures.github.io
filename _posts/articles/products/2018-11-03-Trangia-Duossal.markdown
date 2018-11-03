@@ -47,8 +47,10 @@ And here are some items which I use to start a fire:
 * Tree bark e.g. from a birch tree
 * <a href="https://amzn.to/2OkTNfn" rel="nofollow">Primus PowerLighter</a>
 * <a href="https://amzn.to/2PEZRDS" rel="nofollow">Primus Filling Adaptor</a> for Lighter to recharge the lighter with a gas canister.
-
+  
 <img src="https://farm5.staticflickr.com/4641/39208348072_0729a1ddc7_k.jpg" width="2048" height="1368" alt="Primus PowerLighter">
+  
+If you are not able to lit a fire with matches or with the Swedish FireSteel then the Primus PowerLighter is a safe option from my point of view. It can also be refilled with gas from your gas canister by using the Primus Filling Adaptor.
   
 ## Gas burner
   
