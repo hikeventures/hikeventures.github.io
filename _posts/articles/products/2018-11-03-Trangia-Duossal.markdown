@@ -56,7 +56,7 @@ Currently, I have only the spirit burner for my Trangia set but I am also planni
   
 * <a href="https://amzn.to/2PaVEJ2" rel="nofollow">Trangia gas burner</a>
 * <a href="https://amzn.to/2SIP8r4" rel="nofollow">Trangia Triangel stove</a>
-
+  
 <img src="https://farm2.staticflickr.com/1943/45291497842_5541dbee47_k.jpg" width="2048" height="1365" alt="Trangia Duossal 2.0 campfire">
   
 ## Preparing meals
