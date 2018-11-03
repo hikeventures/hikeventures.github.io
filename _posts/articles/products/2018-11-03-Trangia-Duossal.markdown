@@ -1,5 +1,5 @@
 ---
-title: Cooking with Trangia Duossal 2.0 over Gas, Fire and Hobo stove.
+title: Cooking with Trangia Duossal 2.0 on gas, fire and hobo stove.
 date: 2018-12-03 06:14:01
 category: articles
 tags: Trangia, cooking
@@ -49,10 +49,16 @@ And here are some items which I use to start a fire:
 * <a href="https://amzn.to/2PEZRDS" rel="nofollow">Primus Filling Adaptor</a> for Lighter to recharge the lighter with a gas canister.
 
 <img src="https://farm5.staticflickr.com/4641/39208348072_0729a1ddc7_k.jpg" width="2048" height="1368" alt="Primus PowerLighter">
-
+  
 ## Gas burner
   
 Currently, I have only the spirit burner for my Trangia set but I am also planning to get a gas or multi-fuel burner in the future as I might also travel to places where I am not able to find fire wood or if I need to cook very fast.
-
+  
 * <a href="https://amzn.to/2PaVEJ2" rel="nofollow">Trangia gas burner</a>
 * <a href="https://amzn.to/2SIP8r4" rel="nofollow">Trangia Triangel stove</a>
+  
+## Preparing meals
+  
+I also got a new <a href="https://amzn.to/2DnuU1s" rel="nofollow">dehydrator, which I will use to prepare meals in advance before heading out for a trip. 
+
+In the past, I have always bought ready made meals from the camping store but I got tired of the taste and a trip is just much more fun if you have tasty food with you.
