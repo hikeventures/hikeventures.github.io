@@ -65,3 +65,5 @@ In the past, I have always bought ready made meals from the camping store but I 
 So, I decided to get a new <a href="https://amzn.to/2DnuU1s" rel="nofollow">dehydrator</a>, which I will use to prepare meals in advance before heading out for a trip. 
   
 Once the food is dehydrated, I will store it in small minigrip bags. I am also thinking of getting a small <a href="https://amzn.to/2F0ZRKy" rel="nofollow">vacuum sealer</a> in the future which would keep the dehydrated food even longer fresh and dry than minigrip bags.
+  
+Follow our blog to see how we will use the Trangia on camp fire, gas burner and on a hobo stove.
