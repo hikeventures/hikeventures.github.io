@@ -36,7 +36,7 @@ I got the idea to cook on a hobo stove when visiting the OutDoor Show in Friedri
   
 I found the hobo stoves quite interesting as they give you the possibility to create a small fire if there is no fireplace nearby. They produce quite a lot of heat on a small spot. 
 
-Of course, cooking with a hobo stove requires a bit of preparation e.g. you have to find wood and it takes a bit longer than cooking with gas, but real fire just gives a nicer atmosphere and also some heat to warm yourself when it's cold. 
+Of course, cooking on a hobo stove requires a bit of preparation e.g. you have to find wood and it takes a bit longer than cooking with gas. However, real fire just gives you a nicer atmosphere and also some heat to warm yourself when it's cold. 
 
 ## Firestarter Kit
 And here are some items which I use to start a fire:
