@@ -94,7 +94,7 @@ Further, it also includes a permanent 1/4" universal screw and 3/8" adapter scre
 
 ## Manfrotto Befree Advanced Travel Tripod & Ball Head for Sony Alpha Lever Lock
 
-<a rel="nofollow"  href="https://www.amazon.com/Manfrotto-Befree-Advanced-Travel-Tripod/dp/B07D31RTZQ/ref=as_li_ss_il?ie=UTF8&qid=1533353256&sr=8-1&keywords=manfrotto+befree+sony&linkCode=li3&tag=hikeve-20&linkId=9b94413aa410166f95afff37b81a6380" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D31RTZQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B07D31RTZQ" width="1" height="1" border="0" alt="Manfrotto Befree Advanced Travel Tripod & Ball Head for Sony Alpha Lever Lock" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/Manfrotto-Befree-Advanced-Travel-Tripod/dp/B0772RZBGM/ref=as_li_ss_il?ie=UTF8&qid=1541439538&sr=8-4-fkmr1&keywords=manfrotto+befree+alpha&linkCode=li3&tag=hikeve-20&linkId=739411403fa57b79c084f86773d0833e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0772RZBGM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0772RZBGM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight**: 1500 grams / 3.5 lbs  
 **load capacity**: 8.8 lbs  
