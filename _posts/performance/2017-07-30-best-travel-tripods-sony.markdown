@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best tripods which I would consider to buy for a Sony A7III, A9 or a6500. My person favorites are the <a rel="nofollow" href="http://amzn.to/2uIDsdU" target="_blank" >SLIK Mini Pro III</a> if I go hiking and the <a rel="nofollow" href="https://amzn.to/2OIymWU" target="_blank" >Manfrotto Befree Sony edition</a> for more serious or creative stuff.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best tripods which I would consider to buy for a Sony A7III, A9 or a6500. My person favorites are the <a rel="nofollow" href="http://amzn.to/2uIDsdU" target="_blank" >SLIK Mini Pro III</a> if I go hiking and the <a rel="nofollow" href="https://amzn.to/2OIymWU" target="_blank" >Manfrotto Befree </a> for more serious or creative stuff while traveling. If you don't mind the weight then the <a href="https://amzn.to/2DnMqmc" rel="nofollow">Manfrotto 190go!</a> offers the most flexibility for creativity of all tripods listed here.
 
 <img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best tripods for Sony a7, a9 or a6500" layout="responsive">
   
@@ -63,7 +63,9 @@ Here is my <a rel="nofollow" href="#table">selection</a> of the best tripods whi
         <tr>
           <td><a rel="nofollow" href="https://amzn.to/2OIymWU" target="_blank" >Manfrotto BeFree Aluminum</a></td><td>1590 grams / 3.5 lbs</td>
         </tr>
-
+        <tr>
+          <td><a rel="nofollow" href="https://amzn.to/2DnMqmc" target="_blank" >Manfrotto 190go!</a></td><td>1600 grams / 3.7 lbs</td>
+        </tr>
         <tr>
           <td><a rel="nofollow" href="http://amzn.to/2uJQBmW" target="_blank" >Joby Gorillapod Focus GP8</a></td><td>1750 kg / 3.86 lbs</td>
         </tr>
@@ -106,6 +108,23 @@ Further, it also includes a permanent 1/4" universal screw and 3/8" adapter scre
 The Manfrotto BeFree is my favorite Tripod when traveling. It folds small and offers most of the features you want to see on a tripod. It also comes with a quick release ball head and a QR plate. I don't have the Sony version of this tripod since it was not released at the time when I bought it but obviously I would have bought the Sony version if it would have been available.
 
 <a rel="nofollow" href="https://amzn.to/2LNgufL" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
+
+## Manfrotto Befree Advanced Travel Tripod & Ball Head for Sony Alpha Lever Lock
+
+<a rel="nofollow" href="https://www.amazon.com/Manfrotto-MT190GOA4TB-Aluminum-Section-Tripod/dp/B00VIJRJCE/ref=as_li_ss_il?ie=UTF8&qid=1541439793&sr=8-3&keywords=manfrotto+190go&dpID=41LyqE8hGkL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li3&tag=hikeve-20&linkId=108ac47c080e8be28cc1b0eeadff5815" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00VIJRJCE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00VIJRJCE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**weight**: 1600 grams / 3.7 lbs  
+**load capacity**: 15.4 lbs  
+**maximum height**: 57.5"  
+**min height**: 2.75"  
+**folded length**: 17.7"  
+**leg dections**: 4  
+
+The Manfrotto 190go! is probably my new tripod which I will use for more creative work or even replace my Befree tripod with it. Why? It has a reversible column which can be positioned at a 90 degrees angle. Moreover, it offers quick locks and an Easy Link socket where other gear such as a LED lamp or an external monitor can be attached. It is slightly heavier than the BeFree but is much more versatile. Moreover, you can remove the ballhead and use it together with a slider. The ballhead of my choice would be the <a href="https://amzn.to/2DqqLcY" rel="nofollow">Manfrotto 494 Aluminum Center Ball Head with 200PL-PRO Quick Release Plate</a>.
+
+<a rel="nofollow" href="https://amzn.to/2DnMqmc" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
