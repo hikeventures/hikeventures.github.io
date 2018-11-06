@@ -1,6 +1,6 @@
 ---
 title: The best Video LED Light for Sony A7, A9 or A6500
-date: 2018-09-23 18:14:01
+date: 2018-08-23 18:14:01
 category: articles
 tags:
   - articles
