@@ -1,6 +1,6 @@
 ---
 title: Cooking with Trangia Duossal 2.0 on gas, fire and hobo stove.
-date: 2018-12-03 06:14:01
+date: 2018-11-03 06:14:01
 category: articles
 tags: Trangia, cooking
 layout: post
