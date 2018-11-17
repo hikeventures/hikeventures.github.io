@@ -7,6 +7,7 @@ tags:
   - dehydrator
   - receipts
   - cooking
+image: https://farm5.staticflickr.com/4897/30986478917_3740302a62_k.jpg
 ---
 
 Today, I had some time to try out my new <a href="https://amzn.to/2qZOvNb" rel="nofollow">dehydrator</a> and to prepare some tasty cinnamon apples. 
