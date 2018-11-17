@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: Preparing Cinnamon Apples with my Dehydrator
 date: 2018-11-17 07:30:00
