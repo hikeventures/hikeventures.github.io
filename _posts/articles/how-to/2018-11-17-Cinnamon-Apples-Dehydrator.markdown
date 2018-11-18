@@ -22,7 +22,7 @@ Moreover, you can pack them into a Mini-grip bag and take them with you on a hik
 
 Cinnamon apples are quite easy to prepare.
 
-1. Wash and peal Apples
+1. Wash and peal apples
 2. Remove the apple core
 3. Slice the apples in thin pieces
 4. Mix sugar and cinnamon on a plate
