@@ -36,4 +36,4 @@ Cinnamon apples are quite easy to prepare.
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CB4M03xtQB4"></iframe>
 </div>
 
-Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=CB4M03xtQB4"  target="_blank">YouTube</a> or subscribe to our <a rel="nofollow"  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
+Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=CB4M03xtQB4"  target="_blank">YouTube</a>if you like this video or subscribe to our <a rel="nofollow"  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
