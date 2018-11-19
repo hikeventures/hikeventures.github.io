@@ -29,3 +29,9 @@ Cinnamon apples are quite easy to prepare.
 5. Coat the apples with the sugar-cinnamon mix
 6. Put them into a dehydrator for about 10 hours at 60 C.
 7. Eat them :)
+
+## Video instructions
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CB4M03xtQB4"></iframe>
+</div>
