@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Federico Sette explains during the GoExpo Winter Helsinki 2018 what you can do in Engadin during winter time.
+Federico Sette explains during the GoExpo Winter Helsinki 2018 what you can do in Engadin / St. Moritz during winter time.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vzJi42g_Viw"></iframe>
