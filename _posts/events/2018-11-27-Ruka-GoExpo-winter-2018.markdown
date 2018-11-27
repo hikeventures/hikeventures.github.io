@@ -1,6 +1,6 @@
 ---
 title: Ruka - GoExpo Winter 2018 Helsinki
-date: 2018-11-27 06:01:25
+date: 2018-11-26 04:01:25
 category: articles
 tags:
   - articles
