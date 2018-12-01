@@ -87,7 +87,7 @@ Our Privacy Notice can be found <a href="http://www.hikeventures.com/privacy/">h
 				</div>
 				<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
 					<p><strong>Patrick Dormischian</strong><br />
-					Ylämaankatu 5<br />
+					Ylänkötie 34 C 2<br />
 					04430 Järvenpää<br />
 					Finland</p>
 				</div>
