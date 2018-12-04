@@ -12,7 +12,7 @@ image: https://farm5.staticflickr.com/4864/32257805348_203f239573_k.jpg
 ---
 A while ago I was looking for a camping chair which is lightweight and packs small to take it on my packrafting or photography trips.
 
-On the <a href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/">packrafting meetup</a> in Sweden I met one guy who had a Helinox camping chair with him and after some test sitting I became interested to get one for myself and here is a short review about the Helinox Chair Zero which I received from Helinox for testing. Helinox is a company from Australia.
+On the <a href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/">packrafting meetup</a> in Sweden I met one guy who had a Helinox camping chair with him and after some test sitting I became interested to get one for myself and here is a short review about the Helinox Chair Zero which I received from Helinox for testing. Helinox is a company from South Korea.
   
 <img src="https://farm5.staticflickr.com/4864/32257805348_203f239573_k.jpg" width="2048" height="1365" alt="Helinox Chair One">
   
