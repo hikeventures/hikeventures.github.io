@@ -38,9 +38,13 @@ Personally, I don't mind carrying more gear with me if I can get comfort in exch
 
 I could see such a chair perfectly on my packrafting trips. The advantage of packrafting is that you don't have to carry the gear. I have an Alpacka Raft Gnarwhal and I can easily throw in all kind of gear into the cargo fly. 
 
+<img src="https://farm5.staticflickr.com/4859/45520714764_00a1f55654_k.jpg" width="2048" height="1365" alt="Helinox Zero Chair">
+
 ## Where would I not take the Helinox Chair Zero?
 
 Would I take the Helinox Chair Zero on a trip in the mountains. Well, I am not sure but from my experience when <a href="http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/">crossing the Alps from Germany to Italy</a>, I realised that I would not appreciate having a heavy backpack on my back when walking up the mountains. In this case the chair would probably stay at home.
+
+<img src="https://farm5.staticflickr.com/4848/45520717684_43ce59a4de_k.jpg" width="2048" height="1365" alt="Untitled">
 
 ## Accessories
 
