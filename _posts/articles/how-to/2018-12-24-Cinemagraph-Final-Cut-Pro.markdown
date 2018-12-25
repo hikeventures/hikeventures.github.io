@@ -14,7 +14,8 @@ In this blog post I would like to share how I created a Cinemagraph as in the ex
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FAkOIboxCKk"></iframe>
 </div><br>
 <!--more-->
-
+<br>
+  
 **Here are the steps to create a Cinemagraph in Final Cut Pro:**
 
 1. Import the video footage into Final Cut Pro 
