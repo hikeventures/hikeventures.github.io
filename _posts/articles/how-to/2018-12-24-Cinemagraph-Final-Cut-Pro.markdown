@@ -32,6 +32,7 @@ In this blog post I would like to share how I created a Cinemagraph as in the ex
 
 <img src="https://farm8.staticflickr.com/7912/46454132841_3765c7a28c_k.jpg" width="2048" height="1176" alt="Final Cut Pro - Cinemagraph">
 <br>
+<br>
 Here is another Cinemagraph which I have created:
 
 <div class="embed-responsive embed-responsive-16by9">
