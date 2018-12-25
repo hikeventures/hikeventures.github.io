@@ -14,9 +14,9 @@ In this blog post I would like to share how I created a Cinemagraph as in the ex
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FAkOIboxCKk"></iframe>
 </div>
 
-<!-- more -->
+<!--more-->
 
-Here are the steps to create a Cinemagraph in Final Cut Pro:
+**Here are the steps to create a Cinemagraph in Final Cut Pro:**
 
 1. Import the video footage into Final Cut Pro 
 2. Drag the video footage into the timeline of FCP
@@ -31,7 +31,7 @@ Here are the steps to create a Cinemagraph in Final Cut Pro:
 11. Now adjust the video footage and the freeze frame according to your needs.
 12. Add an audio footage. For example I always record my audio footage seperately with my <a href="https://amzn.to/2RbA33e" rel="nofollow">Sound Devices MixPre-3</a>. 
 
-<img src="https://farm8.staticflickr.com/7912/46454132841_3765c7a28c_k.jpg" width="2048" height="1176" alt="Final Cut Pro - Cinemagraph"></a>
+<img src="https://farm8.staticflickr.com/7912/46454132841_3765c7a28c_k.jpg" width="2048" height="1176" alt="Final Cut Pro - Cinemagraph">
 
 Here is another Cinemagraph which I have created.
 
