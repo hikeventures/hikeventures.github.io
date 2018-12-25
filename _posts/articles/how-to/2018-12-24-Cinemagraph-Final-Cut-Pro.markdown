@@ -24,7 +24,7 @@ In this blog post I would like to share how I created a Cinemagraph as in the ex
 4. Click on "Edit" in the menu bar and then "Add Freeze Frame". 
 5. Move the Freeze Frame in the timeline above the video footage and adjust the length to cover the whole video footage (or the part which you want to use for the Cinemagraph)
 6. In the timeline select the Freeze Frame on top of the video footage.
-7. Select Effects and then search for "Draw Mask".
+7. Select Effects and then search for "Draw Mask" (see also image below).
 8. Drag and drop it on top of the Freeze Frame in the timeline.
 9. Connect points around the part which should be animated with the video footage.
 10. In the Draw Mask settings make sure to select "Invert Mask".
@@ -32,11 +32,9 @@ In this blog post I would like to share how I created a Cinemagraph as in the ex
 12. Add an audio footage. For example I always record my audio footage seperately with my <a href="https://amzn.to/2RbA33e" rel="nofollow">Sound Devices MixPre-3</a>. 
 
 <img src="https://farm8.staticflickr.com/7912/46454132841_3765c7a28c_k.jpg" width="2048" height="1176" alt="Final Cut Pro - Cinemagraph">
-
-Here is another Cinemagraph which I have created.
+<br>
+Here is another Cinemagraph which I have created:
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ay6OuzMX4E0"></iframe>
 </div>
-
-You can give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=FAkOIboxCKk" target="_blank">YouTube</a>if you like this video (or found this tutorial useful) or subscribe to our <a rel="nofollow"  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
