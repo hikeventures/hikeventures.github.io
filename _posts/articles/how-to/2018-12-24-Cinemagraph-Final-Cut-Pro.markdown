@@ -12,8 +12,7 @@ In this blog post I would like to share how I created a Cinemagraph as in the ex
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FAkOIboxCKk"></iframe>
-</div>
-<br>
+</div><br>
 <!--more-->
 
 **Here are the steps to create a Cinemagraph in Final Cut Pro:**
