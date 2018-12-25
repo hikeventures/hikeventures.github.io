@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: How to create a Cinemagraph with Final Cut Pro
 date: 2018-12-25 05:30:00
