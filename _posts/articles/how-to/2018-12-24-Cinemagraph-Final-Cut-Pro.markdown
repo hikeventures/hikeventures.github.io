@@ -6,7 +6,7 @@ category: reviews
 tags:
   - Cinemagraph
   - How-To
-image: https://farm5.staticflickr.com/4897/30986478917_3740302a62_k.jpg
+image: https://farm8.staticflickr.com/7912/46454132841_3765c7a28c_k.jpg
 ---
 In this blog post I would like to share how I created a Cinemagraph as in the example below out of a video footage from my <a href="https://amzn.to/2Shf9Ni" rel="nofollow">Sony A7III</a> with a <a href="https://amzn.to/2Afx28l" rel="nofollow">Sony 24mm f1.4</a> lens in Final Cut Pro. Personally, I really like this effect and it's really easy to do it yourself. There is also no need to buy any third party apps etc.
 
