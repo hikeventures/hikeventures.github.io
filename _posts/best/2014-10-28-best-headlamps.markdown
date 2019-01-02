@@ -1,7 +1,6 @@
 ---
-title: Best Headlamps 2018
+title: Best Headlamps 2019
 date: 2016-01-03 23:02:20
-update_date: 2018-01-08 06:00:52
 category: articles
 image: https://farm2.staticflickr.com/1846/43684048664_f45eef7231_b.jpg
 tags:
@@ -10,7 +9,7 @@ tags:
   - lamps
 layout: post
 ---
-Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight headlamps for 2018 which I would consider taking to my next hiking, backpacking or camping trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight headlamps for 2019 which I would consider taking to my next hiking, backpacking or camping trip.
 
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
 
@@ -20,7 +19,7 @@ However, if you are looking for a smaller headlamp which is also waterproof, the
 
 Also, have a look at our [FAQ on headlamps](#faq-on-headlamps).
 
-<img src="https://farm2.staticflickr.com/1846/43684048664_f45eef7231_b.jpg" width="1024" height="576" alt="Best headlamps 2018">
+<img src="https://farm2.staticflickr.com/1846/43684048664_f45eef7231_b.jpg" width="1024" height="576" alt="Best headlamps 2019">
 On [our winter camping trip](http://www.hikeventures.com/winter-camping-alta/) in Alta - Norway
   
 <!--more-->
@@ -161,7 +160,7 @@ The Petzl Bindi headlamp comes with impressive 200 lumens while only weights 35 
 
 This headlamp is an excellent choice for exercising in the city or the mountains and can be recharged with a USB cable. Moreover, the Bindi is waterproof.
 
-The Petzl Bindi will be available from March 2018.
+The Petzl Bindi will be available from March 2019.
 
 <hr>
 

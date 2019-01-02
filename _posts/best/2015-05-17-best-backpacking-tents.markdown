@@ -1,7 +1,6 @@
 ---
-title: Best backpacking tents of 2018
+title: Best backpacking tents of 2019
 date: 2016-01-03 00:07:07
-update_date: 2017-08-28 05:43:52
 category: articles
 image: https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg
 tags:
@@ -11,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> the best backpacking tents for 2018 which I would consider buying for my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> the best backpacking tents for 2019 which I would consider buying for my next hiking or backpacking trip.
 
 I have tested already a couple of tents on <a rel="nofollow" href="http://www.hikeventures.com/destinations/">our trips</a> in Europe, Scandinavia or Japan and realized that the best solution would be to have a tent for different seasons and environments.
 
@@ -20,7 +19,7 @@ I have tested already a couple of tents on <a rel="nofollow" href="http://www.hi
 
 Also, have a look at our [FAQ on tents](#faq-on-tents) or our handy [price comparison tool](http://www.hikeventures.com/deals/).
 
-<img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best backpacking tents of 2018" >
+<img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best backpacking tents of 2019" >
   
 <!--more-->
 

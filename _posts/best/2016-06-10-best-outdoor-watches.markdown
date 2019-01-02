@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best GPS watches for hiking and backpacking 2018
+title: Best GPS watches for hiking and backpacking 2019
 date: 2016-06-10 13:46:20
 update_date: 2017-01-15 06:00:52
 category: articles
@@ -11,7 +11,7 @@ tags:
   - watches
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a>  of the best outdoor watches for hiking and backpacking for 2018 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.
+Here is my <a rel="nofollow" href="#table">selection</a>  of the best outdoor watches for hiking and backpacking for 2019 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.
 
 At the moment I am wearing a Suunto Traverse which has a monochrome display and I am quite satisfied with it.
 
@@ -20,7 +20,7 @@ However, I would be interested to get an outdoor watch which features a color di
 Probably one disadvantage of watches having a color display and a GPS is their short battery life.
 
 
-<img src="https://farm2.staticflickr.com/1874/44401347201_84d8688688_b.jpg" width="1024" height="680" alt="Best GPS watch 2018">
+<img src="https://farm2.staticflickr.com/1874/44401347201_84d8688688_b.jpg" width="1024" height="680" alt="Best GPS watch 2019">
   
 <!--more-->
 

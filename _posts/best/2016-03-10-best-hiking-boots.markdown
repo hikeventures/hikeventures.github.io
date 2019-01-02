@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Best lightweight Hiking Boots for 2018
+title: Best lightweight Hiking Boots for 2019
 date: 2016-03-02 09:13:12 +0200
-update_date: 2018-01-14 06:00:52
 category: articles
 image: https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg
 tags:
@@ -12,7 +11,7 @@ tags:
 published: true
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best hiking boots for 2018 which I would consider to wear on my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best hiking boots for 2019 which I would consider to wear on my next hiking or backpacking trip.
 
 Hiking boots are important if you are planning to hike in the mountains or if you have to carry a heavy backpack. Moreover, they  should provide a good grip as well
 
@@ -20,7 +19,7 @@ For day trips which are not that demanding [lightweight hiking shoes](http://www
 
 However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.
 
-<img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best hiking boots for 2018" >
+<img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best hiking boots for 2019" >
   
 <!--more-->
 

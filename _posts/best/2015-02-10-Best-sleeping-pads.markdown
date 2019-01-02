@@ -1,7 +1,6 @@
 ---
-title: Best Sleeping Pads and Mats in 2018
+title: Best Sleeping Pads and Mats in 2019
 date: 2016-01-03 18:49:09
-update_date: 2018-02-14 06:00:52
 category: reviews
 image: https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg
 tags:
@@ -11,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight sleeping pads and mats which I would consider to buy in 2018 for my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight sleeping pads and mats which I would consider to buy in 2019 for my next hiking or backpacking trip.
 
 I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure.
 
@@ -21,7 +20,7 @@ From all sleeping pads I would probably recommend you the <a rel="nofollow" href
 
 I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to sleeping pad throughout the year.
 
-<img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads and Mats 2018" >
+<img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads and Mats 2019" >
   
 <!--more-->
 

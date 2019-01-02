@@ -1,7 +1,6 @@
 ---
-title: Best Merino Base Layers for Hiking and Packrafting 2018
+title: Best Merino Base Layers for Hiking and Packrafting 2019
 date: 2016-10-04 20:43:52
-update_date: 2018-01-27 06:00:52
 category: articles
 image: https://farm2.staticflickr.com/1848/44351228672_d2046e546f_b.jpg
 tags:
@@ -11,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a>of the best merino wool base layers for 2018.
+Here is my <a rel="nofollow" href="#table">selection</a>of the best merino wool base layers for 2019.
 
 For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering).
 

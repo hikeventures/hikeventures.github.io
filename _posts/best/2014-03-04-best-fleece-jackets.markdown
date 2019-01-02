@@ -1,7 +1,6 @@
 ---
-title: Best Fleece Jackets 2018
+title: Best Fleece Jackets 2019
 date: 2015-03-04 17:20:20
-update_date: 2018-02-14 06:00:52
 category: articles
 image: https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg
 tags:
@@ -11,9 +10,9 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a>  of the best lightweight fleece jackets for 2018 which I would consider to buy for my next hiking or backpacking adventure.
+Here is my <a rel="nofollow" href="#table">selection</a>  of the best lightweight fleece jackets for 2019 which I would consider to buy for my next hiking or backpacking adventure.
 
-Here is my [selection](#the-best-fleece-jackets-of-2018) of the best lightweight fleece jackets for 2017 - 2018 which I would consider to buy for my next hiking or backpacking adventure.
+Here is my [selection](#the-best-fleece-jackets-of-2019) of the best lightweight fleece jackets for 2017 - 2019 which I would consider to buy for my next hiking or backpacking adventure.
 
 For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it’s insulation once it’s wet. An alternative to a fleece jacket would be a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) which has the advantage of being windproof.
 
@@ -21,7 +20,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jackets.
 
-<img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets 2018" >
+<img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets 2019" >
   
 <!--more-->
 

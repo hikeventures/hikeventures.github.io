@@ -1,7 +1,6 @@
 ---
-title: Best lightweight backpacking water filters for 2018
+title: Best lightweight backpacking water filters for 2019
 date: 2017-01-02 20:43:52
-update_date: 2018-01-02 23:30:52
 category: articles
 image: https://farm2.staticflickr.com/1886/29463509457_fcd24e1eb2_b.jpg
 tags:
@@ -11,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best backpacking water filters for 2018 which I would take with me on my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best backpacking water filters for 2019 which I would take with me on my next hiking or backpacking trip.
 
 There are several solution on the market e.g. water filters where you have to pump water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
 
@@ -27,7 +26,7 @@ To remove viruses you can combine a filter with e.g. the Steripen Freedom (we ha
 
 The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our interview at the end of this article.
 
-<img src="https://farm2.staticflickr.com/1886/29463509457_fcd24e1eb2_b.jpg" width="1024" height="683" alt="Best lightweight backpacking Water Filter 2018">
+<img src="https://farm2.staticflickr.com/1886/29463509457_fcd24e1eb2_b.jpg" width="1024" height="683" alt="Best lightweight backpacking Water Filter 2019">
 
   
 <!--more-->

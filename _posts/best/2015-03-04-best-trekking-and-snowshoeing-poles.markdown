@@ -1,7 +1,6 @@
 ---
-title: Best trekking and snowshoeing poles for 2018
+title: Best trekking and snowshoeing poles for 2019
 date: 2016-01-03 16:08:38
-update_date: 2017-07-08 06:00:52
 category: articles
 image: https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg
 tags:
@@ -11,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best trekking and snowshoeing poles which I would consider to buy in 2018.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best trekking and snowshoeing poles which I would consider to buy in 2019.
 
 Trekking poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow with your snowshoes.
 
@@ -19,7 +18,7 @@ Further, you can also use trekking poles for nordic walking so they are quite ve
 
 Also have a look on the [down](http://www.hikeventures.com/best-down-jackets/) or [fleece jackets](http://www.hikeventures.com/best-fleece-jackets/) which I would consider to take on my trip.
 
-<img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2018" >
+<img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2019" >
   
 <!--more-->
 

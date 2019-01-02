@@ -10,7 +10,7 @@ tags:
   - pfd
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best life jackets or PFDs for Packrafting and Kayaking in 2018.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best life jackets or PFDs for Packrafting and Kayaking in 2019.
 
 As we are frequently on packrafting trips we are always interested to find new packrafting gear like. We also [review][e2fa46ca] sometimes PFDs such as the [Alpha PFD][3601875e] from Palm.
 

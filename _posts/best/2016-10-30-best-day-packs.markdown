@@ -1,7 +1,6 @@
 ---
-title: Best Hiking Daypacks for 2018
+title: Best Hiking Daypacks for 2019
 date: 2016-10-30 20:43:52
-update_date: 2016-12-30 23:30:52
 category: articles
 image: https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg
 tags:
@@ -11,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best day packs 2018 which I would consider carry if I were to buy a new one.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best day packs 2019 which I would consider carry if I were to buy a new one.
 
 A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city.
 
@@ -19,7 +18,7 @@ A day pack weights much less than a regular backpack and you will be able to enj
 
 I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.
 
-<img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2018" >
+<img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2019" >
   
 <!--more-->
 ## <a rel="nofollow" name="table">Weight comparison table</a>

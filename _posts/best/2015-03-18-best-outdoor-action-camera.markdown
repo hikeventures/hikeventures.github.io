@@ -1,5 +1,5 @@
 ---
-title: Best Outdoor Action Camera for 2018 - GoPro vs. Sony
+title: Best Outdoor Action Camera for 2019 - GoPro vs. Sony
 date: 2015-08-18 07:28:01
 category: articles
 image: https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg
@@ -10,13 +10,13 @@ layout: post
 ---
 
 
-For our packrafting adventures I am always looking for the latest action camera developments for 2018.
+For our packrafting adventures I am always looking for the latest action camera developments for 2019.
 
 Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V.
 
 Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a rel="nofollow" href="#list">camera comparison table</a>.
 
-<img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2018" >
+<img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2019" >
   
 <!--more-->
 

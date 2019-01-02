@@ -1,7 +1,6 @@
 ---
-title: Best RSS feed Readers for Bloggers 2018
+title: Best RSS feed Readers for Bloggers 2019
 date: 2015-03-28 18:04:22
-update_date: 2016-12-27 06:00:52
 category: articles
 tags:
   - articles

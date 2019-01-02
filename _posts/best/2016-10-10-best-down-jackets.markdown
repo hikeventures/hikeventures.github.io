@@ -1,7 +1,6 @@
 ---
-title: Best Down Jackets 2018
+title: Best Down Jackets 2019
 date: 2016-10-10T20:43:52.000Z
-update_date: 2018-01-22T22:10:52.000Z
 category: articles
 image: https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg
 tags:
@@ -13,11 +12,11 @@ categories:
   - best
 ---
 
-In this blog post, I have <a rel="nofollow" href="#table">selected</a> the best down jackets of 2018 which I would consider buying if I were to get a new one for my next <a rel="nofollow" href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
+In this blog post, I have <a rel="nofollow" href="#table">selected</a> the best down jackets of 2019 which I would consider buying if I were to get a new one for my next <a rel="nofollow" href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
-<img src="https://farm2.staticflickr.com/1884/29463222337_6a0f272a50_z.jpg" width="2048" height="1152" alt="Best down jackets 2018" >
+<img src="https://farm2.staticflickr.com/1884/29463222337_6a0f272a50_z.jpg" width="2048" height="1152" alt="Best down jackets 2019" >
   
 <!--more-->
 

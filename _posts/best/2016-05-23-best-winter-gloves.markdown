@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Best winter gloves for skiing and hiking 2018
-date: 2018-01-03 19:10:07
+title: Best winter gloves for skiing and hiking 2019
+date: 2019-01-03 19:10:07
 category: articles
 image: https://farm2.staticflickr.com/1855/29463765917_8bc3d3ca37_b.jpg
 tags:
@@ -10,9 +10,9 @@ tags:
   - best
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best ski gloves for 2018. Of course, you can also wear these gloves for snowboarding.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best ski gloves for 2019. Of course, you can also wear these gloves for snowboarding.
 
-<img src="https://farm2.staticflickr.com/1855/29463765917_8bc3d3ca37_b.jpg" width="1024" height="680" alt="est winter gloves for skiing and hiking 2018">
+<img src="https://farm2.staticflickr.com/1855/29463765917_8bc3d3ca37_b.jpg" width="1024" height="680" alt="est winter gloves for skiing and hiking 2019">
   
 <!--more-->
 

@@ -1,5 +1,5 @@
 ---
-title: Best USB-C monitor for Macbook Pro 2018
+title: Best USB-C monitor for Macbook Pro 2019
 date: 2018-01-21 05:28:01
 category: best
 image: https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg
@@ -16,7 +16,7 @@ I really would like to have an external 4K or 5K monitor with my MacBook Pro sin
 
 In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
 
-<img src="https://farm2.staticflickr.com/1865/30533096008_8d1b265196_b.jpg" width="1024" height="768" alt="Best USB-C Monitor for Macbook Pro 2018">
+<img src="https://farm2.staticflickr.com/1865/30533096008_8d1b265196_b.jpg" width="1024" height="768" alt="Best USB-C Monitor for Macbook Pro 2019">
 
   
 <!--more-->
