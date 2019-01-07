@@ -44,3 +44,9 @@ Hiskias was said to be a vagaond who used to live in the cave in the last centur
 I really liked the scenery from the Kammiovuori and would be interested to visit again next autumn when the landscape will be covered with colorful trees.
 
 <img src="https://farm8.staticflickr.com/7845/45923848194_cb72a6c018_k.jpg" width="2048" height="1368" alt="Kammiovuori - Second highest point in Southern Finland">
+
+And here is a short video from my trip:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PBUHNpxQ-Mo"></iframe>
+</div>
