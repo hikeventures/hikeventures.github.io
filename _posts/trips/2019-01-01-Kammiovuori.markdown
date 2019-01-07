@@ -9,7 +9,7 @@ tags:
   - Winter
   - hiking
 layout: post
-image: https://farm2.staticflickr.com/1899/30829383808_e01baeddf7_k.jpg
+image: https://farm8.staticflickr.com/7924/32773855888_5ac4d7023a_k.jpg
 ---
 Recently, I have visited the second highest place in southern Finland called Kammiovuori which has a height of 221 meters.
 
