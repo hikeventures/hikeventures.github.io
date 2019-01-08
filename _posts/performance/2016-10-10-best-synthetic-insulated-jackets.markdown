@@ -1,7 +1,6 @@
 ---
-title: Best Synthetic Insulated Jackets 2018
+title: Best Synthetic Insulated Jackets 2019
 date: 2016-10-10 20:43:52
-update_date: 2018-03-17 05:43:52
 category: articles
 image: https://farm2.staticflickr.com/1870/43683494474_630630c791_b.jpg
 tags:
@@ -12,13 +11,13 @@ layout: post
 # URL: http://www.hikeventures.com/best-synthetic-insulated-jackets/
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best synthetic insulated jackets for 2018 which I would consider buying for my next winter or hiking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best synthetic insulated jackets for 2019 which I would consider buying for my next winter or hiking trip.
 
 Wearing a synthetic insulated jacket over a <a rel="nofollow" href="http://www.hikeventures.com/best-down-jackets/">down jacket</a> can have several reasons.
 
 Either you are just looking for an alternative to down because of ethical reasons or you are planning to wear your jacket in a damp or humid environment where down may lose its insulation capabilities when it gets wet.
 
-<img src="https://farm2.staticflickr.com/1870/43683494474_630630c791_b.jpg" width="1000" height="664" alt="Best Synthetic Insulated Jackets 2018">
+<img src="https://farm2.staticflickr.com/1870/43683494474_630630c791_b.jpg" width="1000" height="664" alt="Best Synthetic Insulated Jackets 2019">
 
 On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/), we could choose between wearing a synthetic or down jacket due to the low humidity.
   

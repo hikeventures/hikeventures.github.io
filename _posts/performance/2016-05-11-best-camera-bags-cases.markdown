@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Best outdoor camera bags for Sony A7III, A7II, A9, a6000, a6300 or a6500
-date: 2018-05-11 07:30:00
-update_date: 2017-07-15 06:00:52
+date: 2019-05-11 07:30:00
 category: review
 image: https://farm2.staticflickr.com/1854/44401438761_506851eef4_b.jpg
 tags:
@@ -136,7 +135,7 @@ The case will also float on the water with your camera in it, but Aquapac mentio
 **Weight**: 2050 grams / 4.5 lbs  
 **Dimensions**: 9 x 6 x 14 inches / 23 x 16 x 38 cm  
 
-The Gitzo Adventury 30L DSLR camera bag is the Red Dot Award winner 2018 and is probably a good choice if you are looking for a premium outdoor backpack for outdoor activities as it has been designed for bird, wildlife, nature and landscape photographers in mind. Beside a DSLR you can also pack a 70-200 mm lens into the backpack as well as another camera body and up to 4 lenses. Moreover, you can also carry a 13" laptop or a iPad Pro 9 inch into the backpack. There are also spots to attach additional accessories to the backpack. The backpack is water repellent and comes with a rain cover.
+The Gitzo Adventury 30L DSLR camera bag is the Red Dot Award winner 2019 and is probably a good choice if you are looking for a premium outdoor backpack for outdoor activities as it has been designed for bird, wildlife, nature and landscape photographers in mind. Beside a DSLR you can also pack a 70-200 mm lens into the backpack as well as another camera body and up to 4 lenses. Moreover, you can also carry a 13" laptop or a iPad Pro 9 inch into the backpack. There are also spots to attach additional accessories to the backpack. The backpack is water repellent and comes with a rain cover.
 
 <a rel="nofollow" href="https://amzn.to/2AGn9mL" ><img src="http://www.hikeventures.com/buy.gif"></a>
 

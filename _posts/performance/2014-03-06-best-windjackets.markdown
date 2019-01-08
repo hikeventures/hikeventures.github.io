@@ -1,7 +1,6 @@
 ---
-title: Best Wind Jackets 2018
+title: Best Wind Jackets 2019
 date: 2016-01-04 10:56:22
-update_date: 2017-12-31 06:00:52
 category: articles
 image: https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg
 tags:
@@ -11,11 +10,11 @@ tags:
 layout: post
 # URL: http://www.hikeventures.com/best-windjackets/
 ---
-Here is my <a rel="nofollow" href="#table">selection</a> of the best wind jackets for 2018 which I would consider to take on my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best wind jackets for 2019 which I would consider to take on my next hiking or backpacking trip.
 
 A lightweight wind jacket is probably one of the most useful pieces of clothes which you can pack into your backpack and it does not need much space either.
 
-<img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2018" >
+<img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2019" >
 [Patrick](https://www.facebook.com/patrickdormischian) hiking in [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden wearing a wind jacket.
   
 <!--more-->

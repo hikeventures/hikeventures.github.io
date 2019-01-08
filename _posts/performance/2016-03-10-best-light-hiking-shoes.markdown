@@ -1,7 +1,6 @@
 ---
-title: Best Ultralight Hiking Shoes for 2018
+title: Best Ultralight Hiking Shoes for 2019
 date: 2016-03-02 07:30:00 +0300
-update_date: 2017-07-14 06:00:52
 category: articles
 image: https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg
 tags:
@@ -12,7 +11,7 @@ layout: post
 # URL: http://www.hikeventures.com/best-light-hiking-shoes/
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best light hiking shoes for 2018.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best light hiking shoes for 2019.
 
 I was wearing light hiking shoes on my <a rel="nofollow" href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">hiking trip</a> in the Sarek National Park in Sweden.
 
@@ -21,7 +20,7 @@ Compared to traditional hiking boots they are of course much lighter and packabl
 Also, have a look at our [FAQ on hiking shoes](#faq-on-hiking-shoes).
 
 
-<img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="best ultralight hiking shoes 2018" >
+<img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="best ultralight hiking shoes 2019" >
   
 <!--more-->
 

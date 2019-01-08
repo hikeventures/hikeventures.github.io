@@ -1,7 +1,6 @@
 ---
-title: Best Rain Pants 2018
+title: Best Rain Pants 2019
 date: 2015-02-08T09:13:12.000Z
-update_date: 2018-01-13T06:00:52.000Z
 category: articles
 image: https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg
 tags:
@@ -15,9 +14,9 @@ categories:
 # URL: http://www.hikeventures.com/best-rain-pants/
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight rain pants of 2018 for your next hiking or backpacking adventure. Also have a look on my selection of the best <a rel="nofollow" href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> for your next trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight rain pants of 2019 for your next hiking or backpacking adventure. Also have a look on my selection of the best <a rel="nofollow" href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> for your next trip.
 
-<img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2018" >
+<img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2019" >
   
 <!--more-->
 

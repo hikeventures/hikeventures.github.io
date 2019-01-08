@@ -2,7 +2,6 @@
 
 title: Differences between Suunto 9, Suunto 3 Fitness, Suunto Traverse and Ambit3 and Spartan Trainer Wrist HR
 date: 2015-10-20 05:59:40
-update_date: 2018-07-05 06:00:52
 category: articles
 image: https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg
 tags:
@@ -127,11 +126,11 @@ Update 26.1.2017: Suunto announced the Suunto Spartan Sport - Another premium mu
 
 Update 10.08.2017: Suunto announced the Suunto Spartan Trainer Wrist HR - similar features as the more expensive models but in a slimmer design.
 
-Update 4.4.2018: Suunto has released the Suunto 3 Fitness watch.
+Update 4.4.2019: Suunto has released the Suunto 3 Fitness watch.
 
 **Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both are featuring color displays and are the latest developments from Suunto. There is also the new [Garmin Fenix 5X](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch) which is capable of displaying topo maps.
 
-**Update 5.07.2018:** Suunto has released the [Suunto 9](https://amzn.to/2tTFKWq).
+**Update 5.07.2019:** Suunto has released the [Suunto 9](https://amzn.to/2tTFKWq).
 
   
 
