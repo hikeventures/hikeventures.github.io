@@ -17,7 +17,7 @@ Light and plenty of tools - the Victorinox Swisslite Pocket Knife is the perfect
 <!--more-->
 <a href="https://www.flickr.com/photos/90204224@N07/8372531265" title="Light My Fire Swedish Fire Steel"><img src="https://farm9.staticflickr.com/8196/8372531265_a2a9822deb_b.jpg" width="683" height="1024" alt="Light My Fire Swedish Fire Steel"></a><br><br>
 
-Light my fire swedish fire steel works even when its wet and windy. It's a great tool to light up a fire or your stove.<br><br>
+Light my fire Swedish fire steel works even when its wet and windy. It's a great tool to light up a fire or your stove.<br><br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/8372527259" title="Retki LED Light"><img src="https://farm9.staticflickr.com/8515/8372527259_441aed73e8_b.jpg" width="683" height="1024" alt="Retki LED Light"></a><br><br>
 

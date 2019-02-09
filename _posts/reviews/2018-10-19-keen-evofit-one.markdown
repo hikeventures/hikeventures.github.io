@@ -10,9 +10,9 @@ tags:
 layout: post
 image: https://farm2.staticflickr.com/1941/43529168720_b204e08f3c_k.jpg
 ---
-For my packrafting trips I was looking for shoes which I can wear together with my dry suite and I came across the KEEN EVOFIT ONE. KEEN provided my a pair of test sandals and I took them with me on my three days packrafting trip in <a href="http://www.hikeventures.com/finnish-packrafting-meetup-teijo/">Teijo National Park</a> in Finland.
+For my packrafting trips I was looking for shoes which I can wear together with my dry suite and I came across the KEEN EVOFIT ONE. KEEN provided my a pair of test sandals and I took them with me on my three days packrafting trip in <a href="http://www.hikeventures.com/finnish-packrafting-meetup-teijo/">Teijo National Park</a> in Finland. We make a small commission for purchases made through the following links which helps us to keep this blog running.
   
-<a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1941/43529168720_b204e08f3c_k.jpg" width="2048" height="1365" alt="Teijo National Park"></a>
+<img src="https://farm2.staticflickr.com/1941/43529168720_b204e08f3c_k.jpg" width="2048" height="1365" alt="Teijo National Park">
   
 <!--more-->
 ## The idea behind the sandals

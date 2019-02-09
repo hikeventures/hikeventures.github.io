@@ -27,4 +27,4 @@ In general I liked this book and would recommend it especially if you are new in
 
 I really liked that the text is complemented with many pictures which gave me some inspirations which I have not thought of before reading this book. There could have been more ideas about post processing but if you are new to Lightroom then you will get a good overview on how to use it as a tool.
 
-You can get the book on <a rel="nofollow" href="http://amzn.to/2uVnFIF" target="_blank" >Amazon</a>.
+You can get the book on <a rel="nofollow" href="http://amzn.to/2uVnFIF" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

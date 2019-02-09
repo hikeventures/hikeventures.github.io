@@ -48,4 +48,4 @@ I have tested the Montane Minimus Smock <a rel="nofollow" href="http://hikeventu
 
 Personally, I would recommend the <a rel="nofollow" href="http://amzn.to/1lBVJ4S" >Montane Minimus Jacket</a> over Montane Minimus Smock. It's just much easier to put-on/off the jacket. If you want something more durable then I can also recommend the [Arcteryx Tecto FL jacket](http://hikeventures.com/arcteryx-tecto-fl-jacket/).
 
-You can get the Montane Minimus Smock on <a rel="nofollow" href="http://amzn.to/2uYalBL" target="_blank" >Amazon</a>.
+You can get the Montane Minimus Smock on <a rel="nofollow" href="http://amzn.to/2uYalBL" target="_blank" >Amazon</a>. We make a commission for purchases made through the previous link which helps us to keep this blog running.

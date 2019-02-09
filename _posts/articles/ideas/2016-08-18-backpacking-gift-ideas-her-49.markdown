@@ -9,7 +9,7 @@ tags:
   - gadgets
 ---
 
-Here is a selection of camping, hiking and backpacking gift and gadget ideas for women for 2018. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post.
+Here is a selection of camping, hiking and backpacking gift and gadget ideas for women for 2018. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 ## Snail Shape Silicone Tea Bag Holder
 

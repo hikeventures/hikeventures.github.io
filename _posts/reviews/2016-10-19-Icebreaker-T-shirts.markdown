@@ -114,4 +114,4 @@ To sum it up, I love my icebreakers because they look nice on me, I can wear the
 
 Final comment: Only recently, my wife told me that she would like to ask Santa Claus for a black icebreaker to replace her favorite one which was stolen earlier this year. And I have a feeling that he might grant her that wish.
 
-You can get the Icebreaker Tech T Lite on <a rel="nofollow" href="http://amzn.to/2w5FKSP" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Icebreaker Tech T Lite on <a rel="nofollow" href="http://amzn.to/2w5FKSP" target="_blank" rel="nofollow">Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

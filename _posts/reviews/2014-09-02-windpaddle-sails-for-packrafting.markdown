@@ -48,4 +48,4 @@ Below you can see a video how I use the windpaddle sail with a packraft.
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xWmOE6kdmjk"></iframe>
 </div>
 
-You can get the Windpallde Sail on <a rel="nofollow" href="http://amzn.to/2uYBuVe" target="_blank" >Amazon</a>.
+You can get the Windpallde Sail on <a rel="nofollow" href="http://amzn.to/2uYBuVe" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

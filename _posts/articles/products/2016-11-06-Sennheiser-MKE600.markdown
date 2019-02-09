@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Yesterday, I went with <a rel="nofollow" href="http:/www.hutkai.fi/">Caj</a> and Katja to Härmälän Rotko which is located about 20 km North-West of Turku to test my Sennheiser MKE 600 on my Sony A7.
+Yesterday, I went with <a rel="nofollow" href="http:/www.hutkai.fi/">Caj</a> and Katja to Härmälän Rotko which is located about 20 km North-West of Turku to test my Sennheiser MKE 600 on my Sony A7. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 The Sennheiser KA 600 connected the microphone with the camera. I also had a Rycote Super Softie as a windjammer on my microphone. Between the microphone and the camera I had a Rycote Hot Shoe Extension and a Rycote InVision Video Mic shock mount suspension installed. The low-pass filter on the Sennheiser MKE 600 microphone was switched off. The lens on my camera was a Zeiss Batis 25mm f/2. <a rel="nofollow" href="http://www.hikeventures.com/children_playing_ice_finland/">Here</a> you can find another example with my Sound Devices MixPre-3.
 

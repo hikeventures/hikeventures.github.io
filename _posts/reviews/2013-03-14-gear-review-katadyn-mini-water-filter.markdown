@@ -28,7 +28,9 @@ I have tested the Katadyn Mini Water Filter on <a rel="nofollow" href="http://hi
 
 <img src="https://farm8.staticflickr.com/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Field Test - Filtering Water with Katadyn Mini in Sarek National Park in Sweden"><br>
 
-## Alternative
+## Alternative 
+We make a commission for purchases made through the following links which helps us to keep this blog running.
+
 If you are looking for an ultralight water filter where you don't have to pump then you should have a look at the <a rel="nofollow" href="http://amzn.to/2rncNiF" >Sawyer Water Filter</a> which also comes with a lower price tag.
 
 You can find the Katadyn Mini Water Filter on <a rel="nofollow" href="http://amzn.to/2vhRYdF" target="_blank" >Amazon</a>.

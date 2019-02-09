@@ -34,4 +34,4 @@ I use the North Face Base Camp Duffle mainly to transport my gear between airpor
 
 <img src="http://farm9.staticflickr.com/8254/8624813100_cdabac8954_c.jpg" width="1150" alt="The North Face Base Camp Duffle">
 
-You can get the North Face Base Camp Duffle on <a rel="nofollow" href="http://amzn.to/2u3fQC3" target="_blank" >Amazon</a>.
+You can get the North Face Base Camp Duffle on <a rel="nofollow" href="http://amzn.to/2u3fQC3" target="_blank" >Amazon</a>. We make a commission for purchases made through the previous link which helps us to keep this blog running.

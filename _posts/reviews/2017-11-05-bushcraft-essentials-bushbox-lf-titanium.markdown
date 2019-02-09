@@ -30,4 +30,4 @@ The Bushcraft Essentials Fire Piston is actually quite interesting. It has a wat
   
 After having used the Bushcraft Essentials Bushbox LF Titanium for a few times I would say that I am quite happy with it. It's not a budget stove but you get what you pay for. The quality of this stove is really good.
   
-You can get the Bushcraft Essentials Bushbox LF Titanium on <a rel="nofollow"  href="https://amzn.to/2JZDBxD">Amazon</a>.
+You can get the Bushcraft Essentials Bushbox LF Titanium on <a rel="nofollow"  href="https://amzn.to/2JZDBxD">Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

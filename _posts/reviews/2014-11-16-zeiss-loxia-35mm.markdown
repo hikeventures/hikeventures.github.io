@@ -34,4 +34,4 @@ Also the rendering of the pictures should have a more Zeiss looking style which 
 
 However, I need to test this first as the 35mm Loxia lens is not available yet. There is also the [Zeiss Loxia 50mm f/2 Planar T*](http://amzn.to/11bfg1A) lens available but since I am more into landscape photography the 35mm is my choice.
 
-You can get the Zeiss Loxia on <a rel="nofollow" href="http://amzn.to/2uYaDss" target="_blank" >Amazon</a>.
+You can get the Zeiss Loxia on <a rel="nofollow" href="http://amzn.to/2uYaDss" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

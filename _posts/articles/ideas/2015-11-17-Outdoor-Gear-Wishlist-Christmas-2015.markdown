@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my Christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoeing or packrafting adventures (in case I would get the items).
+Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my Christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoeing or packrafting adventures (in case I would get the items). We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 ![][image-1]
 

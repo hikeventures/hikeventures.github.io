@@ -38,4 +38,4 @@ Finally, you should also consider to have shoes or sandals which are not slipper
 
 We will continue testing the Sea to Summit Ultra Flex Booties this year to see how durable they are.
 
-You can get the Sea to Summit Ultra Flex Booties on <a rel="nofollow" href="http://amzn.to/2uVlqoE" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Sea to Summit Ultra Flex Booties on <a rel="nofollow" href="http://amzn.to/2uVlqoE" target="_blank" rel="nofollow">Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

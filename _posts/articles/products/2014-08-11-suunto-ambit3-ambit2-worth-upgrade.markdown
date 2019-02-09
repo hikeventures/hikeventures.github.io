@@ -14,6 +14,7 @@ layout: post
 ---
 
 GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a color display.
+We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 However, my personal preference goes towards the <a rel="nofollow" href="http://amzn.to/2ey5Pmh"  target="_blank">Suunto Ambit3</a> or <a rel="nofollow" href="http://amzn.to/2eklrdT"  target="_blank">Suunto Traverse</a>.
 

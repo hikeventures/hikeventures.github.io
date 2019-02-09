@@ -14,7 +14,7 @@ layout: post
 image: https://farm5.staticflickr.com/4757/39766771144_fe0207826d_k.jpg
 ---
 
-In this blog post I would like to introduce you to my mobile audio recording equipment - the <a rel="nofollow" href="http://amzn.to/2BPlHgO" >Sound Devices MixPre-3</a>, <a rel="nofollow" href="http://amzn.to/2FthLSA" >
+In this blog post I would like to introduce you to my mobile audio recording equipment (we make a small commission for purchases made through the following links which helps us to keep this blog running) - the <a rel="nofollow" href="http://amzn.to/2BPlHgO" >Sound Devices MixPre-3</a>, <a rel="nofollow" href="http://amzn.to/2FthLSA" >
 Sennheiser MKE 600</a>, <a rel="nofollow" href="http://amzn.to/2EPLurN" >
 Rycote Super Softie</a> and the <a rel="nofollow"   href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>. I am not an professional when it comes to audio but just started with it as a hobby. There is also a [MixPre-3 preset](http://cdn.sounddevices.com/download/guides/MixPreSeries-SonyA7SR.pdf) available in case you want to syncronize your camera with the Timecode of the MixPre-3.
 

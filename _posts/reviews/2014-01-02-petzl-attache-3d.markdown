@@ -29,4 +29,4 @@ Attaching <a rel="nofollow" href="http://amzn.to/X0WwPY" target="_self">hiking b
 ## Recommendation
 I have not tried the carabiner for climbing so I am not able to say anything about it's climbing properties. It's a little bit expensive compared to other carabiners but I like the weight, look and that the gate barrel can be locked.
 
-You can get the Petzl Attache 3D on <a rel="nofollow" href="http://amzn.to/2f7NIH9" target="_blank" >Amazon</a>.
+You can get the Petzl Attache 3D on <a rel="nofollow" href="http://amzn.to/2f7NIH9" target="_blank" >Amazon</a>. We make a commission for purchases made through the previous link which helps us to keep this blog running.

@@ -51,4 +51,4 @@ I have tested the old model of the Petzl Nao headlamp on <a rel="nofollow" href=
 
 You may also consider a lighter headlamp if you don't need the power of the Petzl Nao. As I do packrafting, there might be also situations where we packraft till late into the night so a brighter headlamp is more useful for me to properly see whats in front of me. I also found it quite comfortable to go jogging with the Petzl Nao.
 
-You can get the Petzl Nao Headlamp on <a rel="nofollow" href="http://amzn.to/2hnB1IM" target="_blank" >Amazon</a>.
+You can get the Petzl Nao Headlamp on <a rel="nofollow" href="http://amzn.to/2hnB1IM" target="_blank" >Amazon</a>. We make a commission for purchases made through the previous link which helps us to keep this blog running.

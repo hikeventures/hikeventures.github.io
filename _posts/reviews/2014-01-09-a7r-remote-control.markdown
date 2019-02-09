@@ -24,4 +24,4 @@ Before you can actually use the remote control with the a7R you have to change t
 
 <img src="http://farm3.staticflickr.com/2829/11856929704_c0e64fb9db_c.jpg" alt="a7III  remote control setting">
 
-You can get the a7III remote Control on <a rel="nofollow" href="http://amzn.to/2vijaJ1" target="_blank" >Amazon</a>
+You can get the a7III remote Control on <a rel="nofollow" href="http://amzn.to/2vijaJ1" target="_blank" >Amazon</a>. We make a commission for purchases made through the previous link which helps us to keep this blog running.

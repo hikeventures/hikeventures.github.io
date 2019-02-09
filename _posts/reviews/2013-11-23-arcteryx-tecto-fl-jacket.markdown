@@ -31,4 +31,4 @@ However, If you are looking for a lighter jacket and if you are on a budget then
 
 I found the Montane Minimus jacket less durable than the Arc'teryx Tecto FL jacket but it's almost invisible in your backpack. My preference goes towards the Arc'teryx Tecto FL Jacket. I am also wearing the Tecto FL when I cycle to work during the winter time here in Finland.
 
-You can get the Arcteryx Tecto FL Jacket on <a rel="nofollow" href="http://amzn.to/2uYaiWl" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Arcteryx Tecto FL Jacket on <a rel="nofollow" href="http://amzn.to/2uYaiWl" target="_blank" rel="nofollow">Amazon</a>. We make a commission for purchases made through the previous link which helps us to keep this blog running.

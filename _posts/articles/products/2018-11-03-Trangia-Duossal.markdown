@@ -7,7 +7,7 @@ layout: post
 image: https://farm5.staticflickr.com/4897/30750600147_c89fd01713_k.jpg
 ---
 
-Recently, I received a new cooking set from Trangia which I am planning to use together with my <a href="https://amzn.to/2DkjImb" rel="nofollow">Bushcraft Essentials Bushbox LF Titanium</a> hobo stove (more about it below) but also on campsites with fireplaces or with a gas burner.
+Recently, I received a new cooking set from Trangia which I am planning to use together with my <a href="https://amzn.to/2DkjImb" rel="nofollow">Bushcraft Essentials Bushbox LF Titanium</a> hobo stove (more about it below) but also on campsites with fireplaces or with a gas burner. We make a commission for purchases made through the following links which will help us to keep this blog running.
   
 <img src="https://farm5.staticflickr.com/4897/30750600147_c89fd01713_k.jpg" width="2048" height="1365" alt="Trangia DUOSSAL 2.0">
   

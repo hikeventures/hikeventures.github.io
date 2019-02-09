@@ -45,4 +45,4 @@ The Primus PowerLighter is nice to hold in your hand. The rubbery material feels
 
 The Primus PowerLighter is a bit more expensive than regular matches or lighters. However, the quality and the option to recharge the lighter with your own gas canister makes it a solid choice to carry around in your backpack especially if you want to be on the safe side when the weather forecast is mixed or bad. So far I did not regret to purchase the Primus PowerLighter.
 
-You can get the Primus PowerLighter on <a rel="nofollow" href="http://amzn.to/2D1k50T" target="_blank" >Amazon</a>.
+You can get the Primus PowerLighter on <a rel="nofollow" href="http://amzn.to/2D1k50T" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

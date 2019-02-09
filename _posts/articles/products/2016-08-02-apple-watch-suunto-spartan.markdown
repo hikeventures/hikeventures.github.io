@@ -13,7 +13,7 @@ tags:
 image: https://c5.staticflickr.com/6/5450/9599011940_504b6d399e_k.jpg
 ---
 
-Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the Suunto Spartan HR.
+Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the Suunto Spartan HR. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 As I wear my watch mainly for running and hiking, I am interested in a product which is water resistant and offers a long battery life.
 

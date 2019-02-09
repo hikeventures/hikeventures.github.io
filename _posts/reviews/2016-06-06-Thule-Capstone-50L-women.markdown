@@ -61,4 +61,4 @@ Well, the tickets have been bought and the plans have been made (this year we ar
 
 <img src="https://c3.staticflickr.com/8/7489/26883581674_635501fe9b_b.jpg" width="100%" alt="Thule Capstone 50L Women hiking backpack in Japan">
 
-You can get the Thule Capstone backpack on <a rel="nofollow" href="http://amzn.to/2u3Gr1I" target="_blank" >Amazon</a>.
+You can get the Thule Capstone backpack on <a rel="nofollow" href="http://amzn.to/2u3Gr1I" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

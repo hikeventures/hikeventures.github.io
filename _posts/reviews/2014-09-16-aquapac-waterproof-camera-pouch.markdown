@@ -30,4 +30,4 @@ The Ortlieb camera bags seems to be a better alternative regarding accessing you
 
 The Aquapac  Waterproof Camera Pouch has 5 years warranty and is PVC free. The Aquapac customer service was also helpful. I always got an answer to my emails and was promised to send the pouch bag in case the size would be too small.
 
-You can get the Aquapac Waterproof Camera Pouch on <a rel="nofollow" href="http://amzn.to/2u3iw2z" target="_blank" >Amazon</a>.
+You can get the Aquapac Waterproof Camera Pouch on <a rel="nofollow" href="http://amzn.to/2u3iw2z" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

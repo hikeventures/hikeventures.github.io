@@ -36,10 +36,12 @@ The Solarmonkey Adventurer has a 2500 mAh lithium-ion polymer battery, which is 
 
 The Solar Panel seems to work quite to some extend and charges the battery if the sky is cloudy. However, this may take a couple of hours and you might only get a few percentages of battery power on your iPhone. There is a small LED on the Solarmonkey Adventurer which indicated if the battery is charging (red light) or if the battery is fully charged (green).
 
+The following links contain affiliate links. We make a small commission for purchases made through the following links which helps us to keep this blog running.
+
 So far, I have tested the Solarmonkey Adventurer with my iphone and my Sony A7r and it charges my devices to some degree. If you need more battery capacity then you could either go for the Solarmonkey Extreme or just get the Solarmonkey Adventurer and buy a seperate battery like the new <a rel="nofollow" href="http://amzn.to/1ijqER1" target="_blank">Anker Astro 2</a> or <a rel="nofollow" href="http://amzn.to/1iWleWN" target="_blank">Anker Astro Pro</a> with capacities up to 20.000 mAh (not tested if it works but should be no issue).
 
 <strong>Update 21.06.2014:</strong> After some testing, I was not able to charge my iPhone up to 100% if the battery of the Solar panel is charged with the Solar panels. I received a replacement and need to test the device again. Will write an update as soon as possible.
 
 <img src="https://farm8.staticflickr.com/7164/13913979456_20e1c44af1_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer">
 
-You can get the Solarmonkey Adventurer on <a rel="nofollow" href="http://amzn.to/2vhIwGV" target="_blank" >Amazon</a>
+You can get the Solarmonkey Adventurer on <a rel="nofollow" href="http://amzn.to/2vhIwGV" target="_blank" >Amazon</a> (affiliate link).

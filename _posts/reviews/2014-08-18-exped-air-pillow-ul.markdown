@@ -28,4 +28,4 @@ Quality and durability of the Air Pillow is also quite good and I am so far not 
 ---
 
 ## Recommendation
-I like the Exped Air Pillow UL. The pillow feels comfortable, packs small and seems to be durable. I would most probably buy it again. You can get the Exped Air Pillow UL on <a rel="nofollow" href="http://amzn.to/2uYjtGp" target="_blank" >Amazon</a>.
+I like the Exped Air Pillow UL. The pillow feels comfortable, packs small and seems to be durable. I would most probably buy it again. You can get the Exped Air Pillow UL on <a rel="nofollow" href="http://amzn.to/2uYjtGp" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

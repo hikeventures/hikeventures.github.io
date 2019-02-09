@@ -25,4 +25,4 @@ The Ortlieb Document case weights 80 grams, is minimalistic and has a waterproof
 ## Recommendation
 I have tested the Ortlieb Document Case A4 on <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Ortlieb Document Case A4 is great for any kind of outdoor activities in order to keep your map and other documents dry. It's also easy to get your documents in/out.
 
-You can find the Ortlieb Document Case on <a rel="nofollow" href="http://amzn.to/2vi8pGW" target="_blank" rel="nofollow">Amazon</a>.
+You can find the Ortlieb Document Case on <a rel="nofollow" href="http://amzn.to/2vi8pGW" target="_blank" rel="nofollow">Amazon</a>. We make a commission for purchases made through the previous link which helps us to keep this blog running.

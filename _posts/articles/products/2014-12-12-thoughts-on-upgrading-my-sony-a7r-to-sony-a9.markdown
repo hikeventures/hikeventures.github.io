@@ -13,7 +13,7 @@ layout: post
 image: https://farm3.staticflickr.com/2829/11856929704_8283086780_o.jpg
 ---
 
-After having used my Sony A7r for a year, I would say that I had quite a lot of fun with it. However, there were a few aspects which could be improved from my point of view and the rumored Sony A9 reinforced me in my decision in selling my Sony A7r.
+After having used my Sony A7r for a year, I would say that I had quite a lot of fun with it. However, there were a few aspects which could be improved from my point of view and the rumored Sony A9 reinforced me in my decision in selling my Sony A7r. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 <img src="https://farm3.staticflickr.com/2829/11856929704_8283086780_o.jpg"  width="1024" height="699" alt="Sony A7r LCD display">
 <br>

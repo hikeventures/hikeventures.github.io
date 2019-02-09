@@ -28,4 +28,4 @@ The Hubba Hubba packs small, weights only 1.54 kg and costs less than the Hilleb
 
 Anyways, have a look on our blog if you are interested in the Hubba Hubba NX for an extensive review in the near future. Unfortunately, we don't have the Hillebergs available to test but there may come a review in the future as well.
 
-You can get the Hilleberg Niak on <a rel="nofollow"  href="https://amzn.to/2LDYdR1">Amazon</a>.
+You can get the Hilleberg Niak on <a rel="nofollow"  href="https://amzn.to/2LDYdR1">Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

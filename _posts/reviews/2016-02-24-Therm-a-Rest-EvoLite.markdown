@@ -50,8 +50,9 @@ However, Patrick enjoyed the self-inflating capability of the EvoLite especially
 <img src="https://farm2.staticflickr.com/1474/24613671043_142fc8ba05_b.jpg" width="100%" alt="Therm-a-Rest EvoLite">
 
 ## Conclusion
-For those who don’t like to inflate sleeping pads, a self-inflating sleeping pad like the EvoLite might be a great solution depending where you are planning to use it. For warmer regions the <a rel="nofollow"  href="http://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=DLS6QGB2CPYI6H2G">Therm-a-Rest EvoLite</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is probably a great choice. If you are planning to travel to colder places I would rather take the <a rel="nofollow"  href="http://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=WRWW2DWHEYZIT5QG">Therm-a-Rest NeoAir XTherm</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> with me.
+
+For those who don’t like to inflate sleeping pads, a self-inflating sleeping pad like the EvoLite might be a great solution depending where you are planning to use it. For warmer regions the is probably a great choice. If you are planning to travel to colder places I would rather take the with me.
 
 The XTherm is somewhat lighter than the EvoLite and keeps you warm till deep into minus temperatures. The only downside of the XTherm is however that it is not a self-inflating sleeping pad. However, it can be used in a wider temperature range for almost the same weight.
 
-You can get the Therm-a-Rest EvoLite on <a rel="nofollow" href="http://amzn.to/2uVGF9Z" target="_blank" >Amazon</a>.
+You can get the Therm-a-Rest EvoLite on <a rel="nofollow" href="http://amzn.to/2uVGF9Z" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

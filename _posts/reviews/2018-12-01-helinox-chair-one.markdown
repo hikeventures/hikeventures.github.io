@@ -50,5 +50,5 @@ Would I take the Helinox Chair Zero on a trip in the mountains. Well, I am not s
 
 The Helinox Chair Zero can also be equipped with accessories such as ball feet, ground sheet or a seat warmer. You can also get the Helinox Table One if you are looking for a foldable and light (690 grams) camping table.
 
-You can get the Helinox Chair Zero <a href="https://amzn.to/2reh1KS" rel="nofollow">here</a>. More thoughts about the Helinox Chair Zero after more testing ...
+You can get the Helinox Chair Zero <a href="https://amzn.to/2reh1KS" rel="nofollow">here</a> (we make a small commission for purchases made through the previous link which helps us to keep this blog running). More thoughts about the Helinox Chair Zero after more testing ...
 <img src="https://farm5.staticflickr.com/4816/32456608308_0b02b6d63c_k.jpg" width="2048" height="1365" alt="Helinox Zero Chair">

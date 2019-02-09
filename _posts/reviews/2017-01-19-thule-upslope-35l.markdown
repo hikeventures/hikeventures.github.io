@@ -50,4 +50,4 @@ I have not tested yet to carry any skis or snowshoes with it. I have also not te
   
 I really like the Thule Upslope 35L backpack. It offers plenty of space and is comfortable to carry. The color looks great too and makes you visible in the snow. I think that it also has just the right size for a daypack.
   
-You can get the Thule Upslope on <a rel="nofollow" href="http://amzn.to/2w5WRE4" target="_blank" >Amazon</a>.
+You can get the Thule Upslope on <a rel="nofollow" href="http://amzn.to/2w5WRE4" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.

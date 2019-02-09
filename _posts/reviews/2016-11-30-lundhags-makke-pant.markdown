@@ -48,4 +48,4 @@ So what is the Lundhags Makke Pant made of? The pants consists of LPC (Lundhags 
 ## Conclusion
 Currently, the Lundhags Makke are our favorite pants. We like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner thighs are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with [shell boots](http://www.hikeventures.com/Lundhags-Jaure-Light/).
 
-You can get the Thule Makke Pants on <a rel="nofollow" href="http://amzn.to/2vsx1NI" target="_blank" >Amazon</a>.
+You can get the Thule Makke Pants on <a rel="nofollow" href="http://amzn.to/2vsx1NI" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.
