@@ -110,6 +110,9 @@ The computers we use are all encrypted using FileVault and are protected by a pa
 ## Affiliate Marketing
 On some of our pages you will find affiliate links. HikeVentures is a participant in [AvantLink](https://www.avantlink.com/privacy) and the [Amazon Services LLC Associates Program](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496) (find the respective privacy policies under each link), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear.
 
+Anytime you see a link that looks like http://astore.amazon.com/... or www.amazon.com/....
+​it is an Amazon affiliate link.
+
 ## How to complain
 
 We take complaints very seriously. If you’ve any reason to complain about the ways we handle your privacy, please contact Patrick Dormischian by email at contact@hikeventures.com or by phone on +358 50 3321290. If you’re the letter writing type, send your envelope to HikeVentures, Ylämaankatu 5, 04430 Järvenpää, Finland.

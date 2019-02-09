@@ -68,7 +68,7 @@ published: true
 Our Privacy Notice can be found <a href="http://www.hikeventures.com/privacy/">here</a>.
 
 			<h4>Affiliate Links</h4>
-			<p>On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear.</p>
+			<p>On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink Affiliate Network and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear. Anytime you see a link that looks like http://astore.amazon.com/... or www.amazon.com/.... ​it is an Amazon affiliate link.</p>
 			<h4>Disclaimer</h4>
 			<p>We do not guarantee for the correctness of the information on this website. Product recommendations are based on personal views. We are also not responsible for any injuries occurred by following our gear and activities advices. We are not responsible for the actions of your advertisers or sponsors. For example, when you buy a product or service based upon a link from your blog, you must take action with that exact company to resolve any issues, not with us. All the information provided on our blog is for entertainment purposes only.</p>
 			<h4>Reserve Rights</h4>
