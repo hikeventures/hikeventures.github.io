@@ -61,4 +61,4 @@ Size of the Thermos bottle Stainless Steel 1.2l (40 oz / 692 grams) compared to 
 ## Recommendation
 This bottle fits easily into any backpack and also has a useful handle. This Thermos bottle feels high quality and should last for a couple of years. Personally, I think smaller bottles than the 1l version does not make any sense since the weight difference is really not worth to mention and you can stay longer outdoors as well. Can't wait to use my Thermos bottle again on my next winter hiking trip.
 
-You can get the Thermos Bottle on <a rel="nofollow" href="http://amzn.to/2u3LbV2" target="_blank" >Amazon</a>.
+You can get the Thermos Bottle on <a rel="nofollow" href="http://amzn.to/2u3LbV2" target="_blank" >Amazon</a>. We make a small commission for purchases made through the previous link which helps us to keep this blog running.s

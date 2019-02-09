@@ -11,7 +11,7 @@ tags:
 # URL: http://www.hikeventures.com/best-camera-bags-cases/
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight camera bags for the Sony A7III, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
+Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight camera bags for the Sony A7III, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor). We make a commission for purchases made through the following links which will help us to keep this blog running.s
 
 I have created this list since I recently upgraded my camera to a Sony A7III and wanted to share my findings with you.
 
