@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Planning a hiking or backpacking trip to the backcountry or are you planning to travel abroad?
+Planning a hiking or backpacking trip to the backcountry or are you planning to travel abroad? We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Then you could have a look on the best outdoor toothbrushes which I have selected below which feature a compact design and are easy to pack.
 

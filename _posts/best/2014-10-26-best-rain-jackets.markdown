@@ -9,7 +9,7 @@ tags:
   - jackets
 layout: post
 ---
-Here is my [selection](#the-best-rain-jackets-of-2019) of the best rain jackets for 2019 which I would take on my next hiking or backpacking trip.
+Here is my [selection](#the-best-rain-jackets-of-2019) of the best rain jackets for 2019 which I would take on my next hiking or backpacking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 A rain jacket should always be in your backpack when you are planning to go outdoors. A rain jacket may also protect you from cold winds even if it is not raining.
 

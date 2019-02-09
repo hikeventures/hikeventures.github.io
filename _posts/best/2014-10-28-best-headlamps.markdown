@@ -9,7 +9,7 @@ tags:
   - lamps
 layout: post
 ---
-Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight headlamps for 2019 which I would consider taking to my next hiking, backpacking or camping trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight headlamps for 2019 which I would consider taking to my next hiking, backpacking or camping trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
 

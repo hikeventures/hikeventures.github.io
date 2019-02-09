@@ -9,7 +9,7 @@ tags:
   - scandinavia
 layout: post
 ---
-Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here comes our list of the 7 best places we have visited so far in Scandinavia to experience some outdoor adventures.
+Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here comes our list of the 7 best places we have visited so far in Scandinavia to experience some outdoor adventures. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 In case you want to visit some of those places make sure that you plan your route and gear in advance.
 

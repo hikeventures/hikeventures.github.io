@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best trekking and snowshoeing poles which I would consider to buy in 2019.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best trekking and snowshoeing poles which I would consider to buy in 2019. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Trekking poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow with your snowshoes.
 

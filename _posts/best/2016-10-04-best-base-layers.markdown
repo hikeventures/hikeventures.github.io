@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a>of the best merino wool base layers for 2019.
+Here is my <a rel="nofollow" href="#table">selection</a>of the best merino wool base layers for 2019. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering).
 

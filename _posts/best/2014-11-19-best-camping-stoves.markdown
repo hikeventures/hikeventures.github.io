@@ -9,9 +9,8 @@ tags:
   - stoves
 layout: post
 ---
-Here is my selection of the best camping stoves for 2019.
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best camping stoves for 2019
+Here is my <a rel="nofollow" href="#table">selection</a> of the best camping stoves for 2019. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 A portable and lightweight camping stove is one of the most essential item to have on your outdoor adventures to boil water for tea, coffee or dehydrated meals.
 

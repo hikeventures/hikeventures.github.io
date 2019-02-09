@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> the best backpacking tents for 2019 which I would consider buying for my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> the best backpacking tents for 2019 which I would consider buying for my next hiking or backpacking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 I have tested already a couple of tents on <a rel="nofollow" href="http://www.hikeventures.com/destinations/">our trips</a> in Europe, Scandinavia or Japan and realized that the best solution would be to have a tent for different seasons and environments.
 

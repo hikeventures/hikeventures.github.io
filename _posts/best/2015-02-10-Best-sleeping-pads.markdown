@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight sleeping pads and mats which I would consider to buy in 2019 for my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best lightweight sleeping pads and mats which I would consider to buy in 2019 for my next hiking or backpacking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure.
 

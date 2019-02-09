@@ -10,7 +10,7 @@ tags:
 layout: post
 # URL: http://www.hikeventures.com/best-windjackets/
 ---
-Here is my <a rel="nofollow" href="#table">selection</a> of the best wind jackets for 2019 which I would consider to take on my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best wind jackets for 2019 which I would consider to take on my next hiking or backpacking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 A lightweight wind jacket is probably one of the most useful pieces of clothes which you can pack into your backpack and it does not need much space either.
 

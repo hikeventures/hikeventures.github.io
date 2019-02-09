@@ -11,7 +11,7 @@ tags:
 layout: post
 ---
 
-Recently, I was looking for a new screen protector for my Sony A7III (could be also used on the new Sony A9) camera and here is a <a rel="nofollow" href="#table">list</a> of the best screen protectors I found online.
+Recently, I was looking for a new screen protector for my Sony A7III (could be also used on the new Sony A9) camera and here is a <a rel="nofollow" href="#table">list</a> of the best screen protectors I found online. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 I think that it's a quite good idea to have a protective film on your screen since it's just nicer to watch your pictures on a screen which does not have any scratches but also helps a bit  to keep the value of your camera.
 

@@ -11,7 +11,7 @@ tags:
   - watches
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a>  of the best outdoor watches for hiking and backpacking for 2019 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.
+Here is my <a rel="nofollow" href="#table">selection</a>  of the best outdoor watches for hiking and backpacking for 2019 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 At the moment I am wearing a Suunto Traverse which has a monochrome display and I am quite satisfied with it.
 

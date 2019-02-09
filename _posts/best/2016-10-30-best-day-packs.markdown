@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best day packs 2019 which I would consider carry if I were to buy a new one.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best day packs 2019 which I would consider carry if I were to buy a new one. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city.
 

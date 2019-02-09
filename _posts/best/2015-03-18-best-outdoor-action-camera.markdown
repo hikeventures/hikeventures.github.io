@@ -10,7 +10,7 @@ layout: post
 ---
 
 
-For our packrafting adventures I am always looking for the latest action camera developments for 2019.
+For our packrafting adventures I am always looking for the latest action camera developments for 2019. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V.
 

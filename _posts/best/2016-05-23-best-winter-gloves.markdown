@@ -10,7 +10,7 @@ tags:
   - best
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best ski gloves for 2019. Of course, you can also wear these gloves for snowboarding.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best ski gloves for 2019. Of course, you can also wear these gloves for snowboarding. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 <img src="https://farm2.staticflickr.com/1855/29463765917_8bc3d3ca37_b.jpg" width="1024" height="680" alt="est winter gloves for skiing and hiking 2019">
   

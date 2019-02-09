@@ -12,7 +12,7 @@ categories:
   - best
 ---
 
-In this blog post, I have <a rel="nofollow" href="#table">selected</a> the best down jackets of 2019 which I would consider buying if I were to get a new one for my next <a rel="nofollow" href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
+In this blog post, I have <a rel="nofollow" href="#table">selected</a> the best down jackets of 2019 which I would consider buying if I were to get a new one for my next <a rel="nofollow" href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 

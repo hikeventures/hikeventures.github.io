@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best snowshoes for 2019. which I would consider taking to my next winter adventures.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best snowshoes for 2019 which I would consider taking to my next winter adventures. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive.
 

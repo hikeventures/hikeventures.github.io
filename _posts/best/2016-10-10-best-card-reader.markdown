@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-If you recently got one of the latest laptops or a MacBook Pro 2019 you will probably need a USB-C to USB adapter or a dedicated USB-C card reader to read your SD or MicroSD cards.
+If you recently got one of the latest laptops or a MacBook Pro 2019 you will probably need a USB-C to USB adapter or a dedicated USB-C card reader to read your SD or MicroSD cards. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Some cameras also allow to wirelessly transfer data to the computer by using Wifi but this might be a slower option than transferring the data by using a card reader.
 

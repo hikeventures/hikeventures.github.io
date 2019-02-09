@@ -11,7 +11,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best backpacks which I would consider to take on my next pack rafting adventure.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best backpacks which I would consider to take on my next pack rafting adventure. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Having used the <a rel="nofollow" href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter 4400</a> for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market.
 

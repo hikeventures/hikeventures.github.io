@@ -11,7 +11,7 @@ tags:
 published: true
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best hiking boots for 2019 which I would consider to wear on my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best hiking boots for 2019 which I would consider to wear on my next hiking or backpacking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Hiking boots are important if you are planning to hike in the mountains or if you have to carry a heavy backpack. Moreover, they  should provide a good grip as well
 

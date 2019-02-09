@@ -11,7 +11,7 @@ layout: post
 # URL: http://www.hikeventures.com/best-light-hiking-shoes/
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best light hiking shoes for 2019.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best light hiking shoes for 2019. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 I was wearing light hiking shoes on my <a rel="nofollow" href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">hiking trip</a> in the Sarek National Park in Sweden.
 

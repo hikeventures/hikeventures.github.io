@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best backpacking water filters for 2019 which I would take with me on my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best backpacking water filters for 2019 which I would take with me on my next hiking or backpacking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 There are several solution on the market e.g. water filters where you have to pump water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
 

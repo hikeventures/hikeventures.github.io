@@ -10,7 +10,9 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best tripods which I would consider to buy for a Sony A7III, A9 or a6500. My person favorites are the <a rel="nofollow" href="http://amzn.to/2uIDsdU" target="_blank" >SLIK Mini Pro III</a> if I go hiking and the <a rel="nofollow" href="https://amzn.to/2OIymWU" target="_blank" >Manfrotto Befree </a> for more serious or creative stuff while traveling. If you don't mind the weight then the <a href="https://amzn.to/2DnMqmc" rel="nofollow">Manfrotto 190go!</a> offers the most flexibility for creativity of all tripods listed here.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best tripods which I would consider to buy for a Sony A7III, A9 or a6500. We make a commission for purchases made through the following links which will help us to keep this blog running.
+
+My person favorites are the <a rel="nofollow" href="http://amzn.to/2uIDsdU" target="_blank" >SLIK Mini Pro III</a> if I go hiking and the <a rel="nofollow" href="https://amzn.to/2OIymWU" target="_blank" >Manfrotto Befree </a> for more serious or creative stuff while traveling. If you don't mind the weight then the <a href="https://amzn.to/2DnMqmc" rel="nofollow">Manfrotto 190go!</a> offers the most flexibility for creativity of all tripods listed here.
 
 <img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best tripods for Sony a7, a9 or a6500" layout="responsive">
   

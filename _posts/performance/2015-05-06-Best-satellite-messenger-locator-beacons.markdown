@@ -12,7 +12,7 @@ layout: post
 # URL: http://www.hikeventures.com/Best-satellite-messenger-locator-beacons/
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best satellite messengers for 2018 (also called GPS Tracker or Personal Locator Beacon) which I would consider to carry on my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best satellite messengers for 2018 (also called GPS Tracker or Personal Locator Beacon) which I would consider to carry on my next hiking or backpacking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Satellite messengers are of particular importance if you plan to hike in a location without phone reception.
 

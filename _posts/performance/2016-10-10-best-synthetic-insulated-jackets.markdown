@@ -11,7 +11,7 @@ layout: post
 # URL: http://www.hikeventures.com/best-synthetic-insulated-jackets/
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a> of the best synthetic insulated jackets for 2019 which I would consider buying for my next winter or hiking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best synthetic insulated jackets for 2019 which I would consider buying for my next winter or hiking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 Wearing a synthetic insulated jacket over a <a rel="nofollow" href="http://www.hikeventures.com/best-down-jackets/">down jacket</a> can have several reasons.
 

@@ -9,7 +9,7 @@ tags:
   - wallet
 ---
 
-In this blog post I would like to present you with my selection of the best wallets for your next hiking or backpacking trip.
+In this blog post I would like to present you with my selection of the best wallets for your next hiking or backpacking trip. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 As with hiking clothes a wallet should be easy to clean, water resistant or dry fast.
 

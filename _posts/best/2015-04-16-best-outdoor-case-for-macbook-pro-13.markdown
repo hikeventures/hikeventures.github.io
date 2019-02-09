@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Recently, I was looking for a new case for my MacBook Pro 13" 2018 with Touch Bar which I can also take with me on light outdoor activities.
+Recently, I was looking for a new case for my MacBook Pro 13" 2018 with Touch Bar which I can also take with me on light outdoor activities. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
 I came across the Thule Gauntlet 13" MacBook Attaché which I found to be one of the best outdoor case to protect my MacBook Pro.
 

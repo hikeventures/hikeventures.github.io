@@ -10,9 +10,9 @@ tags:
 layout: post
 ---
 
-Here is my <a rel="nofollow" href="#table">selection</a>  of the best lightweight fleece jackets for 2019 which I would consider to buy for my next hiking or backpacking adventure.
+Here is my <a rel="nofollow" href="#table">selection</a>  of the best lightweight fleece jackets for 2019 which I would consider to buy for my next hiking or backpacking adventure. We make a commission for purchases made through the following links which will help us to keep this blog running.
 
-Here is my [selection](#the-best-fleece-jackets-of-2019) of the best lightweight fleece jackets for 2017 - 2019 which I would consider to buy for my next hiking or backpacking adventure.
+Here is my [selection](#the-best-fleece-jackets-of-2019) of the best lightweight fleece jackets for 2017 - 2019 which I would consider to buy for my next hiking or backpacking adventure. 
 
 For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it’s insulation once it’s wet. An alternative to a fleece jacket would be a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) which has the advantage of being windproof.
 
