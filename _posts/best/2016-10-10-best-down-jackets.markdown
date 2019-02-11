@@ -100,7 +100,6 @@ The jacket comes with a box wall construction meaning less cold spots and more l
 
 The Ceres SV Parka offers an excellent warmth-to-weight ratio, compressibility, and packability.
 
-<a rel="nofollow" href="http://amzn.to/2x3LPyA" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
 <hr>
@@ -125,7 +124,6 @@ There is also an insulated StormHood™, adjustable hood and hem drawcord and el
 
 The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line.
 
-<a rel="nofollow" href="http://amzn.to/2x3ri1S" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
 <hr>
@@ -144,7 +142,6 @@ A baffle structure keeps the 850 down fill lofty and the down insulated StormHoo
 
 Synthetic insulation is strategically used in parts of this jacket as well.
 
-<a rel="nofollow" href="http://amzn.to/2xMTnta" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
 <hr>
@@ -158,8 +155,6 @@ Synthetic insulation is strategically used in parts of this jacket as well.
 The Berghaus Tephra Down Jacket is a less technical jacket but comes with a modern design. There are two versions available (stretch/non-stretch version) of this jacket. Both versions are filled with hydrophic down  made by NikWax® which makes the jacket more resistant under wet conditions (up to 16 hours when wet according to the manufacurer). The jacket with the stretch fabric also comes with fleece inlets under the arms.
 
 The outer layer of the jacket is made of Pertex to keep cold wind out.
-
-<a rel="nofollow" href="http://amzn.to/2Bmng2T" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
 <hr>
@@ -183,7 +178,6 @@ The Canada Goose ARCTIC TECH fabric Water Resistant is wind, and water resistant
 
 The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined chin guard, interior back pack shoulder straps, six exterior pockets, four large handwarmer pockets, two interior pockets, an adjustable waist drawcords as well as a hideaway snow skirt.
 
-<a rel="nofollow" href="http://amzn.to/2xRm74r" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -199,7 +193,6 @@ The polyester fabric has a DWR (Durable Water Repellent) finish. The jacket come
 
 The jacket also features hook-and-loop cuffs, an elastic drawcord hem, and its design adjusts to your movements.
 
-<a rel="nofollow" href="http://amzn.to/2xNa8nM" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
 <hr>
@@ -218,7 +211,6 @@ We would wear the Marmot Quasar Hoody as a mid-layer under a shell during modera
 
 The jacket adjusts to your movements and features an elastic draw cord hem and cuss as well as an adjustable hood. You can also pack the jacket into its pocket.
 
-<a rel="nofollow" href="http://amzn.to/2yfCetq" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -240,7 +232,6 @@ If you are looking for a proper winter jacket, then we would rather pick the Rab
 
 See the Men’s Mountain Hardware Ghost Whisperer See the Women’s Mountain Hardware Ghost Whisperer
 
-<a rel="nofollow" href="http://amzn.to/2x2gQrn" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -257,7 +248,6 @@ The jacket is filled with NikWax Hydrophobic Down 800-fill and is fluorine free.
 
 The jacket also comes with zippered handwarmer pockets, zippered left chest pocket, and two interior drop pockets.
 
-<a rel="nofollow" href="http://amzn.to/2CZ96oC" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -277,7 +267,6 @@ Further, the Fabric is certified as bluesign® approved.
 
 Wear the Patagonia Ultralight Down Hoodie as a mid layer during the winter months or on chilly evenings during spring and summer.
 
-<a rel="nofollow" href="http://amzn.to/2fyMvFX" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -299,7 +288,6 @@ However, if you need a warmer jacket, then the Rab Positron Jacket would probabl
 
 See the Men’s Rab Infinity Endurance See the Women’s Rab Infinity Endurance
 
-<a rel="nofollow" href="http://amzn.to/2yeSfzF" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -317,7 +305,6 @@ The jacket features a stitch through midi channel construction, two zip handwarm
 
 Further, the jacket is also RDS Certified (Responsible Down Standard).
 
-<a rel="nofollow" href="http://amzn.to/2yeRWVx" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -334,7 +321,6 @@ stitch through midi channel construction, 2 zip handwarmer pockets, semi-elastic
 
 Further, the jacket is also RDS Certified (Responsible Down Standard).
 
-<a rel="nofollow" href="http://amzn.to/2xN8VwP" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
