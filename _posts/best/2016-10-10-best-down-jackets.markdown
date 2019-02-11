@@ -31,45 +31,45 @@ A down jacket is an essential piece of clothes when planning an overnight trip o
         </thead>
         <tbody>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2x2gQrn" target="_blank" >Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)</a></td><td>7.5 oz. / 212 grams</td>
+          <td>Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)</td><td>7.5 oz. / 212 grams</td>
         </tr>
        <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2x3ri1S" target="_blank" >Arcteryx Cerium LT Hoody (850-fill)</a></td><td>9.7 oz. / 275 grams</td>
+          <td>Arcteryx Cerium LT Hoody (850-fill)</td><td>9.7 oz. / 275 grams</td>
         </tr>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2fyMvFX" target="_blank" >Patagonia Ultralight Down Hoodie (800-fill)</a></td><td>10.5 oz. / 298 grams</td>
+          <td>Patagonia Ultralight Down Hoodie (800-fill)</td><td>10.5 oz. / 298 grams</td>
         </tr>
        <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2xN8VwP" target="_blank" >Rab Zero G (1000 fill)</a></td><td>11 oz. / 310 grams</td>
+          <td>Rab Zero G (1000 fill)</td><td>11 oz. / 310 grams</td>
         </tr>
 
         <tr>
-           <td><a rel="nofollow" href="http://amzn.to/2CZ96oC" target="_blank" >Mountain Hardwear Nitrous Hooded Down Jacket (800-fill)</a></td><td>11.6 oz. / 328 grams</td>
+           <td>Mountain Hardwear Nitrous Hooded Down Jacket (800-fill)</td><td>11.6 oz. / 328 grams</td>
          </tr>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2yfCetq" target="_blank" >Marmot Quasar Hoody (850-fill)</a></td><td>13.1 oz. / 372 grams</td>
+          <td>Marmot Quasar Hoody (850-fill)</td><td>13.1 oz. / 372 grams</td>
         </tr>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2xMTnta" target="_blank" >Arcteryx Cerium SV Hoody (850-fill)</a></td><td>15.5 oz. / 440 grams</td>
+          <td>Arcteryx Cerium SV Hoody (850-fill)</td><td>15.5 oz. / 440 grams</td>
         </tr>
 
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2Bmng2T" target="_blank" >Berghaus Tephra Stretch Down Jacket (600-fill)</a></td><td>16.3 oz. / 463 grams</td>
+          <td>Berghaus Tephra Stretch Down Jacket (600-fill)</td><td>16.3 oz. / 463 grams</td>
         </tr>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2yeSfzF" target="_blank" >Rab Infinity Endurance Jacket (850-fill)</a></td><td>20.5 oz. / 575 grams</td>
+          <td>Rab Infinity Endurance Jacket (850-fill)</td><td>20.5 oz. / 575 grams</td>
         </tr>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2xNa8nM" target="_blank" >Marmot Guides Down Hoodie (700-fill)</a></td><td>23 oz. /  652 grams</td>
+          <td>Marmot Guides Down Hoodie (700-fill)</td><td>23 oz. /  652 grams</td>
         </tr>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2yeRWVx" target="_blank" >Rab Positron Jacket (800-fill)</a></td><td>25.4 oz. / 720 grams</td>
+          <td>Rab Positron Jacket (800-fill)</td><td>25.4 oz. / 720 grams</td>
         </tr>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2x3LPyA" target="_blank" >Arc'teryx Ceres SV Parka (850-fill)</a></td><td>31 oz. / 880 grams</td>
+          <td>Arc'teryx Ceres SV Parka (850-fill)</td><td>31 oz. / 880 grams</td>
         </tr>
         <tr>
-          <td><a rel="nofollow" href="http://amzn.to/2xRm74r" target="_blank" >Canada Goose Expedition Parka (625-fill)</a></td><td>73 oz. / 2070 grams</td>
+          <td>Canada Goose Expedition Parka (625-fill)</td><td>73 oz. / 2070 grams</td>
         </tr>
         </tbody>
       </table>
